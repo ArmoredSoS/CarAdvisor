@@ -1,0 +1,127 @@
+[
+  {
+    "id": "intent_001",
+    "user_input": "I'm looking for a new car",
+    "expected_intent": "car_search"
+  },
+  {
+    "id": "intent_002",
+    "user_input": "I want a used SUV for my family under 40000 euros",
+    "expected_intent": "car_search"
+  },
+  {
+    "id": "intent_003",
+    "user_input": "Show me some city cars with high fuel efficiency",
+    "expected_intent": "car_search"
+  },
+  {
+    "id": "intent_004",
+    "user_input": "I need an electric hatchback for daily commuting",
+    "expected_intent": "car_search"
+  },
+  {
+    "id": "intent_005",
+    "user_input": "What can you tell me about the BMW 3 Series?",
+    "expected_intent": "car_info"
+  },
+  {
+    "id": "intent_006",
+    "user_input": "Tell me about the Toyota Yaris Hybrid",
+    "expected_intent": "car_info"
+  },
+  {
+    "id": "intent_007",
+    "user_input": "What are the specs of the Volkswagen Golf?",
+    "expected_intent": "car_info"
+  },
+  {
+    "id": "intent_008",
+    "user_input": "Give me info about the Land Rover Discovery",
+    "expected_intent": "car_info"
+  },
+  {
+    "id": "intent_009",
+    "user_input": "Compare the BMW 3 Series and the Audi A4",
+    "expected_intent": "car_comparison"
+  },
+  {
+    "id": "intent_010",
+    "user_input": "What's the difference between the Fiat Panda and the Volkswagen Polo?",
+    "expected_intent": "car_comparison"
+  },
+  {
+    "id": "intent_011",
+    "user_input": "Can you compare the Volvo XC60 and the Audi Q5 for me?",
+    "expected_intent": "car_comparison"
+  },
+  {
+    "id": "intent_012",
+    "user_input": "BMW X5 vs Mercedes-Benz GLE, which is better?",
+    "expected_intent": "car_comparison"
+  },
+  {
+    "id": "intent_013",
+    "user_input": "What's the weather like today?",
+    "expected_intent": "ignore_message"
+  },
+  {
+    "id": "intent_014",
+    "user_input": "Tell me a joke",
+    "expected_intent": "ignore_message"
+  },
+  {
+    "id": "intent_015",
+    "user_input": "How do I cook pasta?",
+    "expected_intent": "ignore_message"
+  },
+  {
+    "id": "intent_016",
+    "user_input": "What is the capital of France?",
+    "expected_intent": "ignore_message"
+  },
+  {
+    "id": "intent_017",
+    "user_input": "I need something cheap and small for getting around the city",
+    "expected_intent": "car_search"
+  },
+  {
+    "id": "intent_018",
+    "user_input": "Looking for a premium sports car, budget is not a concern",
+    "expected_intent": "car_search"
+  },
+  {
+    "id": "intent_019",
+    "user_input": "Details on the Ferrari 488 please",
+    "expected_intent": "car_info"
+  },
+  {
+    "id": "intent_020",
+    "user_input": "How does the Porsche Cayenne compare to the BMW X5?",
+    "expected_intent": "car_comparison"
+  },
+  {
+    "id": "intent_021",
+    "user_input": "I want a rugged off-road diesel SUV",
+    "expected_intent": "car_search"
+  },
+  {
+    "id": "intent_022",
+    "user_input": "Hello, how are you?",
+    "expected_intent": "ignore_message"
+  },
+  {
+    "id": "intent_023",
+    "user_input": "Find me an eco-friendly family car under 55000",
+    "expected_intent": "car_search"
+  },
+  {
+    "id": "intent_024",
+    "user_input": "Fiat Panda vs Renault Clio vs Opel Corsa",
+    "expected_intent": "car_comparison"
+  },
+  {
+    "id": "intent_025",
+    "user_input": "What do you know about the Peugeot 208?",
+    "expected_intent": "car_info"
+  }
+]
