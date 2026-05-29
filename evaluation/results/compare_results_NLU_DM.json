@@ -1,0 +1,932 @@
+{
+  "global_retrieval_precision": 0.9,
+  "global_retrieval_recall": 0.9,
+  "global_retrieval_f1": 0.9,
+  "global_attribute_correctness_rate": 1.0,
+  "global_hallucination_rate": 0.2,
+  "parse_errors": [
+    {
+      "id": "comp_008",
+      "error": "DM rejected comparison_cars after NLU extraction"
+    },
+    {
+      "id": "comp_009",
+      "error": "DM rejected comparison_cars after NLU extraction"
+    }
+  ],
+  "per_sample": [
+    {
+      "id": "comp_001",
+      "description": "Compare two luxury sedans",
+      "extracted_cars": [
+        "BMW 3 Series",
+        "Audi A4"
+      ],
+      "retrieved_cars": [
+        "BMW 3 Series",
+        "Audi A4"
+      ],
+      "hallucinated_cars": [],
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "retrieval_f1": 1.0,
+      "attribute_correctness_rate": 1.0,
+      "attribute_details": {
+        "BMW 3 Series": {
+          "car_price": {
+            "expected": 45000,
+            "retrieved": 45000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "sedan",
+            "retrieved": "sedan",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "gasoline",
+            "retrieved": "gasoline",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "luxury",
+            "retrieved": "luxury",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "compact",
+            "retrieved": "compact",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "medium",
+            "retrieved": "medium",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "sleek",
+            "retrieved": "sleek",
+            "correct": true
+          }
+        },
+        "Audi A4": {
+          "car_price": {
+            "expected": 48000,
+            "retrieved": 48000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "sedan",
+            "retrieved": "sedan",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "hybrid",
+            "retrieved": "hybrid",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "luxury",
+            "retrieved": "luxury",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "compact",
+            "retrieved": "compact",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "high",
+            "retrieved": "high",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "sleek",
+            "retrieved": "sleek",
+            "correct": true
+          }
+        }
+      },
+      "note": ""
+    },
+    {
+      "id": "comp_002",
+      "description": "Compare two city hatchbacks",
+      "extracted_cars": [
+        "Fiat Panda",
+        "Volkswagen Polo"
+      ],
+      "retrieved_cars": [
+        "Fiat Panda",
+        "Volkswagen Polo"
+      ],
+      "hallucinated_cars": [],
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "retrieval_f1": 1.0,
+      "attribute_correctness_rate": 1.0,
+      "attribute_details": {
+        "Fiat Panda": {
+          "car_price": {
+            "expected": 15000,
+            "retrieved": 15000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "hatchback",
+            "retrieved": "hatchback",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "gasoline",
+            "retrieved": "gasoline",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "city",
+            "retrieved": "city",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "sub-compact",
+            "retrieved": "sub-compact",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "high",
+            "retrieved": "high",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "classic",
+            "retrieved": "classic",
+            "correct": true
+          }
+        },
+        "Volkswagen Polo": {
+          "car_price": {
+            "expected": 17000,
+            "retrieved": 17000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "hatchback",
+            "retrieved": "hatchback",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "gasoline",
+            "retrieved": "gasoline",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "city",
+            "retrieved": "city",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "sub-compact",
+            "retrieved": "sub-compact",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "high",
+            "retrieved": "high",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "classic",
+            "retrieved": "classic",
+            "correct": true
+          }
+        }
+      },
+      "note": ""
+    },
+    {
+      "id": "comp_003",
+      "description": "Compare two large luxury SUVs",
+      "extracted_cars": [
+        "BMW X5",
+        "Mercedes-Benz GLE"
+      ],
+      "retrieved_cars": [
+        "BMW X5",
+        "Mercedes-Benz GLE"
+      ],
+      "hallucinated_cars": [],
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "retrieval_f1": 1.0,
+      "attribute_correctness_rate": 1.0,
+      "attribute_details": {
+        "BMW X5": {
+          "car_price": {
+            "expected": 70000,
+            "retrieved": 70000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "suv",
+            "retrieved": "suv",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "diesel",
+            "retrieved": "diesel",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "luxury",
+            "retrieved": "luxury",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "full-size",
+            "retrieved": "full-size",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "medium",
+            "retrieved": "medium",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "sleek",
+            "retrieved": "sleek",
+            "correct": true
+          }
+        },
+        "Mercedes-Benz GLE": {
+          "car_price": {
+            "expected": 75000,
+            "retrieved": 75000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "suv",
+            "retrieved": "suv",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "gasoline",
+            "retrieved": "gasoline",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "luxury",
+            "retrieved": "luxury",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "full-size",
+            "retrieved": "full-size",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "low",
+            "retrieved": "low",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "sleek",
+            "retrieved": "sleek",
+            "correct": true
+          }
+        }
+      },
+      "note": ""
+    },
+    {
+      "id": "comp_004",
+      "description": "Compare three city hatchbacks",
+      "extracted_cars": [
+        "Renault Clio",
+        "Opel Corsa",
+        "Seat Ibiza"
+      ],
+      "retrieved_cars": [
+        "Renault Clio",
+        "Opel Corsa",
+        "Seat Ibiza"
+      ],
+      "hallucinated_cars": [],
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "retrieval_f1": 1.0,
+      "attribute_correctness_rate": 1.0,
+      "attribute_details": {
+        "Renault Clio": {
+          "car_price": {
+            "expected": 18000,
+            "retrieved": 18000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "hatchback",
+            "retrieved": "hatchback",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "gasoline",
+            "retrieved": "gasoline",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "city",
+            "retrieved": "city",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "sub-compact",
+            "retrieved": "sub-compact",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "high",
+            "retrieved": "high",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "classic",
+            "retrieved": "classic",
+            "correct": true
+          }
+        },
+        "Opel Corsa": {
+          "car_price": {
+            "expected": 16000,
+            "retrieved": 16000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "hatchback",
+            "retrieved": "hatchback",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "gasoline",
+            "retrieved": "gasoline",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "city",
+            "retrieved": "city",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "sub-compact",
+            "retrieved": "sub-compact",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "high",
+            "retrieved": "high",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "classic",
+            "retrieved": "classic",
+            "correct": true
+          }
+        },
+        "Seat Ibiza": {
+          "car_price": {
+            "expected": 16500,
+            "retrieved": 16500,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "hatchback",
+            "retrieved": "hatchback",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "gasoline",
+            "retrieved": "gasoline",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "city",
+            "retrieved": "city",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "sub-compact",
+            "retrieved": "sub-compact",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "high",
+            "retrieved": "high",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "sleek",
+            "retrieved": "sleek",
+            "correct": true
+          }
+        }
+      },
+      "note": ""
+    },
+    {
+      "id": "comp_005",
+      "description": "Compare two off-road SUVs",
+      "extracted_cars": [
+        "Land Rover Discovery",
+        "Land Rover Defender"
+      ],
+      "retrieved_cars": [
+        "Land Rover Discovery",
+        "Land Rover Defender"
+      ],
+      "hallucinated_cars": [],
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "retrieval_f1": 1.0,
+      "attribute_correctness_rate": 1.0,
+      "attribute_details": {
+        "Land Rover Discovery": {
+          "car_price": {
+            "expected": 80000,
+            "retrieved": 80000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "suv",
+            "retrieved": "suv",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "diesel",
+            "retrieved": "diesel",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "off-road",
+            "retrieved": "off-road",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "full-size",
+            "retrieved": "full-size",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "low",
+            "retrieved": "low",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "rugged",
+            "retrieved": "rugged",
+            "correct": true
+          }
+        },
+        "Land Rover Defender": {
+          "car_price": {
+            "expected": 60000,
+            "retrieved": 60000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "suv",
+            "retrieved": "suv",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "diesel",
+            "retrieved": "diesel",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "off-road",
+            "retrieved": "off-road",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "full-size",
+            "retrieved": "full-size",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "low",
+            "retrieved": "low",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "rugged",
+            "retrieved": "rugged",
+            "correct": true
+          }
+        }
+      },
+      "note": ""
+    },
+    {
+      "id": "comp_006",
+      "description": "Compare two electric city cars",
+      "extracted_cars": [
+        "Peugeot 208",
+        "Fiat 500e"
+      ],
+      "retrieved_cars": [
+        "Peugeot 208",
+        "Fiat 500e"
+      ],
+      "hallucinated_cars": [],
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "retrieval_f1": 1.0,
+      "attribute_correctness_rate": 1.0,
+      "attribute_details": {
+        "Peugeot 208": {
+          "car_price": {
+            "expected": 19000,
+            "retrieved": 19000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "hatchback",
+            "retrieved": "hatchback",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "electric",
+            "retrieved": "electric",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "city",
+            "retrieved": "city",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "sub-compact",
+            "retrieved": "sub-compact",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "high",
+            "retrieved": "high",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "sleek",
+            "retrieved": "sleek",
+            "correct": true
+          }
+        },
+        "Fiat 500e": {
+          "car_price": {
+            "expected": 26000,
+            "retrieved": 26000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "hatchback",
+            "retrieved": "hatchback",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "electric",
+            "retrieved": "electric",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "city",
+            "retrieved": "city",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "sub-compact",
+            "retrieved": "sub-compact",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "high",
+            "retrieved": "high",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "classic",
+            "retrieved": "classic",
+            "correct": true
+          }
+        }
+      },
+      "note": ""
+    },
+    {
+      "id": "comp_007",
+      "description": "Compare two supercars",
+      "extracted_cars": [
+        "Ferrari 488",
+        "Lamborghini Huracan"
+      ],
+      "retrieved_cars": [
+        "Ferrari 488",
+        "Lamborghini Huracan"
+      ],
+      "hallucinated_cars": [],
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "retrieval_f1": 1.0,
+      "attribute_correctness_rate": 1.0,
+      "attribute_details": {
+        "Ferrari 488": {
+          "car_price": {
+            "expected": 350000,
+            "retrieved": 350000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "coupe",
+            "retrieved": "coupe",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "gasoline",
+            "retrieved": "gasoline",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "sports",
+            "retrieved": "sports",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "compact",
+            "retrieved": "compact",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "low",
+            "retrieved": "low",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "sleek",
+            "retrieved": "sleek",
+            "correct": true
+          }
+        },
+        "Lamborghini Huracan": {
+          "car_price": {
+            "expected": 400000,
+            "retrieved": 400000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "coupe",
+            "retrieved": "coupe",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "gasoline",
+            "retrieved": "gasoline",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "sports",
+            "retrieved": "sports",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "compact",
+            "retrieved": "compact",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "low",
+            "retrieved": "low",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "sleek",
+            "retrieved": "sleek",
+            "correct": true
+          }
+        }
+      },
+      "note": ""
+    },
+    {
+      "id": "comp_008",
+      "description": "Compare a car not in dataset (hallucination test)",
+      "extracted_cars": [
+        "Toyota Supra",
+        "Nissan GT-R"
+      ],
+      "retrieved_cars": [],
+      "hallucinated_cars": [
+        "toyota supra",
+        "nissan gt-r"
+      ],
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "retrieval_f1": 1.0,
+      "attribute_correctness_rate": null,
+      "attribute_details": {},
+      "note": "Neither car is in the dataset. System should handle gracefully \u2014 no hallucinated data."
+    },
+    {
+      "id": "comp_009",
+      "description": "One car in dataset, one not (partial hallucination test)",
+      "extracted_cars": [
+        "Volkswagen Golf",
+        "Honda Civic"
+      ],
+      "retrieved_cars": [],
+      "hallucinated_cars": [
+        "honda civic"
+      ],
+      "retrieval_precision": 0.0,
+      "retrieval_recall": 0.0,
+      "retrieval_f1": 0.0,
+      "attribute_correctness_rate": null,
+      "attribute_details": {},
+      "note": "Honda Civic is not in the dataset. System should not invent attributes for it."
+    },
+    {
+      "id": "comp_010",
+      "description": "Compare two family mid-size SUVs",
+      "extracted_cars": [
+        "Volvo XC60",
+        "Audi Q5"
+      ],
+      "retrieved_cars": [
+        "Volvo XC60",
+        "Audi Q5"
+      ],
+      "hallucinated_cars": [],
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "retrieval_f1": 1.0,
+      "attribute_correctness_rate": 1.0,
+      "attribute_details": {
+        "Volvo XC60": {
+          "car_price": {
+            "expected": 55000,
+            "retrieved": 55000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "suv",
+            "retrieved": "suv",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "hybrid",
+            "retrieved": "hybrid",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "family",
+            "retrieved": "family",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "mid-size",
+            "retrieved": "mid-size",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "medium",
+            "retrieved": "medium",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "sleek",
+            "retrieved": "sleek",
+            "correct": true
+          }
+        },
+        "Audi Q5": {
+          "car_price": {
+            "expected": 60000,
+            "retrieved": 60000,
+            "correct": true
+          },
+          "car_type": {
+            "expected": "suv",
+            "retrieved": "suv",
+            "correct": true
+          },
+          "fuel_type": {
+            "expected": "hybrid",
+            "retrieved": "hybrid",
+            "correct": true
+          },
+          "car_usecase": {
+            "expected": "family",
+            "retrieved": "family",
+            "correct": true
+          },
+          "car_state": {
+            "expected": "new",
+            "retrieved": "new",
+            "correct": true
+          },
+          "car_dimensions": {
+            "expected": "mid-size",
+            "retrieved": "mid-size",
+            "correct": true
+          },
+          "fuel_efficiency": {
+            "expected": "medium",
+            "retrieved": "medium",
+            "correct": true
+          },
+          "car_design": {
+            "expected": "sleek",
+            "retrieved": "sleek",
+            "correct": true
+          }
+        }
+      },
+      "note": ""
+    }
+  ]
+}

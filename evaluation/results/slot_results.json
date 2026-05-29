@@ -1,0 +1,302 @@
+{
+  "exact_match_accuracy": 0.6,
+  "micro_precision": 0.9285714285714286,
+  "micro_recall": 0.9285714285714286,
+  "micro_f1": 0.9285714285714286,
+  "per_slot": {
+    "car_type": {
+      "precision": 0.8333333333333334,
+      "recall": 1.0,
+      "f1": 0.9090909090909091,
+      "tp": 10,
+      "fp": 2,
+      "fn": 0,
+      "tn": 3
+    },
+    "car_price": {
+      "precision": 0.8571428571428571,
+      "recall": 0.8571428571428571,
+      "f1": 0.8571428571428571,
+      "tp": 6,
+      "fp": 1,
+      "fn": 1,
+      "tn": 7
+    },
+    "car_state": {
+      "precision": 1.0,
+      "recall": 0.8571428571428571,
+      "f1": 0.923076923076923,
+      "tp": 6,
+      "fp": 0,
+      "fn": 1,
+      "tn": 8
+    },
+    "car_usecase": {
+      "precision": 1.0,
+      "recall": 0.8181818181818182,
+      "f1": 0.9,
+      "tp": 9,
+      "fp": 0,
+      "fn": 2,
+      "tn": 4
+    },
+    "fuel_type": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 8,
+      "fp": 0,
+      "fn": 0,
+      "tn": 7
+    },
+    "car_brand": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 2,
+      "fp": 0,
+      "fn": 0,
+      "tn": 13
+    },
+    "car_dimensions": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 5,
+      "fp": 0,
+      "fn": 0,
+      "tn": 10
+    },
+    "fuel_efficiency": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1": 0.8571428571428571,
+      "tp": 3,
+      "fp": 1,
+      "fn": 0,
+      "tn": 11
+    },
+    "car_design": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "tn": 12
+    }
+  },
+  "parse_errors": [],
+  "per_sample": [
+    {
+      "id": "slots_001",
+      "slots": {
+        "car_type": "TP",
+        "car_price": "TP",
+        "car_state": "TP",
+        "car_usecase": "TP",
+        "fuel_type": "TN",
+        "car_brand": "TN",
+        "car_dimensions": "TN",
+        "fuel_efficiency": "TN",
+        "car_design": "TN"
+      }
+    },
+    {
+      "id": "slots_002",
+      "slots": {
+        "car_type": "TP",
+        "car_price": "TN",
+        "car_state": "TN",
+        "car_usecase": "TN",
+        "fuel_type": "TP",
+        "car_brand": "TN",
+        "car_dimensions": "TN",
+        "fuel_efficiency": "TP",
+        "car_design": "TN"
+      }
+    },
+    {
+      "id": "slots_003",
+      "slots": {
+        "car_type": "TP",
+        "car_price": "TP",
+        "car_state": "TP",
+        "car_usecase": "TP",
+        "fuel_type": "TP",
+        "car_brand": "TN",
+        "car_dimensions": "TN",
+        "fuel_efficiency": "TN",
+        "car_design": "TN"
+      }
+    },
+    {
+      "id": "slots_004",
+      "slots": {
+        "car_type": "TP",
+        "car_price": "TN",
+        "car_state": "TN",
+        "car_usecase": "TP",
+        "fuel_type": "TP",
+        "car_brand": "TN",
+        "car_dimensions": "TP",
+        "fuel_efficiency": "TN",
+        "car_design": "TP"
+      }
+    },
+    {
+      "id": "slots_005",
+      "slots": {
+        "car_type": "TN",
+        "car_price": "TN",
+        "car_state": "TN",
+        "car_usecase": "TN",
+        "fuel_type": "TN",
+        "car_brand": "TP",
+        "car_dimensions": "TN",
+        "fuel_efficiency": "TN",
+        "car_design": "TN"
+      }
+    },
+    {
+      "id": "slots_006",
+      "slots": {
+        "car_type": "FP (hallucinated=hatchback)",
+        "car_price": "FP (hallucinated=20000)",
+        "car_state": "TN",
+        "car_usecase": "TP",
+        "fuel_type": "TN",
+        "car_brand": "TN",
+        "car_dimensions": "TP",
+        "fuel_efficiency": "TN",
+        "car_design": "TN"
+      }
+    },
+    {
+      "id": "slots_007",
+      "slots": {
+        "car_type": "TP",
+        "car_price": "TP",
+        "car_state": "TP",
+        "car_usecase": "TP",
+        "fuel_type": "TP",
+        "car_brand": "TN",
+        "car_dimensions": "TP",
+        "fuel_efficiency": "TN",
+        "car_design": "TN"
+      }
+    },
+    {
+      "id": "slots_008",
+      "slots": {
+        "car_type": "FP (hallucinated=off-road)",
+        "car_price": "TN",
+        "car_state": "TP",
+        "car_usecase": "FN (exp=off-road)",
+        "fuel_type": "TN",
+        "car_brand": "TN",
+        "car_dimensions": "TN",
+        "fuel_efficiency": "TP",
+        "car_design": "TP"
+      }
+    },
+    {
+      "id": "slots_009",
+      "slots": {
+        "car_type": "TP",
+        "car_price": "TP",
+        "car_state": "TN",
+        "car_usecase": "TP",
+        "fuel_type": "TN",
+        "car_brand": "TN",
+        "car_dimensions": "TN",
+        "fuel_efficiency": "FP (hallucinated=high)",
+        "car_design": "TN"
+      }
+    },
+    {
+      "id": "slots_010",
+      "slots": {
+        "car_type": "TP",
+        "car_price": "TP",
+        "car_state": "TP",
+        "car_usecase": "FN (exp=sports)",
+        "fuel_type": "TP",
+        "car_brand": "TN",
+        "car_dimensions": "TN",
+        "fuel_efficiency": "TN",
+        "car_design": "TN"
+      }
+    },
+    {
+      "id": "slots_011",
+      "slots": {
+        "car_type": "TP",
+        "car_price": "TN",
+        "car_state": "TN",
+        "car_usecase": "TP",
+        "fuel_type": "TP",
+        "car_brand": "TN",
+        "car_dimensions": "TN",
+        "fuel_efficiency": "TP",
+        "car_design": "TN"
+      }
+    },
+    {
+      "id": "slots_012",
+      "slots": {
+        "car_type": "TN",
+        "car_price": "TN",
+        "car_state": "TN",
+        "car_usecase": "TP",
+        "fuel_type": "TP",
+        "car_brand": "TN",
+        "car_dimensions": "TP",
+        "fuel_efficiency": "TN",
+        "car_design": "TN"
+      }
+    },
+    {
+      "id": "slots_013",
+      "slots": {
+        "car_type": "TP",
+        "car_price": "TP",
+        "car_state": "TP",
+        "car_usecase": "TP",
+        "fuel_type": "TN",
+        "car_brand": "TN",
+        "car_dimensions": "TN",
+        "fuel_efficiency": "TN",
+        "car_design": "TP"
+      }
+    },
+    {
+      "id": "slots_014",
+      "slots": {
+        "car_type": "TP",
+        "car_price": "FN (exp=80000)",
+        "car_state": "TN",
+        "car_usecase": "TN",
+        "fuel_type": "TP",
+        "car_brand": "TN",
+        "car_dimensions": "TP",
+        "fuel_efficiency": "TN",
+        "car_design": "TN"
+      }
+    },
+    {
+      "id": "slots_015",
+      "slots": {
+        "car_type": "TN",
+        "car_price": "TN",
+        "car_state": "FN (exp=used)",
+        "car_usecase": "TN",
+        "fuel_type": "TN",
+        "car_brand": "TP",
+        "car_dimensions": "TN",
+        "fuel_efficiency": "TN",
+        "car_design": "TN"
+      }
+    }
+  ]
+}

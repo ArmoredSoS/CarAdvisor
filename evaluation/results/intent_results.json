@@ -1,0 +1,137 @@
+{
+  "accuracy": 1.0,
+  "macro_precision": 1.0,
+  "macro_recall": 1.0,
+  "macro_f1": 1.0,
+  "weighted_precision": 1.0,
+  "weighted_recall": 1.0,
+  "weighted_f1": 1.0,
+  "parse_errors": [],
+  "per_sample": [
+    {
+      "id": "intent_001",
+      "expected": "car_search",
+      "predicted": "car_search"
+    },
+    {
+      "id": "intent_002",
+      "expected": "car_search",
+      "predicted": "car_search"
+    },
+    {
+      "id": "intent_003",
+      "expected": "car_search",
+      "predicted": "car_search"
+    },
+    {
+      "id": "intent_004",
+      "expected": "car_search",
+      "predicted": "car_search"
+    },
+    {
+      "id": "intent_005",
+      "expected": "car_info",
+      "predicted": "car_info"
+    },
+    {
+      "id": "intent_006",
+      "expected": "car_info",
+      "predicted": "car_info"
+    },
+    {
+      "id": "intent_007",
+      "expected": "car_info",
+      "predicted": "car_info"
+    },
+    {
+      "id": "intent_008",
+      "expected": "car_info",
+      "predicted": "car_info"
+    },
+    {
+      "id": "intent_009",
+      "expected": "car_comparison",
+      "predicted": "car_comparison"
+    },
+    {
+      "id": "intent_010",
+      "expected": "car_comparison",
+      "predicted": "car_comparison"
+    },
+    {
+      "id": "intent_011",
+      "expected": "car_comparison",
+      "predicted": "car_comparison"
+    },
+    {
+      "id": "intent_012",
+      "expected": "car_comparison",
+      "predicted": "car_comparison"
+    },
+    {
+      "id": "intent_013",
+      "expected": "ignore_message",
+      "predicted": "ignore_message"
+    },
+    {
+      "id": "intent_014",
+      "expected": "ignore_message",
+      "predicted": "ignore_message"
+    },
+    {
+      "id": "intent_015",
+      "expected": "ignore_message",
+      "predicted": "ignore_message"
+    },
+    {
+      "id": "intent_016",
+      "expected": "ignore_message",
+      "predicted": "ignore_message"
+    },
+    {
+      "id": "intent_017",
+      "expected": "car_search",
+      "predicted": "car_search"
+    },
+    {
+      "id": "intent_018",
+      "expected": "car_search",
+      "predicted": "car_search"
+    },
+    {
+      "id": "intent_019",
+      "expected": "car_info",
+      "predicted": "car_info"
+    },
+    {
+      "id": "intent_020",
+      "expected": "car_comparison",
+      "predicted": "car_comparison"
+    },
+    {
+      "id": "intent_021",
+      "expected": "car_search",
+      "predicted": "car_search"
+    },
+    {
+      "id": "intent_022",
+      "expected": "ignore_message",
+      "predicted": "ignore_message"
+    },
+    {
+      "id": "intent_023",
+      "expected": "car_search",
+      "predicted": "car_search"
+    },
+    {
+      "id": "intent_024",
+      "expected": "car_comparison",
+      "predicted": "car_comparison"
+    },
+    {
+      "id": "intent_025",
+      "expected": "car_info",
+      "predicted": "car_info"
+    }
+  ]
+}

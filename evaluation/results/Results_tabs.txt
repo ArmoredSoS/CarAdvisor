@@ -1,0 +1,219 @@
+============================================================
+INTENT CLASSIFICATION EVALUATION
+============================================================
+Total samples : 25
+Parse errors  : 0
+
+Accuracy      : 1.0000  (25/25)
+
+Macro avg     → Precision: 1.0000  Recall: 1.0000  F1: 1.0000
+Weighted avg  → Precision: 1.0000  Recall: 1.0000  F1: 1.0000
+
+Per-class report:
+                precision    recall  f1-score   support
+
+car_comparison       1.00      1.00      1.00         6
+      car_info       1.00      1.00      1.00         6
+    car_search       1.00      1.00      1.00         8
+ignore_message       1.00      1.00      1.00         5
+
+      accuracy                           1.00        25
+     macro avg       1.00      1.00      1.00        25
+  weighted avg       1.00      1.00      1.00        25
+
+Confusion matrix (rows=true, cols=predicted):
+                        car_compar      car_info    car_search    ignore_mes
+      car_comparison             6             0             0             0
+            car_info             0             6             0             0
+          car_search             0             0             8             0
+      ignore_message             0             0             0             5
+
+============================================================
+COMPARISON EVALUATION RESULTS ONLY NLU
+============================================================
+Total test cases          : 10
+NLU used                  : True
+Parse errors              : 0
+
+Car Retrieval Accuracy:
+  Mean Precision          : 1.0000
+  Mean Recall             : 0.9500
+  Mean F1                 : 0.9667
+
+Attribute Correctness Rate: 1.0000
+Hallucination Rate        : 0.3000  (3/10 cases)
+
+Per-test summary:
+  ID                Ret-P   Ret-R   Ret-F1     ACR   Halluc
+  ------------------------------------------------------------
+  comp_001          1.000   1.000    1.000   1.000      no
+  comp_002          1.000   1.000    1.000   1.000      no
+  comp_003          1.000   1.000    1.000   1.000      no
+  comp_004          1.000   1.000    1.000   1.000      no
+  comp_005          1.000   1.000    1.000   1.000      no
+  comp_006          1.000   1.000    1.000   1.000      no
+  comp_007          1.000   0.500    0.667   1.000     YES
+  comp_008          1.000   1.000    1.000     N/A     YES
+  comp_009          1.000   1.000    1.000   1.000     YES
+  comp_010          1.000   1.000    1.000   1.000      no
+
+============================================================
+COMPARISON EVALUATION RESULTS ONLY DM
+============================================================
+Total test cases          : 10
+NLU used                  : False
+Parse errors              : 2
+
+Car Retrieval Accuracy:
+  Mean Precision          : 0.9000
+  Mean Recall             : 0.9000
+  Mean F1                 : 0.9000
+
+Attribute Correctness Rate: 1.0000
+Hallucination Rate        : 0.0000  (0/10 cases)
+
+Per-test summary:
+  ID                Ret-P   Ret-R   Ret-F1     ACR   Halluc
+  ------------------------------------------------------------
+  comp_001          1.000   1.000    1.000   1.000      no
+  comp_002          1.000   1.000    1.000   1.000      no
+  comp_003          1.000   1.000    1.000   1.000      no
+  comp_004          1.000   1.000    1.000   1.000      no
+  comp_005          1.000   1.000    1.000   1.000      no
+  comp_006          1.000   1.000    1.000   1.000      no
+  comp_007          1.000   1.000    1.000   1.000      no
+  comp_008          1.000   1.000    1.000     N/A      no
+  comp_009          0.000   0.000    0.000     N/A      no
+  comp_010          1.000   1.000    1.000   1.000      no
+
+============================================================
+COMPARISON EVALUATION RESULTS NLU + DM
+============================================================
+Total test cases          : 10
+NLU used                  : True
+Parse errors              : 2
+
+Car Retrieval Accuracy:
+  Mean Precision          : 0.9000
+  Mean Recall             : 0.9000
+  Mean F1                 : 0.9000
+
+Attribute Correctness Rate: 1.0000
+Hallucination Rate        : 0.2000  (2/10 cases)
+
+Per-test summary:
+  ID                Ret-P   Ret-R   Ret-F1     ACR   Halluc
+  ------------------------------------------------------------
+  comp_001          1.000   1.000    1.000   1.000      no
+  comp_002          1.000   1.000    1.000   1.000      no
+  comp_003          1.000   1.000    1.000   1.000      no
+  comp_004          1.000   1.000    1.000   1.000      no
+  comp_005          1.000   1.000    1.000   1.000      no
+  comp_006          1.000   1.000    1.000   1.000      no
+  comp_007          1.000   1.000    1.000   1.000      no
+  comp_008          1.000   1.000    1.000     N/A     YES
+  comp_009          0.000   0.000    0.000     N/A     YES
+  comp_010          1.000   1.000    1.000   1.000      no
+
+============================================================
+COMPARISON EVALUATION RESULTS RAW (NO NLU NO DM)
+============================================================
+Total test cases          : 10
+NLU used                  : False
+Parse errors              : 0
+
+Car Retrieval Accuracy:
+  Mean Precision          : 1.0000
+  Mean Recall             : 1.0000
+  Mean F1                 : 1.0000
+
+Attribute Correctness Rate: 1.0000
+Hallucination Rate        : 0.0000  (0/10 cases)
+
+Per-test summary:
+  ID                Ret-P   Ret-R   Ret-F1     ACR   Halluc
+  ------------------------------------------------------------
+  comp_001          1.000   1.000    1.000   1.000      no
+  comp_002          1.000   1.000    1.000   1.000      no
+  comp_003          1.000   1.000    1.000   1.000      no
+  comp_004          1.000   1.000    1.000   1.000      no
+  comp_005          1.000   1.000    1.000   1.000      no
+  comp_006          1.000   1.000    1.000   1.000      no
+  comp_007          1.000   1.000    1.000   1.000      no
+  comp_008          1.000   1.000    1.000     N/A      no
+  comp_009          1.000   1.000    1.000   1.000      no
+  comp_010          1.000   1.000    1.000   1.000      no
+
+======================================================================
+SLOT FILLING EVALUATION
+======================================================================
+Total samples: 15  |  Parse errors: 0
+Exact-match accuracy (all non-null slots): 9/15 = 0.6000
+
+Slot                    TP    FP    FN    TN   Precision     Recall         F1
+--------------------------------------------------------------------------------
+car_type                10     2     0     3      0.8333     1.0000     0.9091
+car_price                6     1     1     7      0.8571     0.8571     0.8571
+car_state                6     0     1     8      1.0000     0.8571     0.9231
+car_usecase              9     0     2     4      1.0000     0.8182     0.9000
+fuel_type                8     0     0     7      1.0000     1.0000     1.0000
+car_brand                2     0     0    13      1.0000     1.0000     1.0000
+car_dimensions           5     0     0    10      1.0000     1.0000     1.0000
+fuel_efficiency          3     1     0    11      0.7500     1.0000     0.8571
+car_design               3     0     0    12      1.0000     1.0000     1.0000
+--------------------------------------------------------------------------------
+MICRO AVG               52     4     4             0.9286     0.9286     0.9286
+
+============================================================
+RECOMMENDATION EVALUATION RESULTS
+============================================================
+Total test cases : 10
+Top-k            : 3
+
+Constraint Satisfaction Rate (CSR) : 0.8587
+Hallucination Rate (HR)            : 0.3667
+Precision @ 3                      : 0.6333
+Hit Rate @ 3                        : 1.0000
+
+Per-test summary:
+  ID                   CSR       HR   Prec@k    Hit@k  Recommendations
+  --------------------------------------------------------------------------------
+  reco_001           0.750    0.333    0.667        Y  ['Fiat Panda', 'Renault Clio', 'Peugeot 208']
+  reco_002           0.778    0.333    0.667        Y  ['Volvo XC60', 'Audi Q5', 'Alfa Romeo Tonale']
+  reco_003           0.750    0.333    0.667        Y  ['BMW 3 Series', 'Mercedes-Benz C-Class', 'Audi A4']
+  reco_004           1.000    0.333    0.667        Y  ['Land Rover Discovery', 'Volkswagen Touareg', 'Land Rover Defender']
+  reco_005           0.944    0.667    0.333        Y  ['Peugeot 208', 'Volkswagen ID.3', 'BMW i3']
+  reco_006           1.000    0.333    0.667        Y  ['Ferrari 488', 'Lamborghini Huracan', 'Ferrari Roma']
+  reco_007           0.810    0.667    0.333        Y  ['Audi e-tron', 'BMW iX', 'Mercedes-Benz EQC']
+  reco_008           0.833    0.000    1.000        Y  ['Renault Megane', 'Peugeot 308', 'Citroën C4']
+  reco_009           0.833    0.000    1.000        Y  ['Fiat Panda', 'Renault Clio', 'Citroën C3']
+  reco_010           0.889    0.667    0.333        Y  ['BMW 5 Series', 'Audi A4', 'Volvo S60']
+
+============================================================
+DIALOGUE EFFICIENCY EVALUATION RESULTS
+============================================================
+Total dialogues              : 12
+Parse errors                 : 0
+
+Task Completion Rate         : 0.6667  (8/12)
+Mean Turns to Completion     : 2.00  (completed dialogues only)
+Mean Turn Efficiency         : 2.3889  (slots extracted per turn)
+Redundant Question Rate      : 0.0000  (redundant turns / total turns)
+Premature Recommendation Rate: 0.0000  (0/12)
+Mean Action Accuracy         : 0.6667
+
+Per-dialogue summary:
+  ID            Done  Turns  MaxT    Eff  Redund  PreRec  ActAcc
+  -----------------------------------------------------------------
+  dial_001         ✓     1      2   4.00   0.000      no   1.000
+  dial_002         ✓     3      5   1.33   0.000      no   1.000
+  dial_003         ✓     1      1   1.00   0.000      no   1.000
+  dial_004         ✗     3      5   1.33   0.000      no   0.000
+  dial_005         ✓     1      1   1.00   0.000      no   1.000
+  dial_006         ✗     2      5   2.00   0.000      no   0.500
+  dial_007         ✓     3      5   2.00   0.000      no   1.000
+  dial_008         ✓     2      3   2.00   0.000      no   0.500
+  dial_009         ✗     1      3   2.00   0.000      no   0.000
+  dial_010         ✓     1      2   8.00   0.000      no   1.000
+  dial_011         ✓     4      6   1.00   0.000      no   1.000
+  dial_012         ✗     2      3   3.00   0.000      no   0.000
