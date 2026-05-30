@@ -132,6 +132,16 @@
       "id": "intent_025",
       "expected": "car_info",
       "predicted": "car_info"
+    },
+    {
+      "id": "intent_026",
+      "expected": "end_conversation",
+      "predicted": "end_conversation"
+    },
+    {
+      "id": "intent_027",
+      "expected": "end_conversation",
+      "predicted": "end_conversation"
     }
   ]
 }
