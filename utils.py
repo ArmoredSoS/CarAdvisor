@@ -247,6 +247,11 @@ class DialogueManager:
             "car_usecase",
             "fuel_efficiency"
         ]
+        
+        self.optional_slots = [
+            slot for slot in self.slots
+            if slot not in self.core_slots
+        ]
 
     def validate(self, slots):
         validated = {}
@@ -298,8 +303,6 @@ class DialogueManager:
 
                 continue
 
-
-
             # Normalize price strings
             if slot == "car_price" and isinstance(value, str):
                 try:
@@ -338,14 +341,21 @@ class DialogueManager:
         
         if state["intent"] == "car_comparison":
             if errors:
+                
                 return "slot_filling_error", errors["comparison_cars"]["invalid_cars"]
                 #return "slot_filling_error", "comparison_cars"
             else:
                 return "compare_cars", None
             
-        filled = [s for s in self.core_slots if slots.get(s) not in ("null", None, "")]
+        if state["intent"] == "end_conversation":
+            return "end_conversation", None
+            
+        filled_core = [s for s in self.core_slots if slots.get(s) not in ("null", None, "")]
+        filled_optional = [s for s in self.optional_slots if slots.get(s) not in ("null", None, "")]
 
-        if len(filled) >= 3:
+        if len(filled_core) >= 3:
+            return "recommend", None
+        elif len(filled_core) >= 2 and len(filled_optional) >= 2:
             return "recommend", None
         else:
             missing = [s for s in self.core_slots if slots.get(s) in ("null", None, "")]

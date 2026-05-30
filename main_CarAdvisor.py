@@ -29,10 +29,13 @@ INTENTS:
 2. "car_info"
    The user wants information about a specific car.
 
-4. "car_comparison"
+3. "car_comparison"
    The user wants to compare different cars.
+   
+4. "end_conversation"
+   The user wants to end the conversation.
 
-3. "ignore_message"
+5. "ignore_message"
    The message is unrelated to cars or car recommendations.
 
 
@@ -74,6 +77,9 @@ OPTIONAL SLOTS:
 
 - car_design:
   sleek, rugged, classic
+  
+- fuel_efficiency:
+  high, medium, low
 
 ONLY FOR COMPARISON INTENT:
 - comparison_cars:
@@ -136,6 +142,22 @@ if intent = "car_comparison":
     }
 }
 
+if intent = "end_conversation":
+{
+    "intent": "end_conversation",
+    "slots": {
+        "car_type": "null",
+        "car_price": "null",
+        "car_state": "null",
+        "car_usecase": "null",
+        "fuel_type": "null",
+        "car_brand": "null",
+        "car_dimensions": "null",
+        "fuel_efficiency": "null",
+        "car_design": "null"
+    }
+}
+
 If unrelated:
 {
     "intent": "ignore_message",
@@ -176,6 +198,7 @@ AVAILABLE ACTIONS:
 - slot_filling_error(slot)
 - compare_cars
 - recommend
+- end_conversation
 
 DECISION RULES:
 If the user message is not for finding a car, comparing cars or asking for car information:
@@ -194,10 +217,17 @@ Core slots are considered more important than optional slots:
 - car_type
 - car_state
 
+Optional slots:
+- car_brand
+- fuel_type
+- car_dimensions
+- fuel_efficiency
+- car_design
+
 RECOMMENDATION RULES:
 Generate a recommendation when:
 - At least 3 core slots are filled.
-- If the user explicitly asks for a recommendation, even if fewer core slots are filled.
+- At least 2 core slots and at least 2 optional slots are filled
 
 Use:
 - slot_filling(slot)
@@ -207,11 +237,20 @@ Use:
   when the provided slot value is invalid
   or incompatible with the dataset
 
+- provide_car_description
+  when the user asks for information about a specific car
+
 - recommend
-  ONLY when at least 3 core slots are filled
+  ONLY when at least 3 core slots are filled or 2 core slots and at least 2 non-core slots are filled.
 
 - compare_cars
   ONLY when the user wants to compare specific cars
+  
+- ignore
+  When the user message is unrelated to car recommendations, information or comparisons.
+  
+- end_conversation
+  When the user wants to end the conversation.
 
 IMPORTANT RULES:
 - Prefer collecting sufficient information before recommending 
@@ -290,6 +329,7 @@ When recommending cars:
 - Prioritize the most relevant criteria
 - Avoid overwhelming detail
 - Use all recommended cars provided in the input
+- DO NOT format in markdown or lists, keep it in natural language
 
 IMPORTANT RULES:
 - Never output internal actions
@@ -346,6 +386,7 @@ def interact(args):
     nlg_engine = NLG(model, tokenizer, prepare_text, nlg)
     messages = []
     recommendations = []
+    previous_comparison_state = None  # (original_cars, valid_cars, invalid_cars) from last comparison error
 
     while True:
         user_input = input("User: ")
@@ -385,6 +426,7 @@ def interact(args):
             messages.append({"role": "assistant", "content": response})
                  
         elif intent == "provide_car_description": 
+            
             car = reco_engine.get_car_by_brand(state["slots"].get("car_brand"))
             if car:
                 response = nlg_engine.generate(action, state, car, messages, args.n_exchanges)
@@ -412,7 +454,7 @@ def interact(args):
                 for car in value:
                     output += f"{car}, "
                 
-                response = f"The following cars: {output} are not valid or do not match any entry in our dataset. Could you please provide different car names for comparison?"
+                response = f"The following cars: {output} are not valid or do not match any entry in our dataset. Please provide the comparison with this format for the best results: 'Compare car A and car B'"
                 messages.append({"role": "assistant", "content": response})
 
             else:            
@@ -429,7 +471,13 @@ def interact(args):
                 }
                 response = f"I'm sorry, but the value you provided for {temp_slots[value]} is not valid or does not match any entry in our dataset. Could you please provide a different value for this slot?"
                 messages.append({"role": "assistant", "content": response})
-            
+        
+        elif intent == "end_conversation":
+            response = "Thank you for using our car recommendation service. If you have any more questions in the future, feel free to ask. Have a great day!"
+            messages.append({"role": "assistant", "content": response})
+            print(response)
+            break
+        
         else:
             response = nlg_engine.generate(action, state, None, messages, args.n_exchanges)
             messages.append({"role": "assistant", "content": response})
