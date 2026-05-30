@@ -123,5 +123,15 @@
     "id": "intent_025",
     "user_input": "What do you know about the Peugeot 208?",
     "expected_intent": "car_info"
+  },
+  {
+    "id": "intent_026",
+    "user_input": "Ok, that's it",
+    "expected_intent": "end_conversation"
+  },
+  {
+    "id": "intent_027",
+    "user_input": "Thanks, bye!",
+    "expected_intent": "end_conversation"
   }
 ]
