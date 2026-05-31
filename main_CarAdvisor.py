@@ -2,6 +2,9 @@ import argparse
 import torch
 from transformers import AutoTokenizer
 import os
+import warnings
+warnings.filterwarnings("ignore")
+
 os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
 
 from utils import MODELS, NLU, DialogueManager, NLG, RecommenderService
@@ -210,6 +213,11 @@ If intent == "car_info":
 
 CAR SEARCH FLOW:
 If intent == "car_search":
+- slot_filling(slot)
+
+CAR COMPARISON FLOW:
+If intent == "car_comparison":
+- compare_cars
 
 Core slots are considered more important than optional slots:
 - car_price
@@ -280,9 +288,11 @@ AVAILABLE ACTIONS:
 - recommend
 - compare_cars
 
-Your ONLY task is to generate the response corresponding EXACTLY to the provided action. 
+Your ONLY task is to generate the response corresponding EXACTLY to the provided action.
 You MUST NOT change the action.
 Recommend a car if and only if the action is "recommend".
+If slot_fillibng is the action, ask for the specific slot mentioned in the action and do NOT mention recommendations, ONLY ask for the missing information.
+DO NOT provide examples or suggestions for the slot value, just ask for the missing information in a natural way.
 
 INPUT FORMAT:
 Dialogue State:
@@ -413,9 +423,13 @@ def interact(args):
             response = "I cannot assist with that. I'm here to help you find the perfect car."
             messages.append({"role": "assistant", "content": response})
             
+        elif intent == "slot_filling":
+            response = nlg_engine.generate(action, state, None, messages, args.n_exchanges)
+            messages.append({"role": "assistant", "content": response})
+            
         elif intent == "recommend":
             recs = reco_engine.recommend(state["slots"]) if state["slots"].get("car_brand") is None or reco_engine.car_exists(state["slots"].get("car_brand")) else None
-            #print(f"[DEBUG] Raw recommendations: {recs} {type(recs)}")
+            print(f"[DEBUG] Raw recommendations: {recs} {type(recs)}")
             recommendations = [rec[0]["car_brand"] for rec in recs] if recs else None
             if not recs:
                 response = "I'm sorry, I couldn't find any cars matching your preferences. Could you please provide more details or adjust your criteria?"
