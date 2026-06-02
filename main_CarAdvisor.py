@@ -11,7 +11,6 @@ from utils import MODELS, NLU, DialogueManager, NLG, RecommenderService
 from Dataset import cars, RULES
 
 nlu = """
-
 ROLE:
 You are an NLU module for a car recommendation dialogue system.
 
@@ -42,46 +41,41 @@ INTENTS:
    The message is unrelated to cars or car recommendations.
 
 
-CORE SLOTS:
-If not explicitly mentioned, set them to null.
+CORE SLOTS ACCEPTABLE INPUTS:
+If an accepted value for these slots is not provided, set the to null.
 
-- car_type:
-  SUV, sedan, hatchback, coupe, station wagon,
-  convertible, wagon, van
+- car_type: SUV, sedan, hatchback, coupe, convertible, wagon. Unless specified by the user, do not infer this slot.
 
-- car_price:
-  Maximum budget as a numeric value only
-  Example: 30000
+- car_price: Maximum budget as a numeric value only, normalize obvious budget expressions:
+        "cheap", "budget", "low-cost", "inexpensive" -> approximate low budget (e.g., 25000)
+        "affordable", "medium-low", "mid-range", "moderate" -> approximate medium-low budget (e.g., 45000)
+        "medium", "medium-range", "middle" -> approximate medium budget (e.g., 80000)
+        "high", "expensive", "premium", "luxury" -> approximate high budget (e.g., 150000)
 
-- car_state:
-  "new" or "used"
+- car_state: new or used. Unless specified by the user, do not infer this slot.
 
-- car_usecase:
-  family, city, sports, off-road,
-  travel, work, luxury
-
-- fuel_efficiency:
-  high, medium, low
-
-
-OPTIONAL SLOTS:
-- car_brand:
-  Extract COMPLETE brand + model when available.
-  Example:
-  "Toyota Yaris Hybrid"
-  NOT just "Toyota"
-
-- car_dimensions:
-  sub-compact, compact, mid-size, full-size
-
-- fuel_type:
-  gasoline, diesel, hybrid, electric
-
-- car_design:
-  sleek, rugged, classic
+- car_usecase: family, city, sports, off-road, luxury. Normalize any synonyms to these use-cases:
+    "family car", "for family", "family-friendly" -> family
+    "city car", "for city", "urban" -> city
+    "sports car", "for sports", "sporty" -> sports
+    "off-road car", "for off-road", "offroading" -> off-road
+    "luxury car", "for luxury", "luxurious" -> luxury
   
-- fuel_efficiency:
-  high, medium, low
+- fuel_efficiency: high, medium, low, normalize obvious expressions:
+    "eco-friendly" -> fuel_efficiency = "high"
+
+OPTIONAL SLOTS ACCEPTABLE INPUTS:
+If an accepted value for these slots is not provided, set the to null.
+
+- car_brand: Extract COMPLETE brand + model when available. (example: "Toyota Yaris Hybrid" NOT just "Toyota")
+
+- car_dimensions: sub-compact, compact, mid-size, full-size, normalize obvious expressions:
+    "small car" -> car_dimensions = "compact"
+    "large car" -> car_dimensions = "full-size"
+
+- fuel_type: gasoline, diesel, hybrid, electric
+
+- car_design: sleek, rugged, classic. Unless specified by the user, do not infer this slot.
 
 ONLY FOR COMPARISON INTENT:
 - comparison_cars:
@@ -92,17 +86,6 @@ EXTRACTION RULES:
 - Be case-insensitive when matching values
 - Do NOT invent missing information
 - If information is absent, return null
-- Normalize obvious budget expressions:
-  "cheap", "budget", "low-cost", "inexpensive" -> approximate low budget (e.g., 25000)
-  "affordable", "medium-low", "mid-range", "moderate" -> approximate medium-low budget (e.g., 45000)
-  "medium", "medium-range", "middle" -> approximate medium budget (e.g., 80000)
-  "high", "expensive", "premium", "luxury" -> approximate high budget (e.g., 150000)
-- Normalize synonymous expressions when unambiguous:
-  "eco-friendly" -> fuel_efficiency = "high"
-  "small car" -> car_dimensions = "compact"
-  "large car" -> car_dimensions = "full-size"
-- For budget extraction:
-  Return ONLY the numeric value
 
 IMPORTANT CONSTRAINTS:
 - Output ONLY valid JSON
@@ -110,7 +93,6 @@ IMPORTANT CONSTRAINTS:
 - Do NOT include explanations
 - Do NOT include markdown
 - Do NOT include additional text
-
 
 OUTPUT FORMAT:
 If intent = "car_search":
@@ -300,10 +282,10 @@ Dialogue State:
 }
 
 SLOTS DESCRIPTION:
-- car_type: SUV, sedan, hatchback, coupe, station wagon, convertible, wagon, van
-- car_price:Maximum budget as a numeric value only 30000
+- car_type: SUV, sedan, hatchback, coupe, convertible, wagon
+- car_price: Maximum budget as a numeric value
 - car_state: new or used
-- car_usecase: family, city, sports, off-road, travel, work, luxury
+- car_usecase: family, sports, off-road, city, luxury
 - fuel_efficiency: high, medium, low
 - car_brand: Example: "Toyota Yaris Hybrid"
 - car_dimensions: sub-compact, compact, mid-size, full-size
@@ -321,11 +303,11 @@ Generate responses that are:
 - Avoid repetitive phrasing across turns
 - Sound conversational but efficient
 - Mimic user preferences in tone and style when possible
-- Recommend a car if and only if the action is "recommend".
 - DO NOT provide examples or suggestions for the slot value, just ask for the missing information in a natural way
 
 When NBA == ('action', 'slot'):
 - Ask for 'slot' and nothing else
+- Recommend a car if and only if the 'action' is 'recommend'.
 
 CAR DESCRIPTION RULES:
 When describing a specific car:
