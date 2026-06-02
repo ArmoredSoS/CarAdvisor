@@ -146,7 +146,7 @@
   {
     "id": "dial_009",
     "description": "User explicitly asks for recommendation with only 2 core slots",
-    "expected_final_action": "recommend",
+    "expected_final_action": "slot_filling",
     "max_acceptable_turns": 3,
     "turns": [
       {

@@ -1,0 +1,2 @@
+- The base for evaluation scripts has been AI generated, obviously there has been supervision from myself and the scripts needed tuning and correction to work properly.
+- JSON Datasets have been fully generated and only supervised, to check outputted results. This allows to have less biased datasets and more realistic scenarios.
