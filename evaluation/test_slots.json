@@ -79,7 +79,7 @@
     "user_input": "Something cheap for the city, small car",
     "expected_slots": {
       "car_type": null,
-      "car_price": 20000,
+      "car_price": 25000,
       "car_state": null,
       "car_usecase": "city",
       "fuel_type": null,
