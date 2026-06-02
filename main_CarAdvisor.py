@@ -43,7 +43,6 @@ INTENTS:
 
 
 CORE SLOTS:
-Do NOT infer or assume values for these slots.
 If not explicitly mentioned, set them to null.
 
 - car_type:
@@ -94,9 +93,10 @@ EXTRACTION RULES:
 - Do NOT invent missing information
 - If information is absent, return null
 - Normalize obvious budget expressions:
-  "cheap" -> approximate low budget
-  "affordable" -> approximate medium-low budget
-  "premium" -> approximate high budget
+  "cheap", "budget", "low-cost", "inexpensive" -> approximate low budget (e.g., 25000)
+  "affordable", "medium-low", "mid-range", "moderate" -> approximate medium-low budget (e.g., 45000)
+  "medium", "medium-range", "middle" -> approximate medium budget (e.g., 80000)
+  "high", "expensive", "premium", "luxury" -> approximate high budget (e.g., 150000)
 - Normalize synonymous expressions when unambiguous:
   "eco-friendly" -> fuel_efficiency = "high"
   "small car" -> car_dimensions = "compact"
@@ -223,7 +223,7 @@ Core slots are considered more important than optional slots:
 - car_price
 - car_usecase
 - car_type
-- car_state
+- car_state (NEW OR USED ONLY, NOT ANY OTHER CONDITION)
 
 Optional slots:
 - car_brand
@@ -265,6 +265,8 @@ IMPORTANT RULES:
 - Avoid recommending cars too early
 - Ask only the single most important missing slot
 - Ask for optional slots when necessary, but prioritize core slots first
+- Never ask for confirmation or clarification, just ask for the missing information directly
+- Do NOT ask follow-up questions
 - Only output the action
 - Do NOT explain your reasoning
 - Do NOT generate conversational text
@@ -272,7 +274,6 @@ IMPORTANT RULES:
 
 
 nlg = """
-
 ROLE:
 You are the Natural Language Generation (NLG) module.
 
@@ -283,16 +284,10 @@ You are given:
 AVAILABLE ACTIONS:
 - ignore
 - provide_car_description
-- slot_filling(slot)
-- slot_filling_error(slot)
+- slot_filling
+- slot_filling_error
 - recommend
 - compare_cars
-
-Your ONLY task is to generate the response corresponding EXACTLY to the provided action.
-You MUST NOT change the action.
-Recommend a car if and only if the action is "recommend".
-If slot_fillibng is the action, ask for the specific slot mentioned in the action and do NOT mention recommendations, ONLY ask for the missing information.
-DO NOT provide examples or suggestions for the slot value, just ask for the missing information in a natural way.
 
 INPUT FORMAT:
 Dialogue State:
@@ -304,6 +299,17 @@ Dialogue State:
     }
 }
 
+SLOTS DESCRIPTION:
+- car_type: SUV, sedan, hatchback, coupe, station wagon, convertible, wagon, van
+- car_price:Maximum budget as a numeric value only 30000
+- car_state: new or used
+- car_usecase: family, city, sports, off-road, travel, work, luxury
+- fuel_efficiency: high, medium, low
+- car_brand: Example: "Toyota Yaris Hybrid"
+- car_dimensions: sub-compact, compact, mid-size, full-size
+- fuel_type: gasoline, diesel, hybrid, electric
+- car_design: sleek, rugged, classic 
+- fuel_efficiency: high, medium, low
 
 GENERAL RESPONSE RULES:
 Generate responses that are:
@@ -315,6 +321,11 @@ Generate responses that are:
 - Avoid repetitive phrasing across turns
 - Sound conversational but efficient
 - Mimic user preferences in tone and style when possible
+- Recommend a car if and only if the action is "recommend".
+- DO NOT provide examples or suggestions for the slot value, just ask for the missing information in a natural way
+
+When NBA == ('action', 'slot'):
+- Ask for 'slot' and nothing else
 
 CAR DESCRIPTION RULES:
 When describing a specific car:
@@ -340,6 +351,11 @@ When recommending cars:
 - Avoid overwhelming detail
 - Use all recommended cars provided in the input
 - DO NOT format in markdown or lists, keep it in natural language
+- NEVER ask any questions like "Would you like...?" or "Do you need...?"
+- NEVER ask "Does this help?" or "Would you like more information?"
+- Do NOT ask for confirmation or feedback
+- Just output the recommendations and stop
+- STOP after the recommendations, do not add follow-up questions
 
 IMPORTANT RULES:
 - Never output internal actions
@@ -347,7 +363,6 @@ IMPORTANT RULES:
 - Never mention slots explicitly
 - Never mention dialogue state
 """
-
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
@@ -396,7 +411,7 @@ def interact(args):
     nlg_engine = NLG(model, tokenizer, prepare_text, nlg)
     messages = []
     recommendations = []
-    previous_comparison_state = None  # (original_cars, valid_cars, invalid_cars) from last comparison error
+    dialogue_state = {"intent": None, "slots": {}}  # Accumulate state across turns
 
     while True:
         user_input = input("User: ")
@@ -408,14 +423,22 @@ def interact(args):
 
         try:
             state = nlu_engine.parse(user_input, messages, args.n_exchanges)
-            print(f"\n[DEBUG] Extracted state: {state}")             
+            #print(f"\n[DEBUG] Extracted state: {state}")             
         except Exception as e:
             print(f"NLU parsing failed: {e}")
             continue
 
-        action = dm_engine.decide(state)
+        # Merge new state with accumulated dialogue state
+        dialogue_state["intent"] = state["intent"]
+        for slot, value in state["slots"].items():
+            if value is not None and value != "null":
+                dialogue_state["slots"][slot] = value
+        
+        #print(f"[DEBUG] Accumulated state: {dialogue_state}")
+        
+        action = dm_engine.decide(dialogue_state)
         intent, value = action
-        print(f"[DEBUG] Action: {action}")
+        #print(f"[DEBUG] Action: {action}")
 
         response = ""
 
@@ -424,41 +447,42 @@ def interact(args):
             messages.append({"role": "assistant", "content": response})
             
         elif intent == "slot_filling":
-            response = nlg_engine.generate(action, state, None, messages, args.n_exchanges)
+            response = nlg_engine.generate(action, dialogue_state, value, messages, args.n_exchanges)
             messages.append({"role": "assistant", "content": response})
             
         elif intent == "recommend":
-            recs = reco_engine.recommend(state["slots"]) if state["slots"].get("car_brand") is None or reco_engine.car_exists(state["slots"].get("car_brand")) else None
-            print(f"[DEBUG] Raw recommendations: {recs} {type(recs)}")
+            recs = reco_engine.recommend(dialogue_state["slots"]) if dialogue_state["slots"].get("car_brand") is None or reco_engine.car_exists(dialogue_state["slots"].get("car_brand")) else None
             recommendations = [rec[0]["car_brand"] for rec in recs] if recs else None
+            
             if not recs:
                 response = "I'm sorry, I couldn't find any cars matching your preferences. Could you please provide more details or adjust your criteria?"
             else:
                 recommendation_brands = reco_engine.format_recommendation(recs)
                 extra = "Top 3 recommendations: " + ", ".join(recommendation_brands)
-                response = nlg_engine.generate(action, state, extra, messages, args.n_exchanges)
+                response = nlg_engine.generate(action, dialogue_state, extra, messages, args.n_exchanges)
+            
             messages.append({"role": "assistant", "content": response})
                  
         elif intent == "provide_car_description": 
             
-            car = reco_engine.get_car_by_brand(state["slots"].get("car_brand"))
+            car = reco_engine.get_car_by_brand(dialogue_state["slots"].get("car_brand"))
             if car:
-                response = nlg_engine.generate(action, state, car, messages, args.n_exchanges)
+                response = nlg_engine.generate(action, dialogue_state, car, messages, args.n_exchanges)
             else:
-                response = f"I'm sorry, I couldn't find information about the {state['slots'].get('car_brand')} in our dataset"
+                response = f"I'm sorry, I couldn't find information about the {dialogue_state['slots'].get('car_brand')} in our dataset"
 
             messages.append({"role": "assistant", "content": response})
         
         elif intent == "compare_cars":
 
-            if not state["slots"]["comparison_cars"]:
-                state["slots"]["comparison_cars"] = recommendations
+            if not dialogue_state["slots"]["comparison_cars"]:
+                dialogue_state["slots"]["comparison_cars"] = recommendations
 
-            comparison = reco_engine.compare_cars(state["slots"]["comparison_cars"])
+            comparison = reco_engine.compare_cars(dialogue_state["slots"]["comparison_cars"])
             if comparison is None:
                 response = "Please tell me which cars you'd like to compare."
             else:
-                response = nlg_engine.generate(action, state, comparison, messages, args.n_exchanges)
+                response = nlg_engine.generate(action, dialogue_state, comparison, messages, args.n_exchanges)
             messages.append({"role": "assistant", "content": response})
             
         elif intent == "slot_filling_error":
@@ -493,7 +517,7 @@ def interact(args):
             break
         
         else:
-            response = nlg_engine.generate(action, state, None, messages, args.n_exchanges)
+            response = nlg_engine.generate(action, dialogue_state, None, messages, args.n_exchanges)
             messages.append({"role": "assistant", "content": response})
 
         print(response)

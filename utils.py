@@ -109,10 +109,10 @@ class CarRecommender:
         scored = [(car, CarRecommender.score_car(car, slots)) for car in cars]
         scored.sort(key=lambda x: x[1], reverse=True)
         # Debug: print top 5 scored cars
-        print(f"\n[DEBUG] Slots for filtering: {slots}")
-        print(f"[DEBUG] Top 5 scored cars:")
-        for car, score in scored[:5]:
-            print(f"  {car.get('car_brand', 'Unknown')}: score={score}")
+        #print(f"\n[DEBUG] Slots for filtering: {slots}")
+        #print(f"[DEBUG] Top 5 scored cars:")
+        #for car, score in scored[:5]:
+        #    print(f"  {car.get('car_brand', 'Unknown')}: score={score}")
         return scored
     
 class RecommenderService:
@@ -373,10 +373,11 @@ class NLG:
         self.prepare_text = prepare_text
         self.system_prompt = system_prompt
 
-    def generate(self, nba, ds, extra=None, messages=None, n_exchanges=2):
+    def generate(self, nba, ds, extra=None, messages=None, n_exchanges=10):
+        #print(f"\n[DEBUG] Generating response with NBA: {nba} and DS: {ds}")
         content = f"""
             NBA: {nba}
-            Dialogue State: {json.dumps(ds)}
+            DS: {json.dumps(ds)}
 
             Additional info:
             {extra if extra else ""}

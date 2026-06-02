@@ -114,6 +114,7 @@ cars = [
     {"car_brand": "Lamborghini Huracan Spyder", "car_price": 280000, "car_type": "convertible", "fuel_type": "gasoline", "car_usecase": "sports", "car_state": "new", "car_dimensions": "compact", "fuel_efficiency": "low", "car_design": "sleek"},
     {"car_brand": "Maserati GranTurismo", "car_price": 150000, "car_type": "coupe", "fuel_type": "gasoline", "car_usecase": "luxury", "car_state": "new", "car_dimensions": "compact", "fuel_efficiency": "low", "car_design": "classic"},
 ]
+    #{"car_brand": "Volvo 245 Super Polar", "car_price": 10000, "car_type": "station wagon", "fuel_type": "gasoline", "car_usecase": "family", "car_state": "used", "car_dimensions": "mid-size", "fuel_efficiency": "low", "car_design": "classic"}
 
 VALID_VALUES = {
     "car_brand": {c["car_brand"].lower() for c in cars} or None,
@@ -131,3 +132,9 @@ RULES = {
     k: lambda x, allowed_values=v: x in allowed_values
     for k, v in VALID_VALUES.items()
 }
+
+# Special handling for car_price: accept any numeric value in reasonable range
+min_price = min(c["car_price"] for c in cars)
+max_price = max(c["car_price"] for c in cars)
+
+RULES["car_price"] = lambda x: isinstance(x, (int, float)) and min_price <= x <= max_price
