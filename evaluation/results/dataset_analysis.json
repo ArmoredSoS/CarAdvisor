@@ -1,0 +1,59 @@
+{
+  "total_entries": 113,
+  "overall_statistics": {
+    "average_price": 78991.15,
+    "min_price": 15000,
+    "max_price": 600000,
+    "total_value": 8926000
+  },
+  "distributions": {
+    "car_type": {
+      "SUV": 39,
+      "hatchback": 29,
+      "sedan": 25,
+      "coupe": 14,
+      "convertible": 4,
+      "wagon": 2
+    },
+    "fuel_type": {
+      "gasoline": 58,
+      "electric": 24,
+      "diesel": 19,
+      "hybrid": 12
+    },
+    "car_usecase": {
+      "luxury": 40,
+      "city": 28,
+      "family": 21,
+      "sports": 21,
+      "off-road": 3
+    },
+    "car_state": {
+      "new": 113
+    },
+    "car_dimensions": {
+      "compact": 49,
+      "mid-size": 23,
+      "sub-compact": 21,
+      "full-size": 20
+    },
+    "fuel_efficiency": {
+      "high": 47,
+      "medium": 40,
+      "low": 26
+    },
+    "car_design": {
+      "sleek": 80,
+      "classic": 30,
+      "rugged": 3
+    }
+  },
+  "average_price_by_car_type": {
+    "hatchback": 24034.48,
+    "SUV": 61153.85,
+    "sedan": 62600.0,
+    "coupe": 233928.57,
+    "wagon": 74500.0,
+    "convertible": 213750.0
+  }
+}
