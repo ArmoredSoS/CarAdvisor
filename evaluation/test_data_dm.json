@@ -1,0 +1,504 @@
+{
+  "dm": [
+
+    {
+      "id": "dm_sf_01",
+      "description": "User provides first piece of info — no slots filled yet",
+      "dialogue_state": {
+        "turn_count": 1,
+        "intent": "provide_information",
+        "slots": { "fuel_type": "Gasoline" },
+        "recommended_cars": []
+      },
+      "expected": { "action": "slot_filling" }
+    },
+    {
+      "id": "dm_sf_02",
+      "description": "User mentions family and city driving — a few slots inferred",
+      "dialogue_state": {
+        "turn_count": 2,
+        "intent": "provide_information",
+        "slots": {
+          "vehicle_class": "Midsize Cars",
+          "drivetrain": "2-Wheel Drive, Front"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "slot_filling" }
+    },
+    {
+      "id": "dm_sf_03",
+      "description": "User provides fuel type and mentions budget concern",
+      "dialogue_state": {
+        "turn_count": 3,
+        "intent": "provide_information",
+        "slots": {
+          "fuel_type": "Electricity",
+          "annual_fuel_cost_usd": "1000"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "slot_filling" }
+    },
+    {
+      "id": "dm_sf_04",
+      "description": "User provides drivetrain preference explicitly",
+      "dialogue_state": {
+        "turn_count": 2,
+        "intent": "provide_information",
+        "slots": {
+          "drivetrain": "All Wheel Drive"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "slot_filling" }
+    },
+    {
+      "id": "dm_sf_05",
+      "description": "User describes need for cargo space and long trips",
+      "dialogue_state": {
+        "turn_count": 4,
+        "intent": "provide_information",
+        "slots": {
+          "cargo_volume_cu_ft": "30",
+          "driving_range_miles": "400",
+          "vehicle_class": "Standard SUV 4WD"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "slot_filling" }
+    },
+    {
+      "id": "dm_sf_06",
+      "description": "User mentions they care about emissions and rating",
+      "dialogue_state": {
+        "turn_count": 3,
+        "intent": "provide_information",
+        "slots": {
+          "co2_emissions_g_per_mile": "200",
+          "fe_rating_1_10": "8"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "slot_filling" }
+    },
+    {
+      "id": "dm_sf_07",
+      "description": "User mentions highway commute, infers high MPG need",
+      "dialogue_state": {
+        "turn_count": 2,
+        "intent": "provide_information",
+        "slots": {
+          "combined_mpg": "40",
+          "fuel_type": "Gasoline"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "slot_filling" }
+    },
+    {
+      "id": "dm_sf_08",
+      "description": "User says they want a truck for work",
+      "dialogue_state": {
+        "turn_count": 1,
+        "intent": "provide_information",
+        "slots": {
+          "vehicle_class": "Standard Pick-up Trucks 4WD"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "slot_filling" }
+    },
+    {
+      "id": "dm_sf_09",
+      "description": "User specifies manufacturer preference",
+      "dialogue_state": {
+        "turn_count": 3,
+        "intent": "provide_information",
+        "slots": {
+          "manufacturer": "Toyota",
+          "fuel_type": "Gasoline"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "slot_filling" }
+    },
+    {
+      "id": "dm_sf_10",
+      "description": "User provides engine displacement after discussing performance",
+      "dialogue_state": {
+        "turn_count": 4,
+        "intent": "provide_information",
+        "slots": {
+          "engine_displacement_l": "3.5",
+          "cylinders": "6",
+          "transmission": "Auto"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "slot_filling" }
+    },
+
+    {
+      "id": "dm_ci_01",
+      "description": "User corrects previously stated fuel type",
+      "dialogue_state": {
+        "turn_count": 4,
+        "intent": "correct_information",
+        "slots": {
+          "fuel_type": "Electricity",
+          "vehicle_class": "Compact Cars"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "correct_info" }
+    },
+    {
+      "id": "dm_ci_02",
+      "description": "User corrects the drivetrain they mentioned earlier",
+      "dialogue_state": {
+        "turn_count": 5,
+        "intent": "correct_information",
+        "slots": {
+          "drivetrain": "4-Wheel Drive",
+          "fuel_type": "Gasoline"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "correct_info" }
+    },
+    {
+      "id": "dm_ci_03",
+      "description": "User corrects the vehicle class from SUV to sedan",
+      "dialogue_state": {
+        "turn_count": 6,
+        "intent": "correct_information",
+        "slots": {
+          "vehicle_class": "Midsize Cars",
+          "manufacturer": "Honda"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "correct_info" }
+    },
+    {
+      "id": "dm_ci_04",
+      "description": "User corrects annual fuel cost budget",
+      "dialogue_state": {
+        "turn_count": 3,
+        "intent": "correct_information",
+        "slots": {
+          "annual_fuel_cost_usd": "2000",
+          "fuel_type": "Gasoline"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "correct_info" }
+    },
+    {
+      "id": "dm_ci_05",
+      "description": "User corrects manufacturer after seeing recommendations",
+      "dialogue_state": {
+        "turn_count": 7,
+        "intent": "correct_information",
+        "slots": {
+          "manufacturer": "Ford",
+          "vehicle_class": "Small SUV 4WD"
+        },
+        "recommended_cars": [
+          { "index": 0, "car": { "manufacturer": "Toyota" }, "score": 3 }
+        ]
+      },
+      "expected": { "action": "correct_info" }
+    },
+    {
+      "id": "dm_ci_06",
+      "description": "User corrects the number of cylinders",
+      "dialogue_state": {
+        "turn_count": 5,
+        "intent": "correct_information",
+        "slots": {
+          "cylinders": "4",
+          "engine_displacement_l": "2.0"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "correct_info" }
+    },
+
+    {
+      "id": "dm_hu_01",
+      "description": "User asks what drivetrain type they should choose",
+      "dialogue_state": {
+        "turn_count": 3,
+        "intent": "require_information",
+        "slots": {
+          "fuel_type": "Gasoline"
+        },
+        "required_slots": ["drivetrain"],
+        "recommended_cars": []
+      },
+      "expected": { "action": "help_user" }
+    },
+    {
+      "id": "dm_hu_02",
+      "description": "User asks what the difference between hybrid and PHEV is",
+      "dialogue_state": {
+        "turn_count": 2,
+        "intent": "require_information",
+        "slots": {},
+        "required_slots": ["fuel_type"],
+        "recommended_cars": []
+      },
+      "expected": { "action": "help_user" }
+    },
+    {
+      "id": "dm_hu_03",
+      "description": "User asks which vehicle class is better for city driving",
+      "dialogue_state": {
+        "turn_count": 4,
+        "intent": "require_information",
+        "slots": {
+          "drivetrain": "2-Wheel Drive, Front"
+        },
+        "required_slots": ["vehicle_class"],
+        "recommended_cars": []
+      },
+      "expected": { "action": "help_user" }
+    },
+    {
+      "id": "dm_hu_04",
+      "description": "User asks the assistant which fuel type is cheaper long term",
+      "dialogue_state": {
+        "turn_count": 3,
+        "intent": "require_information",
+        "slots": {},
+        "required_slots": ["fuel_type", "annual_fuel_cost_usd"],
+        "recommended_cars": []
+      },
+      "expected": { "action": "help_user" }
+    },
+    {
+      "id": "dm_hu_05",
+      "description": "User asks whether AWD or FWD is better for their use case",
+      "dialogue_state": {
+        "turn_count": 5,
+        "intent": "require_information",
+        "slots": {
+          "vehicle_class": "Small SUV 4WD",
+          "fuel_type": "Gasoline"
+        },
+        "required_slots": ["drivetrain"],
+        "recommended_cars": []
+      },
+      "expected": { "action": "help_user" }
+    },
+    {
+      "id": "dm_hu_06",
+      "description": "User asks what MPG rating they should aim for",
+      "dialogue_state": {
+        "turn_count": 2,
+        "intent": "require_information",
+        "slots": {
+          "fuel_type": "Gasoline"
+        },
+        "required_slots": ["combined_mpg"],
+        "recommended_cars": []
+      },
+      "expected": { "action": "help_user" }
+    },
+
+    {
+      "id": "dm_rec_01",
+      "description": "User explicitly asks for a recommendation with several slots filled",
+      "dialogue_state": {
+        "turn_count": 6,
+        "intent": "request_recommendation",
+        "slots": {
+          "fuel_type": "Gasoline",
+          "vehicle_class": "Compact Cars",
+          "drivetrain": "2-Wheel Drive, Front",
+          "combined_mpg": "35"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "recommend" }
+    },
+    {
+      "id": "dm_rec_02",
+      "description": "User asks for recommendation after discussing EV preferences",
+      "dialogue_state": {
+        "turn_count": 8,
+        "intent": "request_recommendation",
+        "slots": {
+          "fuel_type": "Electricity",
+          "vehicle_class": "Midsize Cars",
+          "electric_range_miles": "40",
+          "annual_fuel_cost_usd": "800"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "recommend" }
+    },
+    {
+      "id": "dm_rec_03",
+      "description": "User requests recommendation for a truck with AWD",
+      "dialogue_state": {
+        "turn_count": 7,
+        "intent": "request_recommendation",
+        "slots": {
+          "vehicle_class": "Standard Pick-up Trucks 4WD",
+          "drivetrain": "4-Wheel Drive",
+          "manufacturer": "Ford"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "recommend" }
+    },
+    {
+      "id": "dm_rec_04",
+      "description": "User ready to get recommendation after long conversation",
+      "dialogue_state": {
+        "turn_count": 10,
+        "intent": "request_recommendation",
+        "slots": {
+          "fuel_type": "Gasoline",
+          "vehicle_class": "Standard SUV 4WD",
+          "drivetrain": "All Wheel Drive",
+          "combined_mpg": "28",
+          "co2_emissions_g_per_mile": "300",
+          "fe_rating_1_10": "6"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "recommend" }
+    },
+    {
+      "id": "dm_rec_05",
+      "description": "User asks for a new recommendation after correcting info",
+      "dialogue_state": {
+        "turn_count": 9,
+        "intent": "request_recommendation",
+        "slots": {
+          "manufacturer": "Toyota",
+          "fuel_type": "Gasoline",
+          "transmission": "Auto",
+          "vehicle_class": "Small SUV 4WD"
+        },
+        "recommended_cars": [
+          { "index": 0, "car": { "manufacturer": "Honda" }, "score": 2 }
+        ]
+      },
+      "expected": { "action": "recommend" }
+    },
+    {
+      "id": "dm_rec_06",
+      "description": "User requests recommendation with high MPG constraint",
+      "dialogue_state": {
+        "turn_count": 5,
+        "intent": "request_recommendation",
+        "slots": {
+          "combined_mpg": "50",
+          "fuel_type": "Gasoline",
+          "fe_rating_1_10": "9"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "recommend" }
+    },
+    {
+      "id": "dm_rec_07",
+      "description": "User requests recommendation for a PHEV with cargo space",
+      "dialogue_state": {
+        "turn_count": 7,
+        "intent": "request_recommendation",
+        "slots": {
+          "fuel_type": "Gasoline",
+          "cargo_volume_cu_ft": "25",
+          "phev_blended_mpge": "60",
+          "vehicle_class": "Standard SUV 4WD"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "recommend" }
+    },
+
+    {
+      "id": "dm_ec_01",
+      "description": "User says goodbye explicitly",
+      "dialogue_state": {
+        "turn_count": 8,
+        "intent": "end_conversation",
+        "slots": {
+          "fuel_type": "Gasoline",
+          "vehicle_class": "Compact Cars"
+        },
+        "recommended_cars": []
+      },
+      "expected": { "action": "end_conversation" }
+    },
+    {
+      "id": "dm_ec_02",
+      "description": "User thanks the assistant and ends the session",
+      "dialogue_state": {
+        "turn_count": 12,
+        "intent": "end_conversation",
+        "slots": {
+          "manufacturer": "Toyota",
+          "vehicle_class": "Midsize Cars",
+          "fuel_type": "Electricity"
+        },
+        "recommended_cars": [
+          { "index": 0, "car": { "manufacturer": "Toyota" }, "score": 4 }
+        ]
+      },
+      "expected": { "action": "end_conversation" }
+    },
+    {
+      "id": "dm_ec_03",
+      "description": "User ends conversation after receiving recommendation",
+      "dialogue_state": {
+        "turn_count": 9,
+        "intent": "end_conversation",
+        "slots": {
+          "fuel_type": "Gasoline",
+          "drivetrain": "All Wheel Drive"
+        },
+        "recommended_cars": [
+          { "index": 0, "car": { "manufacturer": "Ford" }, "score": 3 }
+        ]
+      },
+      "expected": { "action": "end_conversation" }
+    },
+    {
+      "id": "dm_ec_04",
+      "description": "User explicitly says they want to stop",
+      "dialogue_state": {
+        "turn_count": 5,
+        "intent": "end_conversation",
+        "slots": {},
+        "recommended_cars": []
+      },
+      "expected": { "action": "end_conversation" }
+    },
+    {
+      "id": "dm_ec_05",
+      "description": "User ends conversation after a long multi-turn session",
+      "dialogue_state": {
+        "turn_count": 15,
+        "intent": "end_conversation",
+        "slots": {
+          "vehicle_class": "Standard SUV 4WD",
+          "fuel_type": "Electricity",
+          "drivetrain": "All Wheel Drive",
+          "manufacturer": "BMW"
+        },
+        "recommended_cars": [
+          { "index": 0, "car": { "manufacturer": "BMW" }, "score": 5 }
+        ]
+      },
+      "expected": { "action": "end_conversation" }
+    }
+
+  ]
+}

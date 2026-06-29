@@ -1,0 +1,504 @@
+{
+  "nlu": [
+    {
+      "id": "nlu_pi_001",
+      "user_input": "I'm looking for a Toyota compact car for city driving",
+      "history": [],
+      "expected": {
+        "intent": "provide_information",
+        "slots": { "manufacturer": "Toyota", "vehicle_class": "Compact Cars" }
+      }
+    },
+    {
+      "id": "nlu_pi_002",
+      "user_input": "I need a fully electric vehicle, I care a lot about the environment",
+      "history": [],
+      "expected": {
+        "intent": "provide_information",
+        "slots": { "fuel_type": "electricity" }
+      }
+    },
+    {
+      "id": "nlu_pi_003",
+      "user_input": "I want a diesel pickup truck with 4-wheel drive",
+      "history": [],
+      "expected": {
+        "intent": "provide_information",
+        "slots": {
+          "fuel_type": "diesel",
+          "vehicle_class": "Standard Pick-up Trucks 4WD",
+          "drivetrain": "4-Wheel Drive"
+        }
+      }
+    },
+    {
+      "id": "nlu_pi_004",
+      "user_input": "I definitely want an automatic transmission, nothing else",
+      "history": [],
+      "expected": {
+        "intent": "provide_information",
+        "slots": { "transmission": "auto" }
+      }
+    },
+    {
+      "id": "nlu_pi_005",
+      "user_input": "I want a BMW, ideally with a 6-cylinder engine",
+      "history": [],
+      "expected": {
+        "intent": "provide_information",
+        "slots": { "manufacturer": "BMW", "cylinders": "6" }
+      }
+    },
+    {
+      "id": "nlu_pi_006",
+      "user_input": "Fuel economy is very important to me, I want at least 40 mpg combined",
+      "history": [],
+      "expected": {
+        "intent": "provide_information",
+        "slots": { "combined_mpg": "40" }
+      }
+    },
+    {
+      "id": "nlu_pi_007",
+      "user_input": "I want all-wheel drive and a 4-cylinder engine for safety and efficiency",
+      "history": [],
+      "expected": {
+        "intent": "provide_information",
+        "slots": { "drivetrain": "All-Wheel Drive", "cylinders": "4" }
+      }
+    },
+    {
+      "id": "nlu_pi_008",
+      "user_input": "My yearly fuel budget is around 1500 dollars and I prefer a midsize car",
+      "history": [],
+      "expected": {
+        "intent": "provide_information",
+        "slots": { "annual_fuel_cost_usd": "1500", "vehicle_class": "Midsize Cars" }
+      }
+    },
+    {
+      "id": "nlu_pi_009",
+      "user_input": "I'd like a Honda SUV with all-wheel drive for occasional off-road use",
+      "history": [],
+      "expected": {
+        "intent": "provide_information",
+        "slots": { "manufacturer": "Honda", "vehicle_class": "Small SUV 4WD", "drivetrain": "All-Wheel Drive" }
+      }
+    },
+    {
+      "id": "nlu_pi_010",
+      "user_input": "I want something with a 3.5 liter engine and rear-wheel drive",
+      "history": [],
+      "expected": {
+        "intent": "provide_information",
+        "slots": { "engine_displacement_l": "3.5", "drivetrain": "2-Wheel Drive, Rear" }
+      }
+    },
+    {
+      "id": "nlu_ri_001",
+      "user_input": "What types of fuel are available in your database?",
+      "history": [],
+      "expected": {
+        "intent": "require_information",
+        "slots": { "required_slots": ["fuel_type"] }
+      }
+    },
+    {
+      "id": "nlu_ri_002",
+      "user_input": "Can you explain the difference between 2WD and 4WD?",
+      "history": [],
+      "expected": {
+        "intent": "require_information",
+        "slots": { "required_slots": ["drivetrain"] }
+      }
+    },
+    {
+      "id": "nlu_ri_003",
+      "user_input": "I don't know much about MPG, what should I be aiming for?",
+      "history": [],
+      "expected": {
+        "intent": "require_information",
+        "slots": { "required_slots": ["combined_mpg"] }
+      }
+    },
+    {
+      "id": "nlu_ri_004",
+      "user_input": "What vehicle classes do you have? I'm not sure which one fits my lifestyle",
+      "history": [],
+      "expected": {
+        "intent": "require_information",
+        "slots": { "required_slots": ["vehicle_class"] }
+      }
+    },
+    {
+      "id": "nlu_ri_005",
+      "user_input": "What is the difference between automatic and manual in terms of efficiency?",
+      "history": [],
+      "expected": {
+        "intent": "require_information",
+        "slots": { "required_slots": ["transmission"] }
+      }
+    },
+    {
+      "id": "nlu_ci_001",
+      "user_input": "Actually, I changed my mind, I want gasoline not electric",
+      "history": [
+        {"role": "user", "content": "I want an electric car"},
+        {"role": "assistant", "content": "Great choice! Any preference on the vehicle type?"}
+      ],
+      "expected": {
+        "intent": "correct_information",
+        "slots": { "fuel_type": "gasoline" }
+      }
+    },
+    {
+      "id": "nlu_ci_002",
+      "user_input": "Sorry, I meant Honda, not Toyota",
+      "history": [
+        {"role": "user", "content": "I want a Toyota SUV"},
+        {"role": "assistant", "content": "Toyota has some great SUVs! Do you prefer 2WD or 4WD?"}
+      ],
+      "expected": {
+        "intent": "correct_information",
+        "slots": { "manufacturer": "Honda" }
+      }
+    },
+    {
+      "id": "nlu_ci_003",
+      "user_input": "Actually, forget the compact class, I think I need a larger car, a standard SUV",
+      "history": [
+        {"role": "user", "content": "I want a compact car"},
+        {"role": "assistant", "content": "Compact cars are great for city driving. Any other preferences?"}
+      ],
+      "expected": {
+        "intent": "correct_information",
+        "slots": { "vehicle_class": "Standard SUV 4WD" }
+      }
+    },
+    {
+      "id": "nlu_ci_004",
+      "user_input": "I take it back, I'd rather have a manual transmission",
+      "history": [
+        {"role": "user", "content": "Automatic transmission please"},
+        {"role": "assistant", "content": "Got it! Do you have a fuel preference?"}
+      ],
+      "expected": {
+        "intent": "correct_information",
+        "slots": { "transmission": "manual" }
+      }
+    },
+    {
+      "id": "nlu_ci_005",
+      "user_input": "Wait, I should have said front-wheel drive, not rear-wheel drive",
+      "history": [
+        {"role": "user", "content": "I want rear-wheel drive"},
+        {"role": "assistant", "content": "Understood! Any brand preference?"}
+      ],
+      "expected": {
+        "intent": "correct_information",
+        "slots": { "drivetrain": "2-Wheel Drive, Front" }
+      }
+    },
+    {
+      "id": "nlu_rr_001",
+      "user_input": "Based on what I told you, can you recommend some cars?",
+      "history": [
+        {"role": "user", "content": "I want a Toyota SUV with automatic transmission"},
+        {"role": "assistant", "content": "Great choices! Any other preferences?"}
+      ],
+      "expected": {
+        "intent": "request_recommendation",
+        "slots": {}
+      }
+    },
+    {
+      "id": "nlu_rr_002",
+      "user_input": "What would you suggest for me?",
+      "history": [
+        {"role": "user", "content": "I care about fuel economy and prefer electric"},
+        {"role": "assistant", "content": "Good to know! What size of vehicle are you thinking?"}
+      ],
+      "expected": {
+        "intent": "request_recommendation",
+        "slots": {}
+      }
+    },
+    {
+      "id": "nlu_rr_003",
+      "user_input": "I think I've given you enough info, show me some options please",
+      "history": [],
+      "expected": {
+        "intent": "request_recommendation",
+        "slots": {}
+      }
+    },
+    {
+      "id": "nlu_rr_004",
+      "user_input": "Find me a good car",
+      "history": [],
+      "expected": {
+        "intent": "request_recommendation",
+        "slots": {}
+      }
+    },
+    {
+      "id": "nlu_rr_005",
+      "user_input": "Ok, I think you have enough information, give me your best recommendation",
+      "history": [
+        {"role": "user", "content": "I want a diesel truck"},
+        {"role": "assistant", "content": "Noted! Anything else to narrow it down?"}
+      ],
+      "expected": {
+        "intent": "request_recommendation",
+        "slots": {}
+      }
+    },
+    {
+      "id": "nlu_ec_001",
+      "user_input": "Thank you so much, goodbye!",
+      "history": [],
+      "expected": {
+        "intent": "end_conversation",
+        "slots": {}
+      }
+    },
+    {
+      "id": "nlu_ec_002",
+      "user_input": "That's all I needed, I'll look into the recommendations. Bye!",
+      "history": [],
+      "expected": {
+        "intent": "end_conversation",
+        "slots": {}
+      }
+    },
+    {
+      "id": "nlu_ec_003",
+      "user_input": "I'm done here, thanks for your help",
+      "history": [],
+      "expected": {
+        "intent": "end_conversation",
+        "slots": {}
+      }
+    },
+    {
+      "id": "nlu_ec_004",
+      "user_input": "Goodbye, have a nice day",
+      "history": [],
+      "expected": {
+        "intent": "end_conversation",
+        "slots": {}
+      }
+    },
+    {
+      "id": "nlu_ec_005",
+      "user_input": "I think I'm good for now, no more questions. See you!",
+      "history": [],
+      "expected": {
+        "intent": "end_conversation",
+        "slots": {}
+      }
+    }
+  ],
+  "dm": [
+    {
+      "id": "dm_sf_001",
+      "dialogue_state": {
+        "intent": "provide_information",
+        "slots": { "manufacturer": "Toyota" },
+        "recommended_cars": [],
+        "turn_count": 1
+      },
+      "expected_action": "slot_filling"
+    },
+    {
+      "id": "dm_sf_002",
+      "dialogue_state": {
+        "intent": "provide_information",
+        "slots": { "fuel_type": "electricity", "vehicle_class": "Compact Cars" },
+        "recommended_cars": [],
+        "turn_count": 2
+      },
+      "expected_action": "slot_filling"
+    },
+    {
+      "id": "dm_sf_003",
+      "dialogue_state": {
+        "intent": "provide_information",
+        "slots": { "manufacturer": "BMW", "vehicle_class": "Midsize Cars", "transmission": "auto" },
+        "recommended_cars": [],
+        "turn_count": 3
+      },
+      "expected_action": "slot_filling"
+    },
+    {
+      "id": "dm_sf_004",
+      "dialogue_state": {
+        "intent": "provide_information",
+        "slots": { "drivetrain": "4-Wheel Drive" },
+        "recommended_cars": [],
+        "turn_count": 1
+      },
+      "expected_action": "slot_filling"
+    },
+    {
+      "id": "dm_sf_005",
+      "dialogue_state": {
+        "intent": "provide_information",
+        "slots": { "fuel_type": "diesel", "cylinders": "6", "annual_fuel_cost_usd": "2000" },
+        "recommended_cars": [],
+        "turn_count": 4
+      },
+      "expected_action": "slot_filling"
+    },
+    {
+      "id": "dm_rec_001",
+      "dialogue_state": {
+        "intent": "request_recommendation",
+        "slots": { "manufacturer": "Toyota", "vehicle_class": "Compact Cars" },
+        "recommended_cars": [],
+        "turn_count": 3
+      },
+      "expected_action": "recommend"
+    },
+    {
+      "id": "dm_rec_002",
+      "dialogue_state": {
+        "intent": "request_recommendation",
+        "slots": { "fuel_type": "electricity", "drivetrain": "All-Wheel Drive" },
+        "recommended_cars": [],
+        "turn_count": 4
+      },
+      "expected_action": "recommend"
+    },
+    {
+      "id": "dm_rec_003",
+      "dialogue_state": {
+        "intent": "request_recommendation",
+        "slots": {},
+        "recommended_cars": [],
+        "turn_count": 1
+      },
+      "expected_action": "recommend"
+    },
+    {
+      "id": "dm_rec_004",
+      "dialogue_state": {
+        "intent": "request_recommendation",
+        "slots": { "manufacturer": "Honda", "cylinders": "4", "transmission": "auto" },
+        "recommended_cars": [],
+        "turn_count": 5
+      },
+      "expected_action": "recommend"
+    },
+    {
+      "id": "dm_hu_001",
+      "dialogue_state": {
+        "intent": "require_information",
+        "slots": { "required_slots": ["fuel_type"] },
+        "recommended_cars": [],
+        "turn_count": 2
+      },
+      "expected_action": "help_user"
+    },
+    {
+      "id": "dm_hu_002",
+      "dialogue_state": {
+        "intent": "require_information",
+        "slots": { "required_slots": ["vehicle_class", "drivetrain"] },
+        "recommended_cars": [],
+        "turn_count": 3
+      },
+      "expected_action": "help_user"
+    },
+    {
+      "id": "dm_hu_003",
+      "dialogue_state": {
+        "intent": "require_information",
+        "slots": { "required_slots": ["combined_mpg"] },
+        "recommended_cars": [],
+        "turn_count": 1
+      },
+      "expected_action": "help_user"
+    },
+    {
+      "id": "dm_hu_004",
+      "dialogue_state": {
+        "intent": "require_information",
+        "slots": { "required_slots": ["transmission"] },
+        "recommended_cars": [],
+        "turn_count": 4
+      },
+      "expected_action": "help_user"
+    },
+    {
+      "id": "dm_ci_001",
+      "dialogue_state": {
+        "intent": "correct_information",
+        "slots": { "fuel_type": "gasoline", "manufacturer": "Toyota" },
+        "recommended_cars": [],
+        "turn_count": 3
+      },
+      "expected_action": "correct_info"
+    },
+    {
+      "id": "dm_ci_002",
+      "dialogue_state": {
+        "intent": "correct_information",
+        "slots": { "vehicle_class": "Midsize Cars" },
+        "recommended_cars": [],
+        "turn_count": 4
+      },
+      "expected_action": "correct_info"
+    },
+    {
+      "id": "dm_ci_003",
+      "dialogue_state": {
+        "intent": "correct_information",
+        "slots": { "transmission": "manual", "drivetrain": "All-Wheel Drive" },
+        "recommended_cars": [],
+        "turn_count": 2
+      },
+      "expected_action": "correct_info"
+    },
+    {
+      "id": "dm_ci_004",
+      "dialogue_state": {
+        "intent": "correct_information",
+        "slots": { "manufacturer": "Honda" },
+        "recommended_cars": [],
+        "turn_count": 5
+      },
+      "expected_action": "correct_info"
+    },
+    {
+      "id": "dm_ec_001",
+      "dialogue_state": {
+        "intent": "end_conversation",
+        "slots": { "manufacturer": "Toyota", "fuel_type": "electricity" },
+        "recommended_cars": [],
+        "turn_count": 8
+      },
+      "expected_action": "end_conversation"
+    },
+    {
+      "id": "dm_ec_002",
+      "dialogue_state": {
+        "intent": "end_conversation",
+        "slots": {},
+        "recommended_cars": [],
+        "turn_count": 3
+      },
+      "expected_action": "end_conversation"
+    },
+    {
+      "id": "dm_ec_003",
+      "dialogue_state": {
+        "intent": "end_conversation",
+        "slots": { "vehicle_class": "Compact Cars", "transmission": "auto" },
+        "recommended_cars": [],
+        "turn_count": 12
+      },
+      "expected_action": "end_conversation"
+    }
+  ]
+}
