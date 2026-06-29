@@ -1,0 +1,1178 @@
+label_id,model_year,manufacturer,brand,model,vehicle_class,powertrain_type,fuel_type,engine_displacement_l,cylinders,transmission,drivetrain,cargo_volume_cu_ft,city_mpg,highway_mpg,combined_mpg,driving_range_miles,electric_range_miles,phev_blended_mpge,annual_fuel_cost_usd,co2_emissions_g_per_mile,fe_rating_1_10,release_date
+FEguide-37419,2026,aston martin,Aston Martin Lagonda Ltd,Vantage,Two Seaters,Gasoline,Gasoline,4.0,8,Auto(A8),"2-Wheel Drive, Rear",,15,22,18,,,,3450,498,3,2025-06-06
+FEguide-37041,2026,aston martin,Aston Martin Lagonda Ltd,Vanquish,Two Seaters,Gasoline,Gasoline,5.2,12,Auto(A8),"2-Wheel Drive, Rear",,13,21,16,,,,3900,563,3,2025-06-06
+FEguide-37422,2026,aston martin,Aston Martin Lagonda Ltd,Vanquish Volante,Two Seaters,Gasoline,Gasoline,5.2,12,Auto(A8),"2-Wheel Drive, Rear",,13,20,16,,,,3900,568,3,2025-06-06
+FEguide-36388,2026,BMW,BMW,Z4 sDrive30i,Two Seaters,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Rear",,25,33,28,,,,2200,312,5,2025-04-01
+FEguide-36400,2026,BMW,BMW,Z4 M40i,Two Seaters,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",,23,29,25,,,,2500,346,5,2025-04-01
+FEguide-36395,2026,BMW,BMW,Z4 M40i,Two Seaters,Gasoline,Gasoline,3.0,6,Manual(M6),"2-Wheel Drive, Rear",,19,26,22,,,,2850,407,4,2025-04-01
+FEguide-37125,2026,General Motors,Chevrolet,CORVETTE,Two Seaters,Gasoline,Gasoline,6.2,8,Auto(S8),"2-Wheel Drive, Rear",,16,25,19,,,,3300,474,4,2025-08-04
+FEguide-38198,2026,General Motors,Chevrolet,CORVETTE E-RAY,Two Seaters,Gasoline,Gasoline,6.2,8,Auto(S8),All Wheel Drive,,16,24,19,,,,3300,477,4,2025-08-04
+FEguide-37106,2026,General Motors,Chevrolet,CORVETTE ZR1,Two Seaters,Gasoline,Gasoline,5.5,8,Auto(S8),"2-Wheel Drive, Rear",,12,18,14,,,,4450,629,2,2025-08-04
+FEguide-38197,2026,General Motors,Chevrolet,CORVETTE ZR1X,Two Seaters,Gasoline,Gasoline,5.5,8,Auto(S8),All Wheel Drive,,12,19,14,,,,4450,613,2,2025-12-08
+FEguide-37104,2026,General Motors,Chevrolet,CORVETTE Z06,Two Seaters,Gasoline,Gasoline,5.5,8,Auto(S8),"2-Wheel Drive, Rear",,12,21,15,,,,4150,597,2,2025-08-04
+FEguide-37105,2026,General Motors,Chevrolet,CORVETTE Z06 CARBON AERO,Two Seaters,Gasoline,Gasoline,5.5,8,Auto(S8),"2-Wheel Drive, Rear",,12,19,14,,,,4450,631,2,2025-08-04
+FEguide-37592,2026,Ferrari,Ferrari S.p.A.,12Cilindri,Two Seaters,Gasoline,Gasoline,6.5,12,Auto(AM8),"2-Wheel Drive, Rear",5.0,12,19,14,,,,4450,619,2,2025-09-30
+FEguide-37593,2026,Ferrari,Ferrari S.p.A.,12Cilindri Spider,Two Seaters,Gasoline,Gasoline,6.5,12,Auto(AM8),"2-Wheel Drive, Rear",4.0,12,17,14,,,,4450,633,2,2025-09-30
+FEguide-38061,2026,Ferrari,Ferrari S.p.A.,F80,Two Seaters,Gasoline,Gasoline,2.9,6,Auto(AM8),All Wheel Drive,,15,20,17,,,,3650,531,3,2026-01-01
+FEguide-37802,2026,Lotus,Lotus Cars Ltd,Emira,Two Seaters,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Rear",5.0,18,26,21,,,,2350,418,4,2025-11-01
+FEguide-38212,2026,Maserati,MASERATI,MCPURA,Two Seaters,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",,15,25,18,,,,3450,474,3,2026-01-26
+FEguide-38213,2026,Maserati,MASERATI,GT2 Stradale,Two Seaters,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",,15,25,18,,,,3450,474,3,2026-01-26
+FEguide-38211,2026,Maserati,MASERATI,MCPURA Spyder,Two Seaters,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",,15,25,18,,,,3450,482,3,2026-01-26
+FEguide-37970,2026,MAZDA,MAZDA,MX-5,Two Seaters,Gasoline,Gasoline,2.0,4,Manual(M6),"2-Wheel Drive, Rear",,26,34,29,,,,2150,305,6,2026-02-19
+FEguide-37971,2026,MAZDA,MAZDA,MX-5,Two Seaters,Gasoline,Gasoline,2.0,4,Auto(S6),"2-Wheel Drive, Rear",,26,35,29,,,,2150,301,6,2026-02-19
+FEguide-37259,2026,Mercedes-Benz,Mercedes-Benz,AMG GT 55 4MATIC+ (coupe),Two Seaters,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,,14,20,16,,,,3900,558,3,2025-08-02
+FEguide-37260,2026,Mercedes-Benz,Mercedes-Benz,AMG GT 63 4MATIC+ (coupe),Two Seaters,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,,14,20,16,,,,3900,558,3,2025-08-02
+FEguide-37261,2026,Mercedes-Benz,Mercedes-Benz,AMG GT 63 PRO 4MATIC+ (coupe),Two Seaters,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,,14,20,16,,,,3900,558,3,2025-08-02
+FEguide-37087,2026,Nissan,NISSAN,Z,Two Seaters,Gasoline,Gasoline,3.0,6,Manual(M6),"2-Wheel Drive, Rear",,18,24,20,,,,3100,435,4,2025-09-17
+FEguide-37088,2026,Nissan,NISSAN,Z,Two Seaters,Gasoline,Gasoline,3.0,6,Auto(S9),"2-Wheel Drive, Rear",,19,28,22,,,,2850,405,4,2025-09-17
+FEguide-37089,2026,Nissan,NISSAN,Z NISMO,Two Seaters,Gasoline,Gasoline,3.0,6,Auto(S9),"2-Wheel Drive, Rear",,17,24,19,,,,3300,469,4,2025-09-17
+FEguide-38300,2026,Porsche,Porsche,911 GT3,Two Seaters,Gasoline,Gasoline,4.0,6,Auto(AM-S7),"2-Wheel Drive, Rear",,14,17,15,,,,4150,593,2,2025-08-15
+FEguide-38301,2026,Porsche,Porsche,911 GT3,Two Seaters,Gasoline,Gasoline,4.0,6,Manual(M6),"2-Wheel Drive, Rear",,13,18,15,,,,4150,594,2,2025-08-15
+FEguide-38302,2026,Porsche,Porsche,911 GT3 Touring,Two Seaters,Gasoline,Gasoline,4.0,6,Auto(AM-S7),"2-Wheel Drive, Rear",,14,18,15,,,,4150,595,2,2025-08-15
+FEguide-38303,2026,Porsche,Porsche,911 GT3 Touring,Two Seaters,Gasoline,Gasoline,4.0,6,Manual(M6),"2-Wheel Drive, Rear",,13,18,15,,,,4150,594,2,2025-08-15
+FEguide-36361,2026,BMW,TOYOTA,Supra 2.0,Two Seaters,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Rear",,25,31,27,,,,2300,322,5,2025-03-01
+FEguide-36362,2026,BMW,TOYOTA,Supra 3.0,Two Seaters,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",,22,29,25,,,,2500,349,5,2025-03-01
+FEguide-36363,2026,BMW,TOYOTA,Supra 3.0,Two Seaters,Gasoline,Gasoline,3.0,6,Manual(M6),"2-Wheel Drive, Rear",,19,26,21,,,,2950,408,4,2025-03-01
+FEguide-37417,2026,aston martin,Aston Martin Lagonda Ltd,DB12 V8,Minicompact Cars,Gasoline,Gasoline,4.0,8,Auto(A8),"2-Wheel Drive, Rear",9.0,15,22,17,,,,3650,507,3,2025-06-06
+FEguide-38265,2026,aston martin,Aston Martin Lagonda Ltd,DB12 S,Minicompact Cars,Gasoline,Gasoline,4.0,8,Auto(A8),"2-Wheel Drive, Rear",9.0,14,21,17,,,,3650,522,3,2026-03-17
+FEguide-37589,2026,Ferrari,Ferrari S.p.A.,Roma Spider,Minicompact Cars,Gasoline,Gasoline,3.9,8,Auto(AM8),"2-Wheel Drive, Rear",6.0,17,22,19,,,,3300,467,4,2025-09-30
+FEguide-36988,2026,Toyota,LEXUS,LC 500 CONVERTIBLE,Minicompact Cars,Gasoline,Gasoline,5.0,8,Auto(S10),"2-Wheel Drive, Rear",3.0,15,25,18,,,,3450,489,3,2025-08-18
+FEguide-37225,2026,Mercedes-Benz,Mercedes-Benz,AMG SL 43,Minicompact Cars,Gasoline,Gasoline,2.0,4,Auto(A9),"2-Wheel Drive, Rear",6.0,19,27,22,,,,2850,400,4,2025-07-30
+FEguide-37256,2026,Mercedes-Benz,Mercedes-Benz,SL 680 Maybach,Minicompact Cars,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,6.0,13,20,16,,,,3900,558,3,2025-08-02
+FEguide-37257,2026,Mercedes-Benz,Mercedes-Benz,AMG SL 63 4MATIC+,Minicompact Cars,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,6.0,14,21,16,,,,3900,552,3,2025-08-02
+FEguide-37258,2026,Mercedes-Benz,Mercedes-Benz,AMG SL 55 4MATIC+,Minicompact Cars,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,6.0,14,21,16,,,,3900,552,3,2025-08-02
+FEguide-36951,2026,BMW,Mini,Cooper C Convertible,Minicompact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),"2-Wheel Drive, Front",5.0,27,37,30,,,,2100,287,6,2025-08-01
+FEguide-36952,2026,BMW,Mini,Cooper S Convertible,Minicompact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),"2-Wheel Drive, Front",5.0,26,36,30,,,,2100,292,6,2025-08-01
+FEguide-37044,2026,BMW,Mini,JCW Convertible,Minicompact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),"2-Wheel Drive, Front",5.0,26,35,30,,,,2100,296,6,2025-08-01
+FEguide-37333,2026,Porsche,Porsche,911 Carrera,Minicompact Cars,Gasoline,Gasoline,3.0,6,Auto(AM-S8),"2-Wheel Drive, Rear",5.0,18,25,21,,,,2950,424,4,2025-08-18
+FEguide-37334,2026,Porsche,Porsche,911 Carrera Cabriolet,Minicompact Cars,Gasoline,Gasoline,3.0,6,Auto(AM-S8),"2-Wheel Drive, Rear",5.0,18,25,21,,,,2950,429,4,2025-08-15
+FEguide-37335,2026,Porsche,Porsche,911 Carrera S,Minicompact Cars,Gasoline,Gasoline,3.0,6,Auto(AM-S8),"2-Wheel Drive, Rear",5.0,17,24,20,,,,3100,445,4,2025-08-15
+FEguide-37336,2026,Porsche,Porsche,911 Carrera S Cabriolet,Minicompact Cars,Gasoline,Gasoline,3.0,6,Auto(AM-S8),"2-Wheel Drive, Rear",5.0,17,24,20,,,,3100,455,4,2025-08-15
+FEguide-37337,2026,Porsche,Porsche,911 Carrera T,Minicompact Cars,Gasoline,Gasoline,3.0,6,Manual(M6),"2-Wheel Drive, Rear",5.0,17,25,20,,,,3100,448,4,2025-08-15
+FEguide-37338,2026,Porsche,Porsche,911 Carrera T Cabriolet,Minicompact Cars,Gasoline,Gasoline,3.0,6,Manual(M6),"2-Wheel Drive, Rear",5.0,17,25,19,,,,3300,469,4,2025-08-15
+FEguide-37791,2026,Porsche,Porsche,911 Carrera 4S,Minicompact Cars,Gasoline,Gasoline,3.0,6,Auto(AM-S8),All Wheel Drive,5.0,17,24,20,,,,3100,453,4,2025-10-15
+FEguide-37811,2026,Porsche,Porsche,911 Carrera 4S Cabriolet,Minicompact Cars,Gasoline,Gasoline,3.0,6,Auto(AM-S8),All Wheel Drive,5.0,17,24,20,,,,3100,446,4,2025-10-15
+FEguide-37797,2026,Porsche,Porsche,911 Targa 4S,Minicompact Cars,Gasoline,Gasoline,3.0,6,Auto(AM-S8),All Wheel Drive,5.0,17,24,20,,,,3100,447,4,2025-10-15
+FEguide-37432,2026,Porsche,Porsche,911 Carrera GTS,Minicompact Cars,Gasoline,Gasoline,3.6,6,Auto(AM-S8),"2-Wheel Drive, Rear",5.0,17,24,20,,,,3100,453,4,2025-08-28
+FEguide-37433,2026,Porsche,Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,Gasoline,Gasoline,3.6,6,Auto(AM-S8),"2-Wheel Drive, Rear",5.0,17,23,19,,,,3300,467,4,2025-08-28
+FEguide-37436,2026,Porsche,Porsche,911 Carrera 4 GTS,Minicompact Cars,Gasoline,Gasoline,3.6,6,Auto(AM-S8),All Wheel Drive,5.0,17,23,19,,,,3300,468,4,2025-08-28
+FEguide-37434,2026,Porsche,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,Gasoline,Gasoline,3.6,6,Auto(AM-S8),All Wheel Drive,5.0,17,23,19,,,,3300,469,4,2025-08-28
+FEguide-37435,2026,Porsche,Porsche,911 Targa 4 GTS,Minicompact Cars,Gasoline,Gasoline,3.6,6,Auto(AM-S8),All Wheel Drive,5.0,17,23,19,,,,3300,467,4,2025-08-28
+FEguide-38217,2026,Porsche,Porsche,911 Turbo S,Minicompact Cars,Gasoline,Gasoline,3.6,6,Auto(AM-S8),All Wheel Drive,5.0,15,22,18,,,,3450,503,3,2026-02-13
+FEguide-38219,2026,Porsche,Porsche,911 Turbo S Cabriolet,Minicompact Cars,Gasoline,Gasoline,3.6,6,Auto(AM-S8),All Wheel Drive,5.0,15,22,18,,,,3450,504,3,2026-02-13
+FEguide-37529,2026,Subaru,Subaru,BRZ,Minicompact Cars,Gasoline,Gasoline,2.4,4,Manual(M6),"2-Wheel Drive, Rear",6.0,20,27,22,,,,2850,399,4,2025-09-01
+FEguide-37530,2026,Subaru,Subaru,BRZ,Minicompact Cars,Gasoline,Gasoline,2.4,4,Auto(S6),"2-Wheel Drive, Rear",6.0,21,30,25,,,,2500,362,5,2025-09-01
+FEguide-37564,2026,Volkswagen Group of,Audi,A3 quattro,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,8.0,24,34,28,,,,2200,323,5,2025-09-09
+FEguide-37585,2026,Volkswagen Group of,Audi,S3,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,8.0,23,31,26,,,,2400,346,5,2025-09-11
+FEguide-37583,2026,Volkswagen Group of,Audi,RS 3,Subcompact Cars,Gasoline,Gasoline,2.5,5,Auto(AM-S7),All Wheel Drive,8.0,20,29,23,,,,2700,387,5,2025-09-11
+FEguide-36641,2026,BMW,BMW,230i Coupe,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Rear",10.0,26,35,30,,,,2100,296,6,2025-08-01
+FEguide-36643,2026,BMW,BMW,230i xDrive Coupe,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,10.0,25,33,28,,,,2200,313,5,2025-08-01
+FEguide-36646,2026,BMW,BMW,M240i Coupe,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",10.0,23,32,26,,,,2400,339,5,2025-08-01
+FEguide-36647,2026,BMW,BMW,M240i xDrive Coupe,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,10.0,23,32,26,,,,2400,336,5,2025-08-01
+FEguide-36658,2026,BMW,BMW,M2 Coupe,Subcompact Cars,Gasoline,Gasoline,3.0,6,Manual(M6),"2-Wheel Drive, Rear",10.0,16,23,19,,,,3300,473,4,2025-08-01
+FEguide-36659,2026,BMW,BMW,M2 Coupe,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",10.0,16,23,19,,,,3300,466,4,2025-08-01
+FEguide-37124,2026,BMW,BMW,M2 Coupe CS,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",10.0,16,23,19,,,,3300,475,4,2025-08-01
+FEguide-36635,2026,BMW,BMW,430i Coupe,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Rear",12.0,28,36,31,,,,2000,285,6,2025-04-01
+FEguide-36637,2026,BMW,BMW,430i xDrive Coupe,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,12.0,27,34,30,,,,2100,294,6,2025-04-01
+FEguide-36634,2026,BMW,BMW,430i Convertible,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Rear",9.0,27,35,30,,,,2100,295,6,2025-04-01
+FEguide-36636,2026,BMW,BMW,430i xDrive Convertible,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,9.0,24,33,28,,,,2200,316,5,2025-04-01
+FEguide-36393,2026,BMW,BMW,M440i Coupe,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",12.0,27,34,30,,,,2100,296,6,2025-04-01
+FEguide-36390,2026,BMW,BMW,M440i xDrive Coupe,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,12.0,26,33,29,,,,2150,301,6,2025-04-01
+FEguide-36394,2026,BMW,BMW,M440i Convertible,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",9.0,27,33,29,,,,2150,300,6,2025-04-01
+FEguide-36391,2026,BMW,BMW,M440i xDrive Convertible,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,9.0,25,32,28,,,,2200,312,5,2025-04-01
+FEguide-36429,2026,BMW,BMW,M4 Coupe,Subcompact Cars,Gasoline,Gasoline,3.0,6,Manual(M6),"2-Wheel Drive, Rear",12.0,16,23,19,,,,3300,472,4,2025-04-01
+FEguide-36432,2026,BMW,BMW,M4 Competition Coupe,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",12.0,16,23,19,,,,3300,470,4,2025-04-01
+FEguide-36430,2026,BMW,BMW,M4 Competition M xDrive Coupe,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,12.0,16,23,18,,,,3450,472,3,2025-04-01
+FEguide-36431,2026,BMW,BMW,M4CompetitionMxDriveConvertible,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,9.0,16,22,18,,,,3450,479,3,2025-04-01
+FEguide-36403,2026,BMW,BMW,840i Coupe,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",15.0,21,29,24,,,,2600,368,5,2025-04-01
+FEguide-36396,2026,BMW,BMW,840i xDrive Coupe,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,15.0,21,29,24,,,,2600,373,5,2025-04-01
+FEguide-36406,2026,BMW,BMW,840i Convertible,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",12.0,21,29,24,,,,2600,368,5,2025-04-01
+FEguide-36398,2026,BMW,BMW,840i xDrive Convertible,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,12.0,21,29,24,,,,2600,373,5,2025-04-01
+FEguide-36413,2026,BMW,BMW,M850i xDrive Coupe,Subcompact Cars,Gasoline,Gasoline,4.4,8,Auto(S8),All Wheel Drive,15.0,17,24,19,,,,3300,456,4,2025-04-01
+FEguide-36414,2026,BMW,BMW,M850i xDrive Convertible,Subcompact Cars,Gasoline,Gasoline,4.4,8,Auto(S8),All Wheel Drive,12.0,17,24,19,,,,3300,456,4,2025-04-01
+FEguide-37743,2026,Ford Motor Company,Ford,MUSTANG,Subcompact Cars,Gasoline,Gasoline,5.0,8,Auto(S10),"2-Wheel Drive, Rear",12.0,16,24,19,,,,2600,468,4,2025-09-08
+FEguide-37744,2026,Ford Motor Company,Ford,MUSTANG,Subcompact Cars,Gasoline,Gasoline,5.0,8,Manual(M6),"2-Wheel Drive, Rear",12.0,15,23,18,,,,2750,494,3,2025-09-08
+FEguide-37796,2026,Ford Motor Company,Ford,MUSTANG,Subcompact Cars,Gasoline,Gasoline,2.3,4,Auto(A10),"2-Wheel Drive, Rear",12.0,22,33,26,,,,1900,341,5,2025-09-19
+FEguide-37741,2026,Ford Motor Company,Ford,MUSTANG DARK HORSE,Subcompact Cars,Gasoline,Gasoline,5.0,8,Auto(S10),"2-Wheel Drive, Rear",12.0,14,22,17,,,,2900,525,3,2025-09-08
+FEguide-37742,2026,Ford Motor Company,Ford,MUSTANG DARK HORSE,Subcompact Cars,Gasoline,Gasoline,5.0,8,Manual(M6),"2-Wheel Drive, Rear",12.0,14,22,17,,,,2900,533,3,2025-09-08
+FEguide-38195,2026,Ford Motor Company,Ford,MUSTANG GTD,Subcompact Cars,Gasoline,Gasoline,5.2,8,Auto(AM-S8),"2-Wheel Drive, Rear",12.0,10,17,12,,,,5200,741,1,2025-12-01
+FEguide-37357,2026,Honda,Honda,PRELUDE,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",15.0,46,41,44,,,,1100,203,7,2025-11-03
+FEguide-36987,2026,Toyota,LEXUS,LC 500,Subcompact Cars,Gasoline,Gasoline,5.0,8,Auto(S10),"2-Wheel Drive, Rear",5.0,16,24,18,,,,3450,481,3,2025-08-18
+FEguide-37636,2026,Maserati,MASERATI,Granturismo Trofeo,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(A8),All Wheel Drive,9.0,18,27,21,,,,2950,412,4,2025-08-22
+FEguide-37638,2026,Maserati,MASERATI,Grancabrio Trofeo,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(A8),All Wheel Drive,7.0,17,26,20,,,,3100,430,4,2025-08-22
+FEguide-37637,2026,Maserati,MASERATI,Granturismo,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(A8),All Wheel Drive,9.0,18,27,21,,,,2950,412,4,2025-08-22
+FEguide-37639,2026,Maserati,MASERATI,Grancabrio,Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(A8),All Wheel Drive,7.0,17,26,20,,,,3100,430,4,2025-08-22
+FEguide-37094,2026,Mercedes-Benz,Mercedes-Benz,CLE 300 4MATIC (convertible),Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,10.0,23,32,26,,,,2400,340,5,2025-07-22
+FEguide-37095,2026,Mercedes-Benz,Mercedes-Benz,CLE 300 4MATIC (Coupe),Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,11.0,24,33,27,,,,2300,323,5,2025-07-22
+FEguide-37131,2026,Mercedes-Benz,Mercedes-Benz,CLE 450 4MATIC (Convertible),Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,10.0,23,32,26,,,,2400,338,5,2025-08-01
+FEguide-37133,2026,Mercedes-Benz,Mercedes-Benz,CLE 450 4MATIC (Coupe),Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,11.0,23,33,26,,,,2400,339,5,2025-08-01
+FEguide-37138,2026,Mercedes-Benz,Mercedes-Benz,AMG CLE 53 4MATIC+ (convertible),Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,10.0,19,26,22,,,,2850,408,4,2025-07-25
+FEguide-37137,2026,Mercedes-Benz,Mercedes-Benz,AMG CLE 53 4MATIC+ (coupe),Subcompact Cars,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,11.0,20,27,23,,,,2700,391,5,2025-07-25
+FEguide-37228,2026,Mercedes-Benz,Mercedes-Benz,AMG GT 43 (coupe),Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(A9),"2-Wheel Drive, Rear",16.0,19,27,22,,,,2850,405,4,2025-07-30
+FEguide-37038,2026,BMW,Mini,Cooper C 2 Door,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),"2-Wheel Drive, Front",13.0,27,39,32,,,,1950,278,6,2025-08-01
+FEguide-37037,2026,BMW,Mini,Cooper S 2 Door,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),"2-Wheel Drive, Front",13.0,28,39,32,,,,1950,275,6,2025-08-01
+FEguide-37043,2026,BMW,Mini,JCW 2 Door,Subcompact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),"2-Wheel Drive, Front",13.0,27,37,30,,,,2100,288,6,2025-08-01
+FEguide-37899,2026,Toyota,TOYOTA,GR COROLLA,Subcompact Cars,Gasoline,Gasoline,1.6,3,Auto(S8),All Wheel Drive,32.0,19,27,22,,,,2850,395,4,2025-11-12
+FEguide-37904,2026,Toyota,TOYOTA,GR COROLLA,Subcompact Cars,Gasoline,Gasoline,1.6,3,Manual(M6),All Wheel Drive,32.0,21,28,24,,,,2600,368,5,2025-11-12
+FEguide-37099,2026,BMW,BMW,228 xDrive Gran Coupe,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,12.0,26,38,30,,,,2100,288,6,2025-08-01
+FEguide-36389,2026,BMW,BMW,228 Gran Coupe,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),"2-Wheel Drive, Front",12.0,27,39,31,,,,2000,279,6,2025-04-01
+FEguide-37107,2026,BMW,BMW,M235 xDrive Gran Coupe,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,12.0,24,33,27,,,,2300,321,5,2025-08-01
+FEguide-36725,2026,BMW,BMW,330i Sedan,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Rear",13.0,28,35,31,,,,2000,286,6,2025-08-01
+FEguide-36687,2026,BMW,BMW,330i xDrive Sedan,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,13.0,26,34,29,,,,2150,298,6,2025-08-01
+FEguide-36783,2026,BMW,BMW,M340i Sedan,Compact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",13.0,27,33,29,,,,2150,299,6,2025-08-01
+FEguide-36779,2026,BMW,BMW,M340i xDrive Sedan,Compact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,13.0,26,33,29,,,,2150,304,6,2025-08-01
+FEguide-36657,2026,BMW,BMW,M3 Sedan,Compact Cars,Gasoline,Gasoline,3.0,6,Manual(M6),"2-Wheel Drive, Rear",13.0,16,23,19,,,,3300,472,4,2025-08-01
+FEguide-36656,2026,BMW,BMW,M3 Competition Sedan,Compact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",13.0,16,23,19,,,,3300,470,4,2025-08-01
+FEguide-36655,2026,BMW,BMW,M3 Competition M xDrive Sedan,Compact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,13.0,16,23,18,,,,3450,477,3,2025-08-01
+FEguide-36724,2026,BMW,BMW,430i Gran Coupe,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Rear",12.0,27,35,30,,,,2100,290,6,2025-08-01
+FEguide-36723,2026,BMW,BMW,430i xDrive Gran Coupe,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,12.0,25,34,29,,,,2150,305,6,2025-08-01
+FEguide-36784,2026,BMW,BMW,M440i Gran Coupe,Compact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",12.0,26,32,28,,,,2200,312,5,2025-08-01
+FEguide-36780,2026,BMW,BMW,M440i xDrive Gran Coupe,Compact Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,12.0,25,31,27,,,,2300,320,5,2025-08-01
+FEguide-36591,2026,General Motors,Cadillac,CT4,Compact Cars,Gasoline,Gasoline,2.7,4,Auto(S10),"2-Wheel Drive, Rear",11.0,21,31,25,,,,2500,356,5,2025-06-02
+FEguide-37395,2026,General Motors,Cadillac,CT4 V,Compact Cars,Gasoline,Gasoline,2.7,4,Auto(S10),"2-Wheel Drive, Rear",11.0,20,29,23,,,,2700,383,5,2025-06-02
+FEguide-36592,2026,General Motors,Cadillac,CT4 AWD,Compact Cars,Gasoline,Gasoline,2.7,4,Auto(S10),All Wheel Drive,11.0,21,29,24,,,,2600,371,5,2025-06-02
+FEguide-36593,2026,General Motors,Cadillac,CT4 V AWD,Compact Cars,Gasoline,Gasoline,2.7,4,Auto(S10),All Wheel Drive,11.0,20,28,23,,,,2700,387,5,2025-06-02
+FEguide-36587,2026,General Motors,Cadillac,CT4 V,Compact Cars,Gasoline,Gasoline,3.6,6,Auto(S10),"2-Wheel Drive, Rear",11.0,16,24,19,,,,3300,478,4,2025-06-02
+FEguide-36585,2026,General Motors,Cadillac,CT4 V,Compact Cars,Gasoline,Gasoline,3.6,6,Manual(M6),"2-Wheel Drive, Rear",11.0,15,23,18,,,,3450,493,3,2025-06-02
+FEguide-36601,2026,General Motors,Cadillac,CT4,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Rear",11.0,22,32,26,,,,2400,345,5,2025-06-02
+FEguide-36602,2026,General Motors,Cadillac,CT4 AWD,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,11.0,21,31,25,,,,2500,357,5,2025-06-02
+FEguide-37588,2026,Ferrari,Ferrari S.p.A.,Purosangue,Compact Cars,Gasoline,Gasoline,6.5,12,Auto(AM8),All Wheel Drive,9.0,11,15,12,,,,5200,711,1,2025-09-30
+FEguide-36324,2026,Hyundai,GENESIS,G70 AWD,Compact Cars,Gasoline,Gasoline,3.3,6,Auto(S8),All Wheel Drive,10.0,17,23,19,,,,3300,466,4,2025-03-03
+FEguide-36325,2026,Hyundai,GENESIS,G70 RWD,Compact Cars,Gasoline,Gasoline,3.3,6,Auto(S8),"2-Wheel Drive, Rear",10.0,17,25,20,,,,3100,449,4,2025-03-03
+FEguide-36322,2026,Hyundai,GENESIS,G70 AWD,Compact Cars,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,10.0,20,28,23,,,,2700,385,5,2025-03-03
+FEguide-36323,2026,Hyundai,GENESIS,G70 RWD,Compact Cars,Gasoline,Gasoline,2.5,4,Auto(S8),"2-Wheel Drive, Rear",10.0,21,29,24,,,,2600,373,5,2025-03-03
+FEguide-38133,2026,Toyota,LEXUS,IS 350,Compact Cars,Gasoline,Gasoline,3.5,6,Auto(S8),"2-Wheel Drive, Rear",11.0,19,27,22,,,,2850,403,4,2026-01-17
+FEguide-38134,2026,Toyota,LEXUS,IS 350 AWD,Compact Cars,Gasoline,Gasoline,3.5,6,Auto(S6),All Wheel Drive,11.0,19,26,22,,,,2850,408,4,2026-01-17
+FEguide-37924,2026,Toyota,LEXUS,UX 300h,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",17.0,45,41,43,,,,1150,204,7,2026-01-01
+FEguide-37925,2026,Toyota,LEXUS,UX 300h,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S6),"2-Wheel Drive, Front",17.0,45,41,43,,,,1150,204,7,2026-01-01
+FEguide-37926,2026,Toyota,LEXUS,UX 300h AWD,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AV),All Wheel Drive,17.0,44,40,42,,,,1200,209,7,2026-01-01
+FEguide-37927,2026,Toyota,LEXUS,UX 300h AWD,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S6),All Wheel Drive,17.0,44,40,42,,,,1200,209,7,2026-01-01
+FEguide-36718,2026,MAZDA,MAZDA,MAZDA3 4-Door 2WD,Compact Cars,Gasoline,Gasoline,2.5,4,Auto(S6),"2-Wheel Drive, Front",13.0,27,36,30,,,,1650,294,6,2025-08-19
+FEguide-36719,2026,MAZDA,MAZDA,MAZDA3 4-Door 4WD,Compact Cars,Gasoline,Gasoline,2.5,4,Auto(S6),4-Wheel Drive,13.0,26,34,29,,,,1700,306,6,2025-08-19
+FEguide-36705,2026,MAZDA,MAZDA,MAZDA3 4-Door 4WD,Compact Cars,Gasoline,Gasoline,2.5,4,Auto(S6),4-Wheel Drive,13.0,23,32,27,,,,1850,334,5,2025-08-19
+FEguide-37090,2026,Mercedes-Benz,Mercedes-Benz,C 300,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(A9),"2-Wheel Drive, Rear",12.0,25,35,29,,,,2150,307,6,2025-07-22
+FEguide-37091,2026,Mercedes-Benz,Mercedes-Benz,C 300 4MATIC,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,12.0,24,33,27,,,,2300,329,5,2025-07-22
+FEguide-37411,2026,Mercedes-Benz,Mercedes-Benz,AMG CLA 35 4MATIC,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AM8),All Wheel Drive,12.0,22,29,25,,,,2500,361,5,2025-05-28
+FEguide-36498,2026,Mercedes-Benz,Mercedes-Benz,AMG CLA 45 S 4MATIC,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AM8),All Wheel Drive,12.0,20,28,23,,,,2700,379,5,2025-05-01
+FEguide-36440,2026,Mercedes-Benz,Mercedes-Benz,CLA 250 4MATIC,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AM8),All Wheel Drive,12.0,25,34,29,,,,2150,311,6,2025-04-17
+FEguide-36441,2026,Mercedes-Benz,Mercedes-Benz,CLA 250,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AM8),"2-Wheel Drive, Front",12.0,26,36,30,,,,2100,298,6,2025-04-18
+FEguide-37227,2026,Mercedes-Benz,Mercedes-Benz,AMG C 43 4MATIC,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,12.0,19,27,22,,,,2850,405,4,2025-07-30
+FEguide-36950,2026,BMW,Mini,Cooper C 4 Door,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),"2-Wheel Drive, Front",17.0,28,39,32,,,,1950,276,6,2025-08-01
+FEguide-36945,2026,BMW,Mini,Cooper S 4 Door,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),"2-Wheel Drive, Front",17.0,28,39,32,,,,1950,273,6,2025-08-01
+FEguide-37502,2026,Toyota,TOYOTA,COROLLA HYBRID,Compact Cars,Gasoline,Gasoline,1.8,4,Auto(AV),"2-Wheel Drive, Front",13.0,50,43,47,,,,1050,186,8,2025-08-01
+FEguide-37503,2026,Toyota,TOYOTA,COROLLA HYBRID,Compact Cars,Gasoline,Gasoline,1.8,4,Auto(AV),"2-Wheel Drive, Front",13.0,53,46,50,,,,1000,176,8,2025-08-17
+FEguide-37504,2026,Toyota,TOYOTA,COROLLA HYBRID AWD,Compact Cars,Gasoline,Gasoline,1.8,4,Auto(AV),All Wheel Drive,12.0,47,41,44,,,,1100,199,7,2025-08-17
+FEguide-37505,2026,Toyota,TOYOTA,COROLLA HYBRID AWD,Compact Cars,Gasoline,Gasoline,1.8,4,Auto(AV),All Wheel Drive,12.0,51,44,48,,,,1050,183,8,2025-08-17
+FEguide-37506,2026,Toyota,TOYOTA,COROLLA,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",13.0,32,41,35,,,,1400,254,6,2025-08-17
+FEguide-37507,2026,Toyota,TOYOTA,COROLLA,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",13.0,31,40,34,,,,1450,257,6,2025-08-17
+FEguide-37508,2026,Toyota,TOYOTA,COROLLA,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S10),"2-Wheel Drive, Front",13.0,31,38,34,,,,1450,265,6,2025-08-17
+FEguide-37511,2026,Toyota,TOYOTA,COROLLA HATCHBACK,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S10),"2-Wheel Drive, Front",18.0,32,41,35,,,,1400,254,6,2025-09-17
+FEguide-37509,2026,Toyota,TOYOTA,COROLLA HATCHBACK XSE,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S10),"2-Wheel Drive, Front",18.0,30,38,33,,,,1500,266,6,2025-09-17
+FEguide-37510,2026,Toyota,TOYOTA,COROLLA HATCHBACK FX,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S10),"2-Wheel Drive, Front",18.0,30,38,33,,,,1500,267,6,2025-09-17
+FEguide-36814,2026,Volkswagen Group of,Volkswagen,GLI,Compact Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),"2-Wheel Drive, Front",16.0,26,35,29,,,,1700,307,6,2025-06-27
+FEguide-36530,2026,Volkswagen Group of,Volkswagen,GLI,Compact Cars,Gasoline,Gasoline,2.0,4,Manual(M6),"2-Wheel Drive, Front",16.0,26,36,29,,,,1700,306,6,2025-05-12
+FEguide-36936,2026,Volkswagen Group of,Volkswagen,Jetta,Compact Cars,Gasoline,Gasoline,1.5,4,Auto(S8),"2-Wheel Drive, Front",16.0,29,40,34,,,,1450,265,6,2025-07-04
+FEguide-36937,2026,Volkswagen Group of,Volkswagen,Jetta Sport/SE/SEL,Compact Cars,Gasoline,Gasoline,1.5,4,Auto(S8),"2-Wheel Drive, Front",16.0,29,40,33,,,,1500,271,6,2025-07-04
+FEguide-37866,2026,FCA US LLC,ALFA ROMEO,Giulia,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(A8),"2-Wheel Drive, Rear",12.0,24,33,27,,,,2300,330,5,2025-10-20
+FEguide-37813,2026,FCA US LLC,ALFA ROMEO,Giulia AWD,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(A8),All Wheel Drive,12.0,23,31,26,,,,2400,348,5,2025-10-20
+FEguide-36689,2026,Volkswagen Group of,Audi,RS 7,Midsize Cars,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,25.0,14,21,16,,,,3900,545,3,2025-05-28
+FEguide-37826,2026,Volkswagen Group of,Audi,A6 Sedan,Midsize Cars,Gasoline,Gasoline,3.0,6,Auto(AM-S7),All Wheel Drive,13.0,20,29,23,,,,2700,387,5,2025-10-09
+FEguide-38178,2026,Volkswagen Group of,Audi,S5 Sport Sedan,Midsize Cars,Gasoline,Gasoline,3.0,6,Auto(AM-S7),All Wheel Drive,22.0,20,29,23,,,,2700,386,5,2026-02-02
+FEguide-38170,2026,Volkswagen Group of,Audi,A5 quattro,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,23.0,22,32,26,,,,2400,345,5,2026-01-22
+FEguide-36387,2026,BMW,BMW,530i Sedan,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Rear",14.0,28,35,31,,,,2000,285,6,2025-04-01
+FEguide-36386,2026,BMW,BMW,530i xDrive Sedan,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,14.0,27,35,30,,,,2100,292,6,2025-04-01
+FEguide-36392,2026,BMW,BMW,540i xDrive Sedan,Midsize Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,14.0,26,32,28,,,,2200,308,5,2025-04-01
+FEguide-36404,2026,BMW,BMW,840i Gran Coupe,Midsize Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",11.0,21,29,24,,,,2600,368,5,2025-04-01
+FEguide-36399,2026,BMW,BMW,840i xDrive Gran Coupe,Midsize Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,11.0,21,29,24,,,,2600,373,5,2025-04-01
+FEguide-36415,2026,BMW,BMW,M850i xDrive Gran Coupe,Midsize Cars,Gasoline,Gasoline,4.4,8,Auto(S8),All Wheel Drive,16.0,17,24,19,,,,3300,456,4,2025-04-01
+FEguide-36586,2026,General Motors,Cadillac,CT5,Midsize Cars,Gasoline,Gasoline,3.0,6,Auto(S10),"2-Wheel Drive, Rear",11.0,19,28,22,,,,2850,399,4,2025-06-02
+FEguide-36595,2026,General Motors,Cadillac,CT5 V,Midsize Cars,Gasoline,Gasoline,3.0,6,Auto(S10),"2-Wheel Drive, Rear",11.0,18,27,21,,,,2950,423,4,2025-06-02
+FEguide-36588,2026,General Motors,Cadillac,CT5 AWD,Midsize Cars,Gasoline,Gasoline,3.0,6,Auto(S10),All Wheel Drive,11.0,18,27,21,,,,2950,418,4,2025-06-02
+FEguide-36590,2026,General Motors,Cadillac,CT5 V AWD,Midsize Cars,Gasoline,Gasoline,3.0,6,Auto(S10),All Wheel Drive,11.0,17,26,20,,,,3100,445,4,2025-06-02
+FEguide-36573,2026,General Motors,Cadillac,CT5 V,Midsize Cars,Gasoline,Gasoline,6.2,8,Auto(S10),"2-Wheel Drive, Rear",11.0,13,20,15,,,,4150,580,2,2025-06-02
+FEguide-36574,2026,General Motors,Cadillac,CT5 V,Midsize Cars,Gasoline,Gasoline,6.2,8,Manual(M6),"2-Wheel Drive, Rear",11.0,13,20,15,,,,4150,587,2,2025-06-02
+FEguide-36603,2026,General Motors,Cadillac,CT5,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(S10),"2-Wheel Drive, Rear",11.0,22,31,26,,,,2400,346,5,2025-06-02
+FEguide-36604,2026,General Motors,Cadillac,CT5 AWD,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(S10),All Wheel Drive,11.0,21,30,24,,,,2600,370,5,2025-06-02
+FEguide-36459,2026,Honda,Honda,CIVIC 4Dr,Midsize Cars,Gasoline,Gasoline,1.5,4,Manual(M6),"2-Wheel Drive, Front",15.0,27,37,31,,,,2000,285,6,2025-06-12
+FEguide-36458,2026,Honda,Honda,CIVIC 4Dr,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",15.0,32,41,36,,,,1400,248,7,2025-06-12
+FEguide-36460,2026,Honda,Honda,CIVIC 4Dr,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S7),"2-Wheel Drive, Front",15.0,31,39,34,,,,1450,260,6,2025-06-12
+FEguide-36599,2026,Honda,Honda,CIVIC 4Dr,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",15.0,50,47,49,,,,1000,181,8,2025-06-12
+FEguide-37882,2026,Honda,Honda,ACCORD SE (19inch wheels),Midsize Cars,Gasoline,Gasoline,1.5,4,Auto(AV),"2-Wheel Drive, Front",17.0,28,36,31,,,,1600,283,6,2025-12-18
+FEguide-37884,2026,Honda,Honda,ACCORD SPORT/TOURING,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",17.0,46,41,44,,,,1100,201,7,2025-12-18
+FEguide-37351,2026,Hyundai,HYUNDAI MOTOR COMPANY,Elantra non-ISG,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S1),"2-Wheel Drive, Front",14.0,30,40,34,,,,1450,263,6,2025-09-01
+FEguide-37352,2026,Hyundai,HYUNDAI MOTOR COMPANY,Elantra w/ Stop-Start,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S1),"2-Wheel Drive, Front",14.0,31,40,35,,,,1400,254,6,2025-09-01
+FEguide-37355,2026,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,Midsize Cars,Gasoline,Gasoline,1.6,4,Auto(AM-S7),"2-Wheel Drive, Front",14.0,28,35,31,,,,1600,288,6,2025-09-01
+FEguide-37308,2026,Hyundai,HYUNDAI MOTOR COMPANY,Elantra Hybrid,Midsize Cars,Gasoline,Gasoline,1.6,4,Auto(AM-S6),"2-Wheel Drive, Front",14.0,49,52,50,,,,1000,177,8,2025-09-01
+FEguide-37309,2026,Hyundai,HYUNDAI MOTOR COMPANY,Elantra Hybrid Blue,Midsize Cars,Gasoline,Gasoline,1.6,4,Auto(AM-S6),"2-Wheel Drive, Front",14.0,51,58,54,,,,900,165,8,2025-09-01
+FEguide-37367,2026,Hyundai,HYUNDAI MOTOR COMPANY,Elantra N,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S8),"2-Wheel Drive, Front",14.0,20,27,23,,,,2700,392,5,2025-09-01
+FEguide-37368,2026,Hyundai,HYUNDAI MOTOR COMPANY,Elantra N,Midsize Cars,Gasoline,Gasoline,2.0,4,Manual(M6),"2-Wheel Drive, Front",14.0,21,29,24,,,,2600,366,5,2025-09-01
+FEguide-37962,2026,Kia,KIA,K4 4DR w/ DMS,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S1),"2-Wheel Drive, Front",15.0,29,39,33,,,,1500,269,6,2025-11-10
+FEguide-37938,2026,Kia,KIA,K4 without DMS,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S1),"2-Wheel Drive, Front",15.0,29,39,33,,,,1500,267,6,2025-11-10
+FEguide-37977,2026,Kia,KIA,K4,Midsize Cars,Gasoline,Gasoline,1.6,4,Auto(S8),"2-Wheel Drive, Front",15.0,26,33,28,,,,1750,314,5,2025-11-24
+FEguide-37900,2026,Toyota,LEXUS,LS 500 AWD,Midsize Cars,Gasoline,Gasoline,3.4,6,Auto(S10),All Wheel Drive,13.0,17,27,21,,,,2950,434,4,2025-10-17
+FEguide-38539,2026,Toyota,LEXUS,ES 350h,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(AV-S6),"2-Wheel Drive, Front",13.0,48,44,46,,,,1350,191,7,2026-06-10
+FEguide-38540,2026,Toyota,LEXUS,ES 350h AWD,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,13.0,47,42,44,,,,1400,200,7,2026-06-10
+FEguide-36720,2026,MAZDA,MAZDA,MAZDA3 5-Door 2WD,Midsize Cars,Gasoline,Gasoline,2.5,4,Manual(M6),"2-Wheel Drive, Front",20.0,25,34,28,,,,1750,314,5,2025-08-19
+FEguide-36721,2026,MAZDA,MAZDA,MAZDA3 5-Door 2WD,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(S6),"2-Wheel Drive, Front",20.0,26,34,29,,,,1700,302,6,2025-08-19
+FEguide-36722,2026,MAZDA,MAZDA,MAZDA3 5-Door 4WD,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(S6),4-Wheel Drive,20.0,25,34,28,,,,1750,317,5,2025-08-19
+FEguide-36706,2026,MAZDA,MAZDA,MAZDA3 5-Door 4WD,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(S6),4-Wheel Drive,20.0,23,31,26,,,,1900,337,5,2025-08-19
+FEguide-37092,2026,Mercedes-Benz,Mercedes-Benz,E 350,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(A9),"2-Wheel Drive, Rear",13.0,25,33,28,,,,2200,316,5,2025-07-22
+FEguide-37132,2026,Mercedes-Benz,Mercedes-Benz,E 450 4MATIC,Midsize Cars,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,13.0,22,31,25,,,,2500,355,5,2025-08-01
+FEguide-37093,2026,Mercedes-Benz,Mercedes-Benz,E 350 4MATIC,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,13.0,24,33,27,,,,2300,327,5,2025-07-22
+FEguide-37871,2026,Nissan,NISSAN,SENTRA (3-mode),Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",14.0,30,38,33,,,,1500,268,6,2025-12-04
+FEguide-37872,2026,Nissan,NISSAN,SENTRA SL/SR,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",14.0,29,36,32,,,,1550,278,6,2025-12-04
+FEguide-37873,2026,Nissan,NISSAN,SENTRA,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",14.0,30,38,33,,,,1500,269,6,2025-12-04
+FEguide-38058,2026,Nissan,NISSAN,ALTIMA,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(AV),"2-Wheel Drive, Front",15.0,26,36,30,,,,1650,297,6,2025-12-18
+FEguide-38059,2026,Nissan,NISSAN,ALTIMA AWD,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(AV),All Wheel Drive,15.0,25,33,28,,,,1750,316,5,2025-12-18
+FEguide-38034,2026,Subaru,Subaru,WRX,Midsize Cars,Gasoline,Gasoline,2.4,4,Manual(M6),All Wheel Drive,12.0,19,26,22,,,,2850,412,4,2025-12-08
+FEguide-38035,2026,Subaru,Subaru,WRX,Midsize Cars,Gasoline,Gasoline,2.4,4,Auto(AV-S8),All Wheel Drive,12.0,18,25,21,,,,2950,422,4,2025-12-08
+FEguide-36537,2026,Toyota,TOYOTA,TOYOTA CROWN AWD,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(AV),All Wheel Drive,13.0,42,41,41,,,,1200,214,7,2025-05-06
+FEguide-36538,2026,Toyota,TOYOTA,TOYOTA CROWN AWD,Midsize Cars,Gasoline,Gasoline,2.4,4,Auto(AV-S6),All Wheel Drive,13.0,29,32,30,,,,1650,293,6,2025-05-06
+FEguide-36958,2026,Toyota,TOYOTA,PRIUS AWD,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV),All Wheel Drive,24.0,53,54,54,,,,900,163,8,2025-07-18
+FEguide-36963,2026,Toyota,TOYOTA,PRIUS AWD XLE/LTD,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV),All Wheel Drive,24.0,49,50,49,,,,1000,179,8,2025-07-18
+FEguide-36961,2026,Toyota,TOYOTA,PRIUS XLE/LTD,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",24.0,52,52,52,,,,950,169,8,2025-07-18
+FEguide-36959,2026,Toyota,TOYOTA,PRIUS,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",24.0,57,56,57,,,,850,155,8,2025-07-18
+FEguide-37518,2026,Toyota,TOYOTA,CAMRY HEV AWD SE/XLE,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,15.0,46,46,46,,,,1100,192,7,2025-09-03
+FEguide-37516,2026,Toyota,TOYOTA,CAMRY HEV AWD XSE,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,15.0,43,43,43,,,,1150,205,7,2025-09-03
+FEguide-37515,2026,Toyota,TOYOTA,CAMRY HEV FF LE,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(AV-S6),"2-Wheel Drive, Front",15.0,52,49,51,,,,950,173,8,2025-09-03
+FEguide-37514,2026,Toyota,TOYOTA,CAMRY HEV FF SE/XLE/XSE,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(AV-S6),"2-Wheel Drive, Front",15.0,47,45,46,,,,1100,191,7,2025-09-03
+FEguide-37519,2026,Toyota,TOYOTA,CAMRY HEV AWD LE,Midsize Cars,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,15.0,50,49,50,,,,1000,178,8,2025-09-03
+FEguide-36452,2026,Volkswagen Group of,Volkswagen,Golf R,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,20.0,22,31,25,,,,2500,349,5,2025-04-21
+FEguide-36453,2026,Volkswagen Group of,Volkswagen,GTI,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S7),"2-Wheel Drive, Front",20.0,24,32,27,,,,1850,326,5,2025-04-21
+FEguide-36334,2026,Volvo,"Volvo Cars of North America, LLC",S90 B5,Midsize Cars,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Front",14.0,24,34,28,,,,2200,318,5,2025-05-23
+FEguide-36953,2026,Honda,Acura,INTEGRA,Large Cars,Gasoline,Gasoline,1.5,4,Auto(AV-S7),"2-Wheel Drive, Front",24.0,29,37,32,,,,1950,278,6,2025-08-19
+FEguide-36954,2026,Honda,Acura,INTEGRA A-SPEC,Large Cars,Gasoline,Gasoline,1.5,4,Auto(AV-S7),"2-Wheel Drive, Front",24.0,29,37,32,,,,1950,277,6,2025-08-19
+FEguide-36955,2026,Honda,Acura,INTEGRA A-SPEC,Large Cars,Gasoline,Gasoline,1.5,4,Manual(M6),"2-Wheel Drive, Front",24.0,26,36,30,,,,2100,293,6,2025-08-19
+FEguide-36956,2026,Honda,Acura,INTEGRA,Large Cars,Gasoline,Gasoline,2.0,4,Manual(M6),"2-Wheel Drive, Front",24.0,21,28,24,,,,2600,371,5,2025-08-19
+FEguide-37586,2026,Volkswagen Group of,Audi,S8,Large Cars,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,13.0,15,24,18,,,,3450,502,3,2025-09-11
+FEguide-37579,2026,Volkswagen Group of,Audi,A8 quattro,Large Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,13.0,19,27,22,,,,2850,414,4,2025-09-11
+FEguide-36853,2026,BMW,BMW,740i Sedan,Large Cars,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",14.0,25,31,28,,,,2200,317,5,2025-08-01
+FEguide-36852,2026,BMW,BMW,740i xDrive Sedan,Large Cars,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,14.0,24,31,27,,,,2300,326,5,2025-08-01
+FEguide-36861,2026,BMW,BMW,760i xDrive Sedan,Large Cars,Gasoline,Gasoline,4.4,8,Auto(S8),All Wheel Drive,14.0,18,25,20,,,,3100,427,4,2025-08-01
+FEguide-38167,2026,FCA US LLC,Dodge,Charger R/T AWD,Large Cars,Gasoline,Gasoline,3.0,6,Auto(A8),All Wheel Drive,23.0,17,26,20,,,,2500,444,4,2026-02-02
+FEguide-37933,2026,FCA US LLC,Dodge,Charger Scat Pack AWD,Large Cars,Gasoline,Gasoline,3.0,6,Auto(A8),All Wheel Drive,23.0,16,23,19,,,,3300,470,4,2025-11-07
+FEguide-36712,2026,Hyundai,GENESIS,G80 AWD,Large Cars,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,15.0,20,29,23,,,,2700,382,5,2025-06-13
+FEguide-36711,2026,Hyundai,GENESIS,G80 AWD,Large Cars,Gasoline,Gasoline,3.5,6,Auto(S8),All Wheel Drive,15.0,15,24,18,,,,3450,485,3,2025-06-13
+FEguide-36535,2026,Hyundai,GENESIS,G90 AWD,Large Cars,Gasoline,Gasoline,3.5,6,Auto(S8),All Wheel Drive,12.0,18,26,21,,,,2950,426,4,2025-05-01
+FEguide-36534,2026,Hyundai,GENESIS,G90 MHEV,Large Cars,Gasoline,Gasoline,3.5,6,Auto(S8),All Wheel Drive,11.0,17,24,20,,,,3100,441,4,2025-05-01
+FEguide-36946,2026,Honda,Honda,CIVIC 5Dr,Large Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S7),"2-Wheel Drive, Front",24.0,30,38,34,,,,1450,268,6,2025-08-01
+FEguide-36700,2026,Honda,Honda,CIVIC 5Dr,Large Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",24.0,50,45,48,,,,1050,186,8,2025-06-17
+FEguide-37998,2026,Honda,Honda,CIVIC 5Dr,Large Cars,Gasoline,Gasoline,2.0,4,Manual(M6),"2-Wheel Drive, Front",24.0,22,28,24,,,,2600,364,5,2026-01-06
+FEguide-37881,2026,Honda,Honda,ACCORD,Large Cars,Gasoline,Gasoline,1.5,4,Auto(AV),"2-Wheel Drive, Front",17.0,29,37,32,,,,1550,276,6,2025-12-18
+FEguide-37883,2026,Honda,Honda,ACCORD,Large Cars,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",17.0,51,44,48,,,,1050,184,8,2025-12-18
+FEguide-36761,2026,Hyundai,HYUNDAI MOTOR COMPANY,Sonata AWD,Large Cars,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,16.0,24,33,27,,,,1850,327,5,2025-07-01
+FEguide-36764,2026,Hyundai,HYUNDAI MOTOR COMPANY,Sonata FWD,Large Cars,Gasoline,Gasoline,2.5,4,Auto(S8),"2-Wheel Drive, Front",16.0,25,36,29,,,,1700,310,6,2025-07-01
+FEguide-36767,2026,Hyundai,HYUNDAI MOTOR COMPANY,Sonata FWD w/ STOP-START,Large Cars,Gasoline,Gasoline,2.5,4,Auto(S8),"2-Wheel Drive, Front",16.0,28,38,32,,,,1550,281,6,2025-07-01
+FEguide-36769,2026,Hyundai,HYUNDAI MOTOR COMPANY,Sonata FWD,Large Cars,Gasoline,Gasoline,2.5,4,Auto(AM-S8),"2-Wheel Drive, Front",16.0,23,32,27,,,,1850,333,5,2025-07-01
+FEguide-36770,2026,Hyundai,HYUNDAI MOTOR COMPANY,Sonata Hybrid,Large Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S6),"2-Wheel Drive, Front",16.0,44,51,47,,,,1050,188,8,2025-07-01
+FEguide-36772,2026,Hyundai,HYUNDAI MOTOR COMPANY,Sonata Hybrid Blue,Large Cars,Gasoline,Gasoline,2.0,4,Auto(AM-S6),"2-Wheel Drive, Front",16.0,47,56,51,,,,950,175,8,2025-07-01
+FEguide-36371,2026,Kia,KIA,K5 AWD,Large Cars,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,16.0,24,33,27,,,,1850,329,5,2025-04-17
+FEguide-36372,2026,Kia,KIA,K5,Large Cars,Gasoline,Gasoline,2.5,4,Auto(S8),"2-Wheel Drive, Front",16.0,25,36,29,,,,1700,310,6,2025-04-17
+FEguide-36374,2026,Kia,KIA,K5 w/ Stop-Start,Large Cars,Gasoline,Gasoline,2.5,4,Auto(S8),"2-Wheel Drive, Front",16.0,26,37,30,,,,1650,298,6,2025-04-17
+FEguide-36373,2026,Kia,KIA,K5,Large Cars,Gasoline,Gasoline,2.5,4,Auto(AM-S8),"2-Wheel Drive, Front",16.0,23,33,27,,,,1850,331,5,2025-04-17
+FEguide-37961,2026,Kia,KIA,K4 Hatchback,Large Cars,Gasoline,Gasoline,2.0,4,Auto(AV-S1),"2-Wheel Drive, Front",22.0,28,34,30,,,,1650,289,6,2025-11-10
+FEguide-37976,2026,Kia,KIA,K4 Hatchback,Large Cars,Gasoline,Gasoline,1.6,4,Auto(S8),"2-Wheel Drive, Front",22.0,26,33,28,,,,1750,314,5,2025-11-24
+FEguide-37134,2026,Mercedes-Benz,Mercedes-Benz,S 500 4MATIC,Large Cars,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,13.0,20,29,23,,,,2700,380,5,2025-08-15
+FEguide-36898,2026,Mercedes-Benz,Mercedes-Benz,S 580 4MATIC Maybach,Large Cars,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,12.0,16,27,20,,,,3100,451,4,2025-06-26
+FEguide-36899,2026,Mercedes-Benz,Mercedes-Benz,S 580 4MATIC,Large Cars,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,13.0,17,27,20,,,,3100,438,4,2025-06-26
+FEguide-36808,2026,Mercedes-Benz,Mercedes-Benz,S 680 4MATIC Maybach,Large Cars,Gasoline,Gasoline,6.0,12,Auto(A9),All Wheel Drive,12.0,12,20,15,,,,4150,603,2,2025-06-16
+FEguide-37430,2026,Porsche,Porsche,Panamera,Large Cars,Gasoline,Gasoline,2.9,6,Auto(AM-S8),"2-Wheel Drive, Rear",27.0,18,25,21,,,,2950,431,4,2025-08-23
+FEguide-37431,2026,Porsche,Porsche,Panamera 4,Large Cars,Gasoline,Gasoline,2.9,6,Auto(AM-S8),All Wheel Drive,27.0,18,25,21,,,,2950,425,4,2025-08-23
+FEguide-37157,2026,Rolls-Royce,Rolls-Royce Motor Cars Limited,Phantom,Large Cars,Gasoline,Gasoline,6.7,12,Auto(S8),"2-Wheel Drive, Rear",15.0,12,19,14,,,,4450,609,2,2025-08-01
+FEguide-37158,2026,Rolls-Royce,Rolls-Royce Motor Cars Limited,Phantom Extended,Large Cars,Gasoline,Gasoline,6.7,12,Auto(S8),"2-Wheel Drive, Rear",15.0,12,19,14,,,,4450,609,2,2025-08-01
+FEguide-37149,2026,Rolls-Royce,Rolls-Royce Motor Cars Limited,Ghost,Large Cars,Gasoline,Gasoline,6.7,12,Auto(S8),All Wheel Drive,13.0,12,19,14,,,,4450,609,2,2025-08-01
+FEguide-37151,2026,Rolls-Royce,Rolls-Royce Motor Cars Limited,Ghost Extended,Large Cars,Gasoline,Gasoline,6.7,12,Auto(S8),All Wheel Drive,13.0,12,19,14,,,,4450,609,2,2025-08-01
+FEguide-37150,2026,Rolls-Royce,Rolls-Royce Motor Cars Limited,Black Badge Ghost,Large Cars,Gasoline,Gasoline,6.7,12,Auto(S8),All Wheel Drive,13.0,12,19,14,,,,4450,609,2,2025-08-01
+FEguide-38042,2026,Honda,Acura,ADX AWD,Small Station Wagons,Gasoline,Gasoline,1.5,4,Auto(AV-S7),All Wheel Drive,24.0,25,30,27,,,,2300,329,5,2026-01-08
+FEguide-38043,2026,Honda,Acura,ADX FWD,Small Station Wagons,Gasoline,Gasoline,1.5,4,Auto(AV-S7),"2-Wheel Drive, Front",24.0,26,31,28,,,,2200,317,5,2026-01-08
+FEguide-38455,2026,General Motors,Buick,ENVISTA FFV,Small Station Wagons,Gasoline,Gasoline,1.2,3,Auto(A6),"2-Wheel Drive, Front",24.0,28,32,30,393.0,,,1650,297,6,2025-07-07
+FEguide-36662,2026,General Motors,Buick,ENVISTA,Small Station Wagons,Gasoline,Gasoline,1.2,3,Auto(A6),"2-Wheel Drive, Front",24.0,28,32,30,,,,1650,296,6,2025-07-07
+FEguide-38457,2026,General Motors,Chevrolet,TRAX FFV,Small Station Wagons,Gasoline,Gasoline,1.2,3,Auto(A6),"2-Wheel Drive, Front",25.0,28,32,30,393.0,,,1650,296,6,2025-07-07
+FEguide-37972,2026,General Motors,Chevrolet,TRAX,Small Station Wagons,Gasoline,Gasoline,1.2,3,Auto(A6),"2-Wheel Drive, Front",25.0,28,31,29,,,,1700,306,6,2025-11-19
+FEguide-36367,2026,Honda,Honda,HR-V AWD,Small Station Wagons,Gasoline,Gasoline,2.0,4,Auto(AV),All Wheel Drive,24.0,25,30,27,,,,1850,328,5,2025-04-28
+FEguide-37427,2026,Honda,Honda,HR-V FWD,Small Station Wagons,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",24.0,26,32,28,,,,1750,311,5,2025-04-28
+FEguide-36685,2026,Mercedes-Benz,Mercedes-Benz,AMG GLA 35 4MATIC,Small Station Wagons,Gasoline,Gasoline,2.0,4,Auto(AM8),All Wheel Drive,9.0,22,30,25,,,,2500,350,5,2025-05-28
+FEguide-37226,2026,Mercedes-Benz,Mercedes-Benz,AMG GLC 43 4MATIC,Small Station Wagons,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,24.0,19,26,22,,,,2850,406,4,2025-07-30
+FEguide-37229,2026,Mercedes-Benz,Mercedes-Benz,AMG GLC 43 4MATIC (coupe),Small Station Wagons,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,22.0,19,25,22,,,,2850,411,4,2025-07-30
+FEguide-36809,2026,Mercedes-Benz,Mercedes-Benz,AMG GT 43 4MATIC+,Small Station Wagons,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,13.0,19,24,21,,,,2950,421,4,2025-07-11
+FEguide-36608,2026,Mercedes-Benz,Mercedes-Benz,AMG GT 63 4MATIC+,Small Station Wagons,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,13.0,15,21,17,,,,3650,512,3,2025-07-14
+FEguide-36810,2026,Mercedes-Benz,Mercedes-Benz,AMG GT 53 4MATIC+,Small Station Wagons,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,13.0,19,24,21,,,,2950,422,4,2025-07-11
+FEguide-37286,2026,Subaru,Subaru,IMPREZA,Small Station Wagons,Gasoline,Gasoline,2.0,4,Auto(AV-S8),All Wheel Drive,20.0,27,33,29,,,,1700,301,6,2025-08-03
+FEguide-37287,2026,Subaru,Subaru,IMPREZA,Small Station Wagons,Gasoline,Gasoline,2.5,4,Auto(AV-S8),All Wheel Drive,20.0,26,33,29,,,,1700,311,6,2025-08-03
+FEguide-37952,2026,Toyota,TOYOTA,TOYOTA CROWN SIGNIA AWD,Small Station Wagons,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,26.0,39,37,38,,,,1300,231,7,2025-12-04
+FEguide-36333,2026,Volvo,"Volvo Cars of North America, LLC",V60CC B5 AWD,Small Station Wagons,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,29.0,23,31,26,,,,2400,338,5,2025-05-23
+FEguide-37578,2026,Volkswagen Group of,Audi,A6 allroad quattro,Midsize Station Wagons,Gasoline,Gasoline,3.0,6,Auto(AM-S7),All Wheel Drive,30.0,21,30,24,,,,2600,365,5,2025-09-11
+FEguide-36688,2026,Volkswagen Group of,Audi,RS 6 Avant,Midsize Station Wagons,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,30.0,14,21,16,,,,3900,545,3,2025-05-28
+FEguide-36451,2026,Honda,Honda,CR-V FWD,Midsize Station Wagons,Gasoline,Gasoline,1.5,4,Auto(AV),"2-Wheel Drive, Front",39.0,28,33,30,,,,1650,296,6,2025-05-27
+FEguide-36365,2026,Honda,Honda,CR-V FWD,Midsize Station Wagons,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",39.0,43,36,40,,,,1250,223,7,2025-05-27
+FEguide-36683,2026,Mercedes-Benz,Mercedes-Benz,AMG GLB 35 4MATIC,Midsize Station Wagons,Gasoline,Gasoline,2.0,4,Auto(AM8),All Wheel Drive,12.0,21,27,23,,,,2700,387,5,2025-05-28
+FEguide-37130,2026,Mercedes-Benz,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,Midsize Station Wagons,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,33.0,22,31,25,,,,2500,351,5,2025-08-15
+FEguide-36335,2026,Volvo,"Volvo Cars of North America, LLC",V90CC B6 AWD,Midsize Station Wagons,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,34.0,22,29,25,,,,2500,358,5,2025-05-23
+FEguide-37831,2026,Ford Motor Company,Ford,MAVERICK FWD,Small Pick-up Trucks 2WD,Gasoline,Gasoline,2.0,4,Auto(A8),"2-Wheel Drive, Front",,23,32,26,,,,1900,341,5,2025-11-07
+FEguide-37877,2026,Ford Motor Company,Ford,MAVERICK HEV FWD,Small Pick-up Trucks 2WD,Gasoline,Gasoline,2.5,4,Auto(AV),"2-Wheel Drive, Front",,42,35,38,,,,1300,234,7,2025-11-07
+FEguide-37908,2026,Toyota,TOYOTA,"TACOMA SR5/SPORT/PRERUNNER 2WD 3-mode(Sport/Normal/Eco), w/SS",Small Pick-up Trucks 2WD,Gasoline,Gasoline,2.4,4,Auto(S8),"2-Wheel Drive, Rear",,20,24,22,,,,2250,403,4,2025-11-05
+FEguide-37911,2026,Toyota,TOYOTA,"TACOMA SR5/SPORT/PRERUNNER 2WD 2-mode(Power/Normal) TM, w/SS",Small Pick-up Trucks 2WD,Gasoline,Gasoline,2.4,4,Auto(S8),"2-Wheel Drive, Rear",,21,26,23,,,,2150,393,5,2025-11-05
+FEguide-37906,2026,Toyota,TOYOTA,TACOMA 2WD,Small Pick-up Trucks 2WD,Gasoline,Gasoline,2.4,4,Auto(S8),"2-Wheel Drive, Rear",,20,26,23,,,,2150,394,5,2025-11-05
+FEguide-37832,2026,Ford Motor Company,Ford,MAVERICK AWD,Small Pick-up Trucks 4WD,Gasoline,Gasoline,2.0,4,Auto(A8),Part-time 4-Wheel Drive,,22,30,25,,,,2000,355,5,2025-11-07
+FEguide-37875,2026,Ford Motor Company,Ford,MAVERICK HEV AWD,Small Pick-up Trucks 4WD,Gasoline,Gasoline,2.5,4,Auto(AV),Part-time 4-Wheel Drive,,40,34,37,,,,1350,241,7,2025-11-07
+FEguide-37860,2026,Ford Motor Company,Ford,MAVERICK LOBO AWD,Small Pick-up Trucks 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),4-Wheel Drive,,21,30,24,,,,2050,370,5,2025-11-07
+FEguide-37847,2026,Ford Motor Company,Ford,MAVERICK TREMOR AWD,Small Pick-up Trucks 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),4-Wheel Drive,,21,27,23,,,,2150,386,5,2025-11-07
+FEguide-37876,2026,Ford Motor Company,Ford,MAVERICK LARIAT HEV AWD,Small Pick-up Trucks 4WD,Gasoline,Gasoline,2.5,4,Auto(AV),Part-time 4-Wheel Drive,,39,32,36,,,,1400,248,7,2025-11-07
+FEguide-37905,2026,Toyota,TOYOTA,TACOMA 4WD MT,Small Pick-up Trucks 4WD,Gasoline,Gasoline,2.4,4,Manual(M6),Part-time 4-Wheel Drive,,18,23,20,,,,2500,452,4,2025-11-05
+FEguide-37909,2026,Toyota,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD 3-mode (Sport/Normal/Eco) TM,Small Pick-up Trucks 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),Part-time 4-Wheel Drive,,19,23,21,,,,2350,433,4,2025-11-05
+FEguide-37910,2026,Toyota,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD 3-mode (Sport/Normal/Eco) w/SS,Small Pick-up Trucks 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),Part-time 4-Wheel Drive,,20,23,21,,,,2350,420,4,2025-11-05
+FEguide-37912,2026,Toyota,TOYOTA,TACOMA SR5/SPORT/OFFROAD/LIMITED 4WD 2-mode (Power/Normal) TM,Small Pick-up Trucks 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),Part-time 4-Wheel Drive,,19,24,21,,,,2350,424,4,2025-11-05
+FEguide-37907,2026,Toyota,TOYOTA,TACOMA 4WD,Small Pick-up Trucks 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),Part-time 4-Wheel Drive,,19,24,21,,,,2350,424,4,2025-11-05
+FEguide-38151,2026,General Motors,Chevrolet,SILVERADO 2WD w/ Sport Mode,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,2.7,4,Auto(A8),"2-Wheel Drive, Rear",,17,21,19,,,,2600,472,4,2025-06-30
+FEguide-38157,2026,General Motors,Chevrolet,SILVERADO 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,2.7,4,Auto(A8),"2-Wheel Drive, Rear",,18,21,20,,,,2500,465,4,2025-06-30
+FEguide-36844,2026,General Motors,Chevrolet,COLORADO 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,2.7,4,Auto(A8),"2-Wheel Drive, Rear",,19,24,21,,,,2350,420,4,2025-06-30
+FEguide-36882,2026,General Motors,Chevrolet,SILVERADO 2WD (5.3L with Sport Mode),Standard Pick-up Trucks 2WD,Gasoline,Gasoline,5.3,8,Auto(A10),"2-Wheel Drive, Rear",,16,21,18,,,,2750,490,3,2025-06-30
+FEguide-36865,2026,General Motors,Chevrolet,SILVERADO 2WD (5.3L),Standard Pick-up Trucks 2WD,Gasoline,Gasoline,5.3,8,Auto(A10),"2-Wheel Drive, Rear",,16,20,17,,,,2900,513,3,2025-06-30
+FEguide-36900,2026,General Motors,Chevrolet,SILVERADO 2WD,Standard Pick-up Trucks 2WD,Diesel,Diesel,3.0,6,Auto(A10),"2-Wheel Drive, Rear",,23,28,25,,,,2150,402,5,2025-07-01
+FEguide-37892,2026,Ford Motor Company,Ford,F150 PICKUP 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,2.7,6,Auto(S10),"2-Wheel Drive, Rear",,19,25,21,,,,2350,425,4,2025-11-27
+FEguide-37890,2026,Ford Motor Company,Ford,F150 PICKUP 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,3.5,6,Auto(S10),"2-Wheel Drive, Rear",,17,25,20,,,,2500,445,4,2025-11-27
+FEguide-37889,2026,Ford Motor Company,Ford,F150 PICKUP 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,5.0,8,Auto(S10),"2-Wheel Drive, Rear",,16,24,19,,,,2600,472,4,2025-11-27
+FEguide-38037,2026,Ford Motor Company,Ford,RANGER 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,2.3,4,Auto(S10),"2-Wheel Drive, Rear",,21,25,23,,,,2150,395,5,2026-01-14
+FEguide-38511,2026,Ford Motor Company,Ford,F150 PICKUP 2WD HEV,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,3.5,6,Auto(S10),"2-Wheel Drive, Rear",,23,25,24,,,,2050,371,5,2026-06-03
+FEguide-38152,2026,General Motors,GMC,SIERRA 2WD w/ Sport Mode,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,2.7,4,Auto(A8),"2-Wheel Drive, Rear",,17,21,19,,,,2600,472,4,2025-06-30
+FEguide-38156,2026,General Motors,GMC,SIERRA 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,2.7,4,Auto(A8),"2-Wheel Drive, Rear",,18,21,20,,,,2500,464,4,2025-06-30
+FEguide-37394,2026,General Motors,GMC,CANYON 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,2.7,4,Auto(A8),"2-Wheel Drive, Rear",,19,23,20,,,,2500,443,4,2025-06-30
+FEguide-36883,2026,General Motors,GMC,SIERRA 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,5.3,8,Auto(A10),"2-Wheel Drive, Rear",,16,21,18,,,,2750,495,3,2025-06-30
+FEguide-36867,2026,General Motors,GMC,SIERRA 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,5.3,8,Auto(A10),"2-Wheel Drive, Rear",,16,20,17,,,,2900,514,3,2025-06-30
+FEguide-36901,2026,General Motors,GMC,SIERRA 2WD,Standard Pick-up Trucks 2WD,Diesel,Diesel,3.0,6,Auto(A10),"2-Wheel Drive, Rear",,23,28,25,,,,2150,402,5,2025-07-01
+FEguide-37305,2026,Nissan,NISSAN,FRONTIER 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,3.8,6,Auto(S9),"2-Wheel Drive, Rear",,19,24,21,,,,2350,423,4,2025-08-26
+FEguide-36758,2026,FCA US LLC,RAM,1500 4X2,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,3.0,6,Auto(A8),"2-Wheel Drive, Rear",,18,25,21,,,,2350,433,4,2025-06-09
+FEguide-37867,2026,FCA US LLC,RAM,1500 4X2,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,3.6,6,Auto(A8),"2-Wheel Drive, Rear",,20,25,22,,,,2250,407,4,2025-09-25
+FEguide-38164,2026,FCA US LLC,RAM,1500 4X2,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,5.7,8,Auto(A8),"2-Wheel Drive, Rear",,17,22,19,,,,3000,470,4,2026-01-16
+FEguide-36978,2026,Toyota,TOYOTA,TUNDRA 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,3.4,6,Auto(S10),"2-Wheel Drive, Rear",,18,23,20,,,,2500,450,4,2025-08-06
+FEguide-36979,2026,Toyota,TOYOTA,TUNDRA 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,3.4,6,Auto(S10),"2-Wheel Drive, Rear",,18,23,20,,,,2500,444,4,2025-08-06
+FEguide-36984,2026,Toyota,TOYOTA,TUNDRA 2WD,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,3.4,6,Auto(S10),"2-Wheel Drive, Rear",,20,24,22,,,,2250,407,4,2025-08-06
+FEguide-37034,2026,Toyota,TOYOTA,TUNDRA 2WD TRD Perf,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,3.4,6,Auto(S10),"2-Wheel Drive, Rear",,18,23,20,,,,3100,444,4,2025-08-06
+FEguide-37030,2026,Toyota,TOYOTA,TUNDRA 2WD TRD Perf,Standard Pick-up Trucks 2WD,Gasoline,Gasoline,3.4,6,Auto(S10),"2-Wheel Drive, Rear",,20,24,22,,,,2850,407,4,2025-08-06
+FEguide-36855,2026,General Motors,Chevrolet,COLORADO ZR2 BISON 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,16,16,16,,,,3100,564,3,2025-06-30
+FEguide-36858,2026,General Motors,Chevrolet,COLORADO ZR2 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,17,17,17,,,,2900,527,3,2025-06-30
+FEguide-38150,2026,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,16,17,17,,,,2900,536,3,2025-06-30
+FEguide-37928,2026,General Motors,Chevrolet,COLORADO 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,17,20,18,,,,2750,494,3,2025-06-30
+FEguide-38158,2026,General Motors,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,17,21,19,,,,2600,473,4,2025-06-30
+FEguide-36848,2026,General Motors,Chevrolet,COLORADO 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,17,22,19,,,,2600,462,4,2025-06-30
+FEguide-38153,2026,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES w/ Sport Mode,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,16,17,17,,,,2900,535,3,2025-06-30
+FEguide-38196,2026,General Motors,Chevrolet,SILVERADO 4WD w/ Sport Mode,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,17,20,18,,,,2750,482,3,2025-06-30
+FEguide-38447,2026,General Motors,Chevrolet,SILVERADO 4WD FFV,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,19,17,408.0,,,2900,524,3,2025-06-30
+FEguide-38451,2026,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES FFV,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,19,17,408.0,,,2900,524,3,2025-06-30
+FEguide-36823,2026,General Motors,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,6.2,8,Auto(A10),4-Wheel Drive,,15,20,17,,,,3650,528,3,2025-06-30
+FEguide-36828,2026,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,6.2,8,Auto(A10),4-Wheel Drive,,14,17,15,,,,4150,593,2,2025-06-30
+FEguide-36824,2026,General Motors,Chevrolet,SILVERADO 4WD ZR2,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,6.2,8,Auto(A10),4-Wheel Drive,,14,17,15,,,,4150,591,2,2025-06-30
+FEguide-36873,2026,General Motors,Chevrolet,SILVERADO 4WD with Sport Mode,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,16,20,17,,,,2900,514,3,2025-06-30
+FEguide-36881,2026,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRE with Sport Mode,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,18,16,,,,3100,553,3,2025-06-30
+FEguide-36877,2026,General Motors,Chevrolet,SILVERADO 4WD (5.3 L),Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,19,17,,,,2900,531,3,2025-06-30
+FEguide-36872,2026,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRE,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,18,16,,,,3100,552,3,2025-06-30
+FEguide-38019,2026,General Motors,Chevrolet,SILVERADO 4WD with Sport Mode,Standard Pick-up Trucks 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,22,26,24,,,,2250,428,5,2025-07-01
+FEguide-36907,2026,General Motors,Chevrolet,SILVERADO 4WD,Standard Pick-up Trucks 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,22,25,23,,,,2350,434,5,2025-07-01
+FEguide-38021,2026,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES with Sport Mode,Standard Pick-up Trucks 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,21,24,23,,,,2350,451,5,2025-07-01
+FEguide-36910,2026,General Motors,Chevrolet,SILVERADO 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,21,24,23,,,,2350,448,5,2025-07-01
+FEguide-38029,2026,General Motors,Chevrolet,SILVERADO 4WD ZR2 with Sport Mode,Standard Pick-up Trucks 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,20,23,21,,,,2550,480,4,2025-07-01
+FEguide-38262,2026,Ford Motor Company,Ford,F150 PICKUP 4WD HEV,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),Part-time 4-Wheel Drive,,22,24,23,,,,2150,388,5,2026-03-17
+FEguide-37891,2026,Ford Motor Company,Ford,F150 PICKUP 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,6,Auto(S10),Part-time 4-Wheel Drive,,18,23,20,,,,2500,444,4,2025-10-31
+FEguide-37888,2026,Ford Motor Company,Ford,F150 PICKUP 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),Part-time 4-Wheel Drive,,17,23,19,,,,2600,464,4,2025-11-27
+FEguide-37887,2026,Ford Motor Company,Ford,F150 PICKUP 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.0,8,Auto(S10),Part-time 4-Wheel Drive,,16,24,19,,,,2600,472,4,2025-11-27
+FEguide-37991,2026,Ford Motor Company,Ford,F150 RAPTOR 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),Part-time 4-Wheel Drive,,14,18,16,,,,3100,566,3,2026-01-05
+FEguide-38006,2026,Ford Motor Company,Ford,F150 PICKUP TREMOR 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),Part-time 4-Wheel Drive,,16,21,18,,,,2750,494,3,2026-01-05
+FEguide-38004,2026,Ford Motor Company,Ford,F150 PICKUP TREMOR 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.0,8,Auto(S10),Part-time 4-Wheel Drive,,15,20,17,,,,2900,522,3,2026-01-05
+FEguide-37990,2026,Ford Motor Company,Ford,F150 RAPTOR R 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.2,8,Auto(S10),Part-time 4-Wheel Drive,,10,15,12,,,,5200,741,1,2026-01-05
+FEguide-38046,2026,Ford Motor Company,Ford,RANGER RAPTOR 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.0,6,Auto(S10),Part-time 4-Wheel Drive,,16,18,17,,,,2900,525,3,2026-01-14
+FEguide-38038,2026,Ford Motor Company,Ford,RANGER 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.3,4,Auto(S10),Part-time 4-Wheel Drive,,19,24,21,,,,2350,421,4,2026-01-14
+FEguide-38062,2026,Ford Motor Company,Ford,RANGER 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,6,Auto(S10),Part-time 4-Wheel Drive,,18,23,20,,,,2500,444,4,2026-01-14
+FEguide-36856,2026,General Motors,GMC,CANYON AT4X AEV 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,16,16,16,,,,3100,564,3,2025-06-30
+FEguide-36860,2026,General Motors,GMC,CANYON AT4X 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,17,17,17,,,,2900,527,3,2025-06-30
+FEguide-38149,2026,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,16,17,17,,,,2900,536,3,2025-06-30
+FEguide-38159,2026,General Motors,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,17,20,18,,,,2750,491,3,2025-06-30
+FEguide-36847,2026,General Motors,GMC,CANYON 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,17,22,19,,,,2600,462,4,2025-06-30
+FEguide-38154,2026,General Motors,GMC,SIERRA 4WD w/ Sport Mode,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,17,18,17,,,,2900,513,3,2025-06-30
+FEguide-38199,2026,General Motors,GMC,CANYON 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.7,4,Auto(A8),4-Wheel Drive,,17,20,18,,,,2750,494,3,2025-06-30
+FEguide-38449,2026,General Motors,GMC,SIERRA 4WD FFV,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,19,17,408.0,,,2900,524,3,2025-06-30
+FEguide-38450,2026,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES FFV,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,19,17,408.0,,,2900,524,3,2025-06-30
+FEguide-36821,2026,General Motors,GMC,SIERRA 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,6.2,8,Auto(A10),4-Wheel Drive,,15,19,16,,,,3900,539,3,2025-06-30
+FEguide-36827,2026,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,6.2,8,Auto(A10),4-Wheel Drive,,14,17,15,,,,4150,593,2,2025-06-30
+FEguide-36825,2026,General Motors,GMC,SIERRA 4WD AT4X,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,6.2,8,Auto(A10),4-Wheel Drive,,14,16,15,,,,4150,601,2,2025-06-30
+FEguide-36915,2026,General Motors,GMC,SIERRA 4WD (Municipal),Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,19,16,,,,3100,546,3,2025-06-30
+FEguide-36921,2026,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES (Municipal),Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,19,16,,,,3100,546,3,2025-06-30
+FEguide-36875,2026,General Motors,GMC,SIERRA 4WD with Sport Mode,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,19,17,,,,2900,522,3,2025-06-30
+FEguide-36880,2026,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES with Sport Mode,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,18,16,,,,3100,561,3,2025-06-30
+FEguide-36878,2026,General Motors,GMC,SIERRA 4WD  (5.3 L),Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,18,16,,,,3100,550,3,2025-06-30
+FEguide-36871,2026,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,14,17,16,,,,3100,567,3,2025-06-30
+FEguide-38020,2026,General Motors,GMC,SIERRA 4WD with Sport Mode,Standard Pick-up Trucks 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,22,26,24,,,,2250,428,5,2025-07-01
+FEguide-38028,2026,General Motors,GMC,SIERRA 4WD MUD TERRAIN TIRES with Sport Mode,Standard Pick-up Trucks 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,21,24,23,,,,2350,451,5,2025-07-01
+FEguide-38030,2026,General Motors,GMC,SIERRA 4WD AT4X with Sport Mode,Standard Pick-up Trucks 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,19,20,19,,,,2850,524,4,2025-07-01
+FEguide-37046,2026,Honda,Honda,RIDGELINE AWD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.5,6,Auto(S9),All Wheel Drive,,18,24,21,,,,2350,441,4,2025-09-09
+FEguide-37047,2026,Honda,Honda,RIDGELINE AWD TrailSport,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.5,6,Auto(S9),All Wheel Drive,,18,23,20,,,,2500,446,4,2025-09-09
+FEguide-37577,2026,FCA US LLC,Jeep,Gladiator 4X4,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.6,6,Auto(A8),4-Wheel Drive,,17,22,19,,,,2600,469,4,2025-09-22
+FEguide-37306,2026,Nissan,NISSAN,FRONTIER 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.8,6,Auto(S9),Part-time 4-Wheel Drive,,17,21,19,,,,2600,479,4,2025-08-26
+FEguide-37307,2026,Nissan,NISSAN,FRONTIER 4WD PRO-4X,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.8,6,Auto(S9),Part-time 4-Wheel Drive,,16,20,18,,,,2750,504,3,2025-08-26
+FEguide-36756,2026,FCA US LLC,RAM,1500 HO 4x4,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.0,6,Auto(A8),4-Wheel Drive,,15,21,17,,,,3650,521,3,2025-06-09
+FEguide-36757,2026,FCA US LLC,RAM,1500 RHO 4x4,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.0,6,Auto(A8),4-Wheel Drive,,14,16,15,,,,4150,602,2,2025-06-09
+FEguide-36759,2026,FCA US LLC,RAM,1500 4X4,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.0,6,Auto(A8),4-Wheel Drive,,18,24,20,,,,2500,444,4,2025-06-09
+FEguide-37897,2026,FCA US LLC,RAM,1500 4X4,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.6,6,Auto(A8),4-Wheel Drive,,19,24,21,,,,2350,417,4,2025-09-25
+FEguide-37869,2026,FCA US LLC,RAM,1500 4X4,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,5.7,8,Auto(A8),4-Wheel Drive,,16,20,18,,,,3150,502,3,2025-08-11
+FEguide-38163,2026,FCA US LLC,RAM,1500 4X4,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,6.2,8,Auto(A8),All Wheel Drive,,10,14,12,,,,5200,748,1,2026-01-16
+FEguide-38263,2026,FCA US LLC,RAM,1500 Warlock 4x4,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.6,6,Auto(A8),4-Wheel Drive,,17,18,17,,,,2900,512,3,2026-03-16
+FEguide-36980,2026,Toyota,TOYOTA,TUNDRA 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),Part-time 4-Wheel Drive,,17,22,19,,,,2600,468,4,2025-08-06
+FEguide-36981,2026,Toyota,TOYOTA,TUNDRA 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),Part-time 4-Wheel Drive,,17,22,19,,,,2600,462,4,2025-08-06
+FEguide-36985,2026,Toyota,TOYOTA,TUNDRA 4WD Hybrid,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),Part-time 4-Wheel Drive,,19,22,20,,,,2500,439,4,2025-08-06
+FEguide-36986,2026,Toyota,TOYOTA,TUNDRA 4WD PRO Hybrid,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),Part-time 4-Wheel Drive,,18,20,19,,,,2600,461,4,2025-08-06
+FEguide-37914,2026,Toyota,TOYOTA,TACOMA HYBRID 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),Part-time 4-Wheel Drive,,22,24,23,,,,2150,386,5,2025-11-05
+FEguide-37913,2026,Toyota,TOYOTA,TACOMA HYBRID 4WD,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),4-Wheel Drive,,22,24,23,,,,2150,380,5,2025-11-05
+FEguide-37035,2026,Toyota,TOYOTA,TUNDRA 4WD TRD Perf,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),Part-time 4-Wheel Drive,,17,22,19,,,,3300,462,4,2025-08-06
+FEguide-37033,2026,Toyota,TOYOTA,TUNDRA 4WD HYBRID TRD Per,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),Part-time 4-Wheel Drive,,19,22,20,,,,3100,439,4,2025-08-06
+FEguide-37032,2026,Toyota,TOYOTA,TUNDRA 4WD PRO HYBRID TRD Perf,Standard Pick-up Trucks 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),Part-time 4-Wheel Drive,,18,20,19,,,,3300,461,4,2025-08-06
+FEguide-36442,2026,Mercedes-Benz,Mercedes-Benz,GLA 250,Special Purpose Vehicle 2WD,Gasoline,Gasoline,2.0,4,Auto(AM8),"2-Wheel Drive, Front",,26,34,29,,,,2150,306,6,2025-04-18
+FEguide-37405,2026,Mercedes-Benz,Mercedes-Benz,GLB 250,Special Purpose Vehicle 2WD,Gasoline,Gasoline,2.0,4,Auto(AM8),"2-Wheel Drive, Front",,25,33,28,,,,2200,311,5,2025-04-18
+FEguide-36866,2026,General Motors,Chevrolet,SILVERADO 2WD CAB CHASSIS,Special Purpose Vehicle cab chassis,Gasoline,Gasoline,5.3,8,Auto(A10),"2-Wheel Drive, Rear",,15,18,16,,,,3100,551,3,2025-06-30
+FEguide-36869,2026,General Motors,Chevrolet,SILVERADO 4WD CAB CHASSIS,Special Purpose Vehicle cab chassis,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,14,16,15,,,,3300,592,2,2025-06-30
+FEguide-36868,2026,General Motors,GMC,SIERRA 2WD CAB CHASSIS,Special Purpose Vehicle cab chassis,Gasoline,Gasoline,5.3,8,Auto(A10),"2-Wheel Drive, Rear",,15,18,16,,,,3100,551,3,2025-06-30
+FEguide-36870,2026,General Motors,GMC,SIERRA 4WD CAB CHASSIS,Special Purpose Vehicle cab chassis,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,14,16,15,,,,3300,592,2,2025-06-30
+FEguide-36989,2026,FCA US LLC,Chrysler,Pacifica,"Special Purpose Vehicle, minivan 2WD",Gasoline,Gasoline,3.6,6,Auto(A9),"2-Wheel Drive, Front",,19,28,22,,,,2250,401,4,2025-07-21
+FEguide-36996,2026,FCA US LLC,Chrysler,Voyager,"Special Purpose Vehicle, minivan 2WD",Gasoline,Gasoline,3.6,6,Auto(A9),"2-Wheel Drive, Front",,19,28,22,,,,2250,401,4,2025-07-21
+FEguide-37428,2026,Honda,Honda,ODYSSEY FWD,"Special Purpose Vehicle, minivan 2WD",Gasoline,Gasoline,3.5,6,Auto(S10),"2-Wheel Drive, Front",,19,28,22,,,,2250,395,4,2025-07-21
+FEguide-36321,2026,Kia,KIA,Carnival,"Special Purpose Vehicle, minivan 2WD",Gasoline,Gasoline,3.5,6,Auto(S8),"2-Wheel Drive, Front",,18,25,21,,,,2350,428,4,2025-03-24
+FEguide-36654,2026,Kia,KIA,Carnival Hybrid,"Special Purpose Vehicle, minivan 2WD",Gasoline,Gasoline,1.6,4,Auto(AM-S6),"2-Wheel Drive, Front",,34,31,32,,,,1550,275,6,2025-03-21
+FEguide-37022,2026,Toyota,TOYOTA,SIENNA,"Special Purpose Vehicle, minivan 2WD",Gasoline,Gasoline,2.5,4,Auto(AV-S6),"2-Wheel Drive, Front",,36,36,36,,,,1400,246,7,2025-11-04
+FEguide-37023,2026,Toyota,TOYOTA,SIENNA AWD,"Special Purpose Vehicle, minivan 4WD",Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,35,36,35,,,,1400,253,6,2025-11-04
+FEguide-36598,2026,Honda,Acura,MDX FWD,Small SUV 2WD,Gasoline,Gasoline,3.5,6,Auto(S10),"2-Wheel Drive, Front",,19,26,22,,,,2850,411,4,2025-05-21
+FEguide-38600,2026,General Motors,Buick,ENCORE GX FWD FFV,Small SUV 2WD,Gasoline,Gasoline,1.2,3,Auto(AV),"2-Wheel Drive, Front",,30,31,30,396.0,,,1650,297,6,2026-05-21
+FEguide-36384,2026,General Motors,Buick,ENCORE GX FWD,Small SUV 2WD,Gasoline,Gasoline,1.3,3,Auto(AV),"2-Wheel Drive, Front",,29,31,30,,,,1650,297,6,2025-04-14
+FEguide-37610,2026,General Motors,Cadillac,XT5 FWD,Small SUV 2WD,Gasoline,Gasoline,3.6,6,Auto(S9),"2-Wheel Drive, Front",,19,26,21,,,,2350,423,4,2025-10-06
+FEguide-37606,2026,General Motors,Cadillac,XT5 FWD,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(S9),"2-Wheel Drive, Front",,22,29,24,,,,2600,370,5,2025-10-06
+FEguide-36425,2026,General Motors,Chevrolet,EQUINOX FWD,Small SUV 2WD,Gasoline,Gasoline,1.5,4,Auto(AV),"2-Wheel Drive, Front",30.0,26,29,27,,,,1850,329,5,2025-04-15
+FEguide-38599,2026,General Motors,Chevrolet,TRAILBLAZER FWD FFV,Small SUV 2WD,Gasoline,Gasoline,1.2,3,Auto(AV),"2-Wheel Drive, Front",,30,31,30,396.0,,,1650,297,6,2026-05-21
+FEguide-38578,2026,General Motors,Chevrolet,TRAILBLAZER FWD,Small SUV 2WD,Gasoline,Gasoline,1.3,3,Auto(AV),"2-Wheel Drive, Front",,29,33,31,,,,1600,287,6,2025-04-01
+FEguide-37608,2026,General Motors,Chevrolet,BLAZER FWD,Small SUV 2WD,Gasoline,Gasoline,3.6,6,Auto(A9),"2-Wheel Drive, Front",31.0,19,26,22,,,,2250,411,4,2025-10-06
+FEguide-37604,2026,General Motors,Chevrolet,BLAZER FWD,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(A9),"2-Wheel Drive, Front",31.0,22,29,25,,,,2000,370,5,2025-10-06
+FEguide-37757,2026,Ford Motor Company,Ford,ESCAPE FWD,Small SUV 2WD,Gasoline,Gasoline,1.5,3,Auto(A8),"2-Wheel Drive, Front",,27,34,30,,,,1650,298,6,2025-09-08
+FEguide-36736,2026,Hyundai,GENESIS,GV80 RWD,Small SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(S8),"2-Wheel Drive, Rear",,20,26,22,,,,2850,403,4,2025-06-15
+FEguide-36426,2026,General Motors,GMC,TERRAIN FWD,Small SUV 2WD,Gasoline,Gasoline,1.5,4,Auto(AV),"2-Wheel Drive, Front",,26,28,27,,,,1850,329,5,2025-04-15
+FEguide-38023,2026,Honda,Honda,PILOT FWD,Small SUV 2WD,Gasoline,Gasoline,3.5,6,Auto(S10),"2-Wheel Drive, Front",,19,27,22,,,,2250,402,4,2025-12-15
+FEguide-36681,2026,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Hybrid FWD,Small SUV 2WD,Gasoline,Gasoline,1.6,4,Auto(AM-S6),"2-Wheel Drive, Front",,37,36,36,,,,1400,244,7,2025-06-15
+FEguide-36615,2026,Hyundai,HYUNDAI MOTOR COMPANY,Kona FWD SX2 1.6T 8AT FWD,Small SUV 2WD,Gasoline,Gasoline,1.6,4,Auto(S8),"2-Wheel Drive, Front",,26,31,28,,,,1750,320,5,2025-06-01
+FEguide-36619,2026,Hyundai,HYUNDAI MOTOR COMPANY,Kona FWD,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(AV-S1),"2-Wheel Drive, Front",,28,35,31,,,,1600,288,6,2025-06-01
+FEguide-36703,2026,Hyundai,HYUNDAI MOTOR COMPANY,Santa Cruz FWD,Small SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(S8),"2-Wheel Drive, Front",,22,30,25,,,,2000,356,5,2025-06-15
+FEguide-36715,2026,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe FWD,Small SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(S8),"2-Wheel Drive, Front",,20,29,24,,,,2050,374,5,2025-06-15
+FEguide-37123,2026,Hyundai,HYUNDAI MOTOR COMPANY,Venue,Small SUV 2WD,Gasoline,Gasoline,1.6,4,Auto(AV-S1),"2-Wheel Drive, Front",,29,33,31,,,,1600,291,6,2025-08-01
+FEguide-37252,2026,Hyundai,HYUNDAI MOTOR COMPANY,Tucson FWD,Small SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(S8),"2-Wheel Drive, Front",,25,33,28,,,,1750,322,5,2025-08-01
+FEguide-36618,2026,Hyundai,HYUNDAI MOTOR COMPANY,Kona FWD w/ STOP-START,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(AV-S1),"2-Wheel Drive, Front",,29,34,31,,,,1600,284,6,2025-06-01
+FEguide-36327,2026,Kia,KIA,Sportage FWD,Small SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(S8),"2-Wheel Drive, Front",,25,33,28,,,,1750,317,5,2025-03-15
+FEguide-36661,2026,Kia,KIA,Sportage Hybrid FWD,Small SUV 2WD,Gasoline,Gasoline,1.6,4,Auto(AM-S6),"2-Wheel Drive, Front",,41,44,42,,,,1200,209,7,2025-05-15
+FEguide-37143,2026,Kia,KIA,Sorento Hybrid FWD,Small SUV 2WD,Gasoline,Gasoline,1.6,4,Auto(AM-S6),"2-Wheel Drive, Front",,37,36,37,,,,1350,240,7,2025-07-17
+FEguide-36787,2026,Kia,KIA,Niro,Small SUV 2WD,Gasoline,Gasoline,1.6,4,Auto(AM-S6),"2-Wheel Drive, Front",23.0,53,45,49,,,,1000,181,8,2025-06-17
+FEguide-36788,2026,Kia,KIA,Niro FE,Small SUV 2WD,Gasoline,Gasoline,1.6,4,Auto(AM-S6),"2-Wheel Drive, Front",23.0,53,54,53,,,,950,167,8,2025-06-17
+FEguide-37011,2026,Kia,KIA,Sorento FWD,Small SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(S8),"2-Wheel Drive, Front",,23,31,26,,,,1900,339,5,2025-07-18
+FEguide-37014,2026,Kia,KIA,Sorento FWD,Small SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(AM-S8),"2-Wheel Drive, Front",,20,29,23,,,,2150,382,5,2025-07-18
+FEguide-36957,2026,Toyota,LEXUS,NX 350h,Small SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),"2-Wheel Drive, Front",,42,38,40,,,,1550,220,7,2025-08-06
+FEguide-37028,2026,Toyota,LEXUS,RX 350,Small SUV 2WD,Gasoline,Gasoline,2.4,4,Auto(S8),"2-Wheel Drive, Front",,22,29,25,,,,2500,354,5,2025-09-17
+FEguide-37859,2026,Ford Motor Company,Lincoln,CORSAIR FWD,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Front",,22,30,25,,,,2000,358,5,2025-09-08
+FEguide-37122,2026,Mercedes-Benz,Mercedes-Benz,GLC 300,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(A9),"2-Wheel Drive, Rear",,24,32,27,,,,2300,323,5,2025-07-25
+FEguide-37614,2026,Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander 2WD,Small SUV 2WD,Gasoline,Gasoline,1.5,4,Auto(AV-S8),"2-Wheel Drive, Front",,26,31,28,,,,1750,314,5,2025-11-15
+FEguide-36998,2026,Nissan,NISSAN,ROGUE FWD,Small SUV 2WD,Gasoline,Gasoline,1.5,3,Auto(AV-S8),"2-Wheel Drive, Front",,29,36,32,,,,1550,279,6,2025-07-29
+FEguide-37253,2026,Nissan,NISSAN,KICKS,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(AV),"2-Wheel Drive, Front",,28,35,31,,,,1600,287,6,2025-09-05
+FEguide-37499,2026,Toyota,TOYOTA,COROLLA CROSS,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(AV-S10),"2-Wheel Drive, Front",,31,33,32,,,,1550,276,6,2025-08-05
+FEguide-38168,2026,Toyota,TOYOTA,RAV4,Small SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),"2-Wheel Drive, Front",,47,40,43,,,,1150,205,7,2026-01-13
+FEguide-36995,2026,Volkswagen Group of,Volkswagen,Atlas,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Front",,20,27,23,,,,2150,390,5,2025-07-07
+FEguide-36994,2026,Volkswagen Group of,Volkswagen,Atlas Cross Sport,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Front",,20,27,23,,,,2150,390,5,2025-07-07
+FEguide-36822,2026,Volkswagen Group of,Volkswagen,Taos,Small SUV 2WD,Gasoline,Gasoline,1.5,4,Auto(S8),"2-Wheel Drive, Front",28.0,28,36,31,,,,1600,287,6,2025-06-27
+FEguide-37079,2026,Volkswagen Group of,Volkswagen,Tiguan,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Front",,25,32,28,,,,1750,320,5,2025-07-31
+FEguide-37080,2026,Volkswagen Group of,Volkswagen,Tiguan S,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Front",,26,34,29,,,,1700,307,6,2025-07-31
+FEguide-36383,2026,Volvo,"Volvo Cars of North America, LLC",XC40 B4,Small SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(S8),"2-Wheel Drive, Front",,25,32,27,,,,2300,326,5,2025-05-23
+FEguide-37048,2026,Honda,Acura,RDX AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S10),All Wheel Drive,,21,27,23,,,,2700,385,5,2025-09-23
+FEguide-37049,2026,Honda,Acura,RDX AWD A-SPEC,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S10),All Wheel Drive,,21,26,23,,,,2700,386,5,2025-09-23
+FEguide-36597,2026,Honda,Acura,MDX AWD,Small SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),All Wheel Drive,,19,25,21,,,,2950,423,4,2025-05-21
+FEguide-38001,2026,FCA US LLC,ALFA ROMEO,Tonale AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,,21,29,24,,,,2050,376,5,2025-12-01
+FEguide-37814,2026,FCA US LLC,ALFA ROMEO,Stelvio AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A8),All Wheel Drive,,22,28,24,,,,2600,364,5,2025-10-20
+FEguide-38179,2026,Volkswagen Group of,Audi,SQ5,Small SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(AM-S7),All Wheel Drive,,21,28,23,,,,2700,382,5,2026-02-02
+FEguide-38180,2026,Volkswagen Group of,Audi,SQ5 Sportback,Small SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(AM-S7),All Wheel Drive,,21,28,23,,,,2700,382,5,2026-02-02
+FEguide-38065,2026,Volkswagen Group of,Audi,Q3,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,,22,29,25,,,,2000,362,5,2026-01-05
+FEguide-38171,2026,Volkswagen Group of,Audi,Q5 TFSI quattro,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,,21,29,24,,,,2600,368,5,2026-01-22
+FEguide-38172,2026,Volkswagen Group of,Audi,Q5 Sportback TFSI quattro,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,,21,29,24,,,,2600,368,5,2026-01-22
+FEguide-37086,2026,BMW,BMW,X1 xDrive28i,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,,25,34,28,,,,2200,311,5,2025-08-01
+FEguide-37110,2026,BMW,BMW,X1 M35i,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,,24,32,27,,,,2300,327,5,2025-08-01
+FEguide-37098,2026,BMW,BMW,X2 xDrive28i,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,,24,34,28,,,,2200,314,5,2025-08-01
+FEguide-37114,2026,BMW,BMW,X2 M35i,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,,23,31,26,,,,2400,338,5,2025-08-01
+FEguide-36684,2026,BMW,BMW,X3 xDrive30,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,27,33,29,,,,2150,299,6,2025-08-01
+FEguide-36778,2026,BMW,BMW,X3 M50,Small SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,,25,30,27,,,,2300,320,5,2025-08-01
+FEguide-37042,2026,General Motors,Buick,ENVISION AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S9),All Wheel Drive,,22,28,25,,,,2000,361,5,2025-08-04
+FEguide-36385,2026,General Motors,Buick,ENCORE GX AWD,Small SUV 4WD,Gasoline,Gasoline,1.3,3,Auto(A9),All Wheel Drive,24.0,26,28,27,,,,1850,327,5,2025-04-12
+FEguide-37633,2026,General Motors,Cadillac,XT5 AWD,Small SUV 4WD,Gasoline,Gasoline,3.6,6,Auto(S9),All Wheel Drive,,18,26,21,,,,2350,424,4,2025-10-06
+FEguide-37607,2026,General Motors,Cadillac,XT5 AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S9),All Wheel Drive,,21,27,23,,,,2700,386,5,2025-10-06
+FEguide-36436,2026,General Motors,Chevrolet,EQUINOX AWD,Small SUV 4WD,Gasoline,Gasoline,1.5,4,Auto(A8),All Wheel Drive,30.0,25,29,26,,,,1900,342,5,2025-04-15
+FEguide-36424,2026,General Motors,Chevrolet,TRAILBLAZER AWD,Small SUV 4WD,Gasoline,Gasoline,1.3,3,Auto(A9),All Wheel Drive,,26,29,27,,,,1850,329,5,2025-04-15
+FEguide-37609,2026,General Motors,Chevrolet,BLAZER AWD,Small SUV 4WD,Gasoline,Gasoline,3.6,6,Auto(A9),All Wheel Drive,31.0,18,25,21,,,,2350,424,4,2025-10-06
+FEguide-37605,2026,General Motors,Chevrolet,BLAZER AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,31.0,22,27,24,,,,2050,368,5,2025-10-06
+FEguide-37848,2026,Ford Motor Company,Ford,BRONCO SPORT 4WD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),4-Wheel Drive,,21,27,23,,,,2150,386,5,2026-01-09
+FEguide-37957,2026,Ford Motor Company,Ford,BRONCO SPORT 4WD,Small SUV 4WD,Gasoline,Gasoline,1.5,3,Auto(A8),Part-time 4-Wheel Drive,,25,30,27,,,,1850,324,5,2026-01-09
+FEguide-37958,2026,Ford Motor Company,Ford,BRONCO SPORT SASQUATCH,Small SUV 4WD,Gasoline,Gasoline,1.5,3,Auto(A8),4-Wheel Drive,,23,26,24,,,,2050,370,5,2026-01-09
+FEguide-37773,2026,Ford Motor Company,Ford,ESCAPE AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A8),All Wheel Drive,,23,31,26,,,,1900,342,5,2025-09-08
+FEguide-37772,2026,Ford Motor Company,Ford,ESCAPE AWD,Small SUV 4WD,Gasoline,Gasoline,1.5,3,Auto(A8),All Wheel Drive,,26,32,28,,,,1750,317,5,2025-09-08
+FEguide-37439,2026,Ford Motor Company,Ford,ESCAPE AWD HEV,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV),Part-time 4-Wheel Drive,,42,36,39,,,,1250,225,7,2025-09-08
+FEguide-38102,2026,Ford Motor Company,Ford,BRONCO 4WD,Small SUV 4WD,Gasoline,Gasoline,2.3,4,Auto(S10),Part-time 4-Wheel Drive,,18,22,20,,,,2500,453,4,2026-01-14
+FEguide-38048,2026,Ford Motor Company,Ford,BRONCO 4WD,Small SUV 4WD,Gasoline,Gasoline,2.7,6,Auto(S10),Part-time 4-Wheel Drive,,17,17,17,,,,2900,525,3,2026-01-14
+FEguide-38104,2026,Ford Motor Company,Ford,BRONCO 4WD,Small SUV 4WD,Gasoline,Gasoline,2.3,4,Manual(M7),Part-time 4-Wheel Drive,,18,21,19,,,,2600,452,4,2026-01-14
+FEguide-38107,2026,Ford Motor Company,Ford,BRONCO SASQUATCH 4WD,Small SUV 4WD,Gasoline,Gasoline,2.3,4,Auto(S10),Part-time 4-Wheel Drive,,17,19,18,,,,2750,494,3,2026-01-14
+FEguide-38108,2026,Ford Motor Company,Ford,BRONCO SASQUATCH 4WD,Small SUV 4WD,Gasoline,Gasoline,2.3,4,Manual(M7),Part-time 4-Wheel Drive,,17,19,18,,,,2750,489,3,2026-01-14
+FEguide-38103,2026,Ford Motor Company,Ford,BRONCO BADLANDS 4WD,Small SUV 4WD,Gasoline,Gasoline,2.3,4,Auto(S10),Part-time 4-Wheel Drive,,17,19,18,,,,2750,507,3,2026-01-14
+FEguide-38105,2026,Ford Motor Company,Ford,BRONCO BADLANDS 4WD,Small SUV 4WD,Gasoline,Gasoline,2.3,4,Manual(M7),Part-time 4-Wheel Drive,,17,18,17,,,,2900,504,3,2026-01-14
+FEguide-36316,2026,Hyundai,GENESIS,GV70 AWD w/ 5-mode transmission (Sport+),Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,29.0,20,26,22,,,,2850,402,4,2025-02-28
+FEguide-36317,2026,Hyundai,GENESIS,GV70 AWD w/ 4-mode transmission,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,29.0,20,28,23,,,,2700,393,5,2025-02-28
+FEguide-36318,2026,Hyundai,GENESIS,GV70 AWD,Small SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S8),All Wheel Drive,29.0,18,25,21,,,,2950,433,4,2025-02-28
+FEguide-38580,2026,General Motors,GMC,TERRAIN AWD,Small SUV 4WD,Gasoline,Gasoline,1.5,4,Auto(A8),All Wheel Drive,30.0,24,28,25,,,,2000,356,5,2025-03-31
+FEguide-38579,2026,General Motors,GMC,TERRAIN AWD Denali / AT4,Small SUV 4WD,Gasoline,Gasoline,1.5,4,Auto(A8),All Wheel Drive,30.0,24,26,25,,,,2000,358,5,2025-03-31
+FEguide-36450,2026,Honda,Honda,CR-V AWD,Small SUV 4WD,Gasoline,Gasoline,1.5,4,Auto(AV),All Wheel Drive,,27,31,29,,,,1700,310,6,2025-05-27
+FEguide-36364,2026,Honda,Honda,CR-V AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AV),All Wheel Drive,,40,34,37,,,,1350,237,7,2025-05-27
+FEguide-36366,2026,Honda,Honda,CR-V AWD TrailSport,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AV),All Wheel Drive,,38,33,35,,,,1400,252,6,2025-05-27
+FEguide-36369,2026,Honda,Honda,PASSPORT AWD,Small SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),All Wheel Drive,,19,25,21,,,,2350,424,4,2025-02-11
+FEguide-36370,2026,Honda,Honda,PASSPORT AWD Trailsport,Small SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),All Wheel Drive,,18,23,20,,,,2500,446,4,2025-02-11
+FEguide-36652,2026,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Hybrid AWD,Small SUV 4WD,Gasoline,Gasoline,1.6,4,Auto(AM-S6),All Wheel Drive,,35,34,34,,,,1450,258,6,2025-06-15
+FEguide-36614,2026,Hyundai,HYUNDAI MOTOR COMPANY,Kona AWD SX2 1.6T 8AT AWD,Small SUV 4WD,Gasoline,Gasoline,1.6,4,Auto(S8),All Wheel Drive,,25,28,26,,,,1900,340,5,2025-06-01
+FEguide-36616,2026,Hyundai,HYUNDAI MOTOR COMPANY,Kona AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AV-S1),All Wheel Drive,,26,29,27,,,,1850,323,5,2025-06-01
+FEguide-36702,2026,Hyundai,HYUNDAI MOTOR COMPANY,Santa Cruz AWD  NX4 OB 2.5 AWD 8AT,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,,21,29,24,,,,2050,367,5,2025-06-15
+FEguide-36775,2026,Hyundai,HYUNDAI MOTOR COMPANY,Santa Cruz AWD NX4 OB 2.5T AWD 8AT,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,,18,25,20,,,,2500,433,4,2025-06-15
+FEguide-36785,2026,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe AWD XRT,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,,19,25,21,,,,2350,421,4,2025-06-15
+FEguide-36786,2026,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,,20,28,23,,,,2150,389,5,2025-06-15
+FEguide-36776,2026,Hyundai,HYUNDAI MOTOR COMPANY,Santa Cruz XRT AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,,18,25,20,,,,2500,435,4,2025-06-15
+FEguide-37220,2026,Hyundai,HYUNDAI MOTOR COMPANY,Tucson Hybrid,Small SUV 4WD,Gasoline,Gasoline,1.6,4,Auto(AM-S6),All Wheel Drive,,36,37,36,,,,1400,243,7,2025-08-15
+FEguide-37219,2026,Hyundai,HYUNDAI MOTOR COMPANY,Tucson Hybrid Blue,Small SUV 4WD,Gasoline,Gasoline,1.6,4,Auto(AM-S6),All Wheel Drive,,38,38,38,,,,1300,234,7,2025-08-15
+FEguide-37251,2026,Hyundai,HYUNDAI MOTOR COMPANY,Tucson AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,,24,30,26,,,,1900,337,5,2025-08-01
+FEguide-36617,2026,Hyundai,HYUNDAI MOTOR COMPANY,Kona AWD w/ STOP-START,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AV-S1),All Wheel Drive,,27,29,28,,,,1750,319,5,2025-06-01
+FEguide-37374,2026,Jaguar Land Rover L,Jaguar,F-PACE,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,22,27,24,,,,2600,376,5,2025-02-07
+FEguide-37376,2026,Jaguar Land Rover L,Jaguar,F-PACE SVR,Small SUV 4WD,Gasoline,Gasoline,5.0,8,Auto(S8),All Wheel Drive,,15,21,17,,,,3650,519,3,2025-02-07
+FEguide-37375,2026,Jaguar Land Rover L,Jaguar,F-PACE MHEV,Small SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,19,25,21,,,,2950,418,4,2025-02-07
+FEguide-37310,2026,FCA US LLC,Jeep,Wrangler 2dr 4X4,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A8),4-Wheel Drive,,20,23,21,,,,2350,416,4,2025-08-25
+FEguide-37111,2026,FCA US LLC,Jeep,Wrangler 2dr 4X4,Small SUV 4WD,Gasoline,Gasoline,3.6,6,Manual(M6),4-Wheel Drive,,17,23,19,,,,2600,462,4,2025-08-25
+FEguide-37311,2026,FCA US LLC,Jeep,Wrangler 4dr 4X4,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A8),4-Wheel Drive,,20,22,21,,,,2350,426,4,2025-08-25
+FEguide-37113,2026,FCA US LLC,Jeep,Wrangler 4dr 4X4,Small SUV 4WD,Gasoline,Gasoline,3.6,6,Auto(A8),4-Wheel Drive,,18,23,20,,,,2500,451,4,2025-08-25
+FEguide-37112,2026,FCA US LLC,Jeep,Wrangler 4dr 4X4,Small SUV 4WD,Gasoline,Gasoline,3.6,6,Manual(M6),4-Wheel Drive,,16,22,19,,,,2600,476,4,2025-08-25
+FEguide-37339,2026,FCA US LLC,Jeep,Compass 4X4,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A8),All Wheel Drive,,23,31,26,,,,1900,335,5,2025-08-11
+FEguide-37851,2026,FCA US LLC,Jeep,Wrangler 4dr 4X4,Small SUV 4WD,Gasoline,Gasoline,6.4,8,Auto(A8),4-Wheel Drive,,13,16,14,,,,4450,633,2,2025-10-27
+FEguide-36326,2026,Kia,KIA,Sportage AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,,24,30,26,,,,1900,339,5,2025-03-15
+FEguide-36682,2026,Kia,KIA,Sportage Hybrid AWD,Small SUV 4WD,Gasoline,Gasoline,1.6,4,Auto(AM-S6),All Wheel Drive,,35,36,35,,,,1400,251,6,2025-05-15
+FEguide-36375,2026,Kia,KIA,Seltos AWD (1.6L),Small SUV 4WD,Gasoline,Gasoline,1.6,4,Auto(S8),All Wheel Drive,,24,27,25,,,,2000,350,5,2025-04-17
+FEguide-36376,2026,Kia,KIA,Seltos AWD (2.0L),Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AV-S8),All Wheel Drive,,27,31,29,,,,1700,309,6,2025-04-17
+FEguide-37255,2026,Kia,KIA,Sorento Hybrid AWD,Small SUV 4WD,Gasoline,Gasoline,1.6,4,Auto(AM-S6),All Wheel Drive,,32,35,34,,,,1450,264,6,2025-07-07
+FEguide-37010,2026,Kia,KIA,Sorento AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,,23,28,25,,,,2000,357,5,2025-07-18
+FEguide-37012,2026,Kia,KIA,Sorento AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AM-S8),All Wheel Drive,,20,27,23,,,,2150,388,5,2025-07-18
+FEguide-36328,2026,Kia,KIA,Sportage X-pro,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,,23,26,24,,,,2050,374,5,2025-03-15
+FEguide-37381,2026,Jaguar Land Rover L,Land Rover,Range Rover Evoque,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S9),All Wheel Drive,,20,27,22,,,,2850,398,4,2025-02-07
+FEguide-37380,2026,Jaguar Land Rover L,Land Rover,Discovery Sport,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S9),All Wheel Drive,,19,23,20,,,,3100,437,4,2025-02-07
+FEguide-37382,2026,Jaguar Land Rover L,Land Rover,Range Rover Velar,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,22,26,23,,,,2700,381,5,2025-02-07
+FEguide-37383,2026,Jaguar Land Rover L,Land Rover,Range Rover Velar P340 MHEV,Small SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,19,26,22,,,,2850,407,4,2025-02-07
+FEguide-37384,2026,Jaguar Land Rover L,Land Rover,Range Rover Velar P400 MHEV,Small SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,19,25,21,,,,2950,420,4,2025-02-07
+FEguide-36960,2026,Toyota,LEXUS,NX 350h AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,41,37,39,,,,1600,225,7,2025-08-06
+FEguide-36962,2026,Toyota,LEXUS,NX 350 AWD,Small SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),All Wheel Drive,,21,28,24,,,,2600,370,5,2025-08-06
+FEguide-36964,2026,Toyota,LEXUS,NX 350 AWD F SPORT,Small SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),All Wheel Drive,,21,28,24,,,,2600,370,5,2025-08-06
+FEguide-37026,2026,Toyota,LEXUS,RX 350h AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,37,34,36,,,,1750,244,7,2025-09-17
+FEguide-37027,2026,Toyota,LEXUS,RX 350 AWD,Small SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),All Wheel Drive,,21,28,24,,,,2600,370,5,2025-09-17
+FEguide-37623,2026,Toyota,LEXUS,RX 500h AWD,Small SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S6),All Wheel Drive,,27,28,27,,,,2300,321,5,2025-09-17
+FEguide-37798,2026,Ford Motor Company,Lincoln,NAUTILUS AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A8),All Wheel Drive,,21,29,24,,,,2050,369,5,2025-08-21
+FEguide-38166,2026,Ford Motor Company,Lincoln,NAUTILUS HEV AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AV),Part-time 4-Wheel Drive,,29,31,30,,,,1650,297,6,2025-08-21
+FEguide-37858,2026,Ford Motor Company,Lincoln,CORSAIR AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,21,28,24,,,,2050,376,5,2025-09-08
+FEguide-37634,2026,Maserati,MASERATI,Grecale Trofeo,Small SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(A8),All Wheel Drive,,18,25,20,,,,3100,432,4,2025-08-22
+FEguide-37635,2026,Maserati,MASERATI,Grecale Modena V6,Small SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(A8),All Wheel Drive,,18,25,20,,,,3100,432,4,2025-09-19
+FEguide-37975,2026,MAZDA,MAZDA,CX-5 4WD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S6),4-Wheel Drive,,24,30,26,,,,1900,339,5,2026-03-01
+FEguide-37402,2026,MAZDA,MAZDA,MAZDA CX-50 4WD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S6),4-Wheel Drive,,23,29,25,,,,2000,355,5,2025-10-13
+FEguide-37404,2026,MAZDA,MAZDA,MAZDA CX-50 4WD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV),4-Wheel Drive,,39,37,38,,,,1300,233,7,2025-10-13
+FEguide-37403,2026,MAZDA,MAZDA,MAZDA CX-50 4WD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S6),4-Wheel Drive,,24,30,26,,,,1900,344,5,2025-10-13
+FEguide-37001,2026,MAZDA,MAZDA,CX-30 4WD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S6),4-Wheel Drive,,24,31,27,,,,1850,329,5,2025-09-26
+FEguide-37000,2026,MAZDA,MAZDA,CX-30 4WD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S6),4-Wheel Drive,,22,30,25,,,,2000,353,5,2025-09-26
+FEguide-37121,2026,Mercedes-Benz,Mercedes-Benz,GLC 300 4MATIC,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,,23,31,26,,,,2400,338,5,2025-07-25
+FEguide-37406,2026,Mercedes-Benz,Mercedes-Benz,GLC 300 4MATIC (Coupe),Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,,23,31,26,,,,2400,337,5,2025-07-25
+FEguide-36732,2026,Mercedes-Benz,Mercedes-Benz,GLE 350,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A9),"2-Wheel Drive, Rear",,21,28,23,,,,2700,382,5,2025-06-04
+FEguide-37407,2026,Mercedes-Benz,Mercedes-Benz,GLE 350 4MATIC,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A9),All Wheel Drive,,19,26,22,,,,2850,410,4,2025-06-06
+FEguide-36444,2026,Mercedes-Benz,Mercedes-Benz,GLA 250 4MATIC,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM8),All Wheel Drive,,25,33,28,,,,2200,315,5,2025-04-18
+FEguide-36446,2026,Mercedes-Benz,Mercedes-Benz,GLB 250 4MATIC,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM8),All Wheel Drive,,24,33,27,,,,2300,324,5,2025-04-18
+FEguide-37085,2026,BMW,Mini,Countryman S ALL4,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,,24,32,27,,,,2300,324,5,2025-08-01
+FEguide-37117,2026,BMW,Mini,JCW Countryman ALL4,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,,23,30,25,,,,2500,344,5,2025-08-01
+FEguide-36941,2026,Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander Sport 4WD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AV-S6),4-Wheel Drive,,23,29,26,,,,1900,344,5,2025-10-31
+FEguide-37053,2026,Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander Sport 4WD,Small SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(AV-S6),4-Wheel Drive,,23,28,25,,,,2000,353,5,2025-10-31
+FEguide-36791,2026,Mitsubishi Motors Co,Mitsubishi Motors Corporation,ECLIPSE CROSS 4WD,Small SUV 4WD,Gasoline,Gasoline,1.5,4,Auto(AV-S8),4-Wheel Drive,,25,26,25,,,,2000,353,5,2025-08-31
+FEguide-36790,2026,Mitsubishi Motors Co,Mitsubishi Motors Corporation,ECLIPSE CROSS ES 4WD,Small SUV 4WD,Gasoline,Gasoline,1.5,4,Auto(AV-S8),4-Wheel Drive,,25,28,26,,,,1900,339,5,2025-08-31
+FEguide-37620,2026,Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander 4WD,Small SUV 4WD,Gasoline,Gasoline,1.5,4,Auto(AV-S8),4-Wheel Drive,,26,30,27,,,,1850,329,5,2025-11-15
+FEguide-36999,2026,Nissan,NISSAN,ROGUE AWD,Small SUV 4WD,Gasoline,Gasoline,1.5,3,Auto(AV-S8),All Wheel Drive,,28,35,31,,,,1600,291,6,2025-07-29
+FEguide-36817,2026,Nissan,NISSAN,ROGUE AWD ROCK CREEK,Small SUV 4WD,Gasoline,Gasoline,1.5,3,Auto(AV-S8),All Wheel Drive,,27,32,29,,,,1700,307,6,2025-07-29
+FEguide-37548,2026,Nissan,NISSAN,MURANO AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S9),All Wheel Drive,,21,27,23,,,,2150,387,5,2025-09-25
+FEguide-37254,2026,Nissan,NISSAN,KICKS AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AV),All Wheel Drive,,27,34,30,,,,1650,299,6,2025-09-05
+FEguide-37144,2026,Porsche,Porsche,Macan,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,,19,25,21,,,,2950,424,4,2025-08-01
+FEguide-37268,2026,Porsche,Porsche,Macan S,Small SUV 4WD,Gasoline,Gasoline,2.9,6,Auto(AM-S7),All Wheel Drive,,17,23,19,,,,3300,465,4,2025-08-01
+FEguide-37147,2026,Porsche,Porsche,Macan T,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AM-S7),All Wheel Drive,,19,25,21,,,,2950,424,4,2025-08-01
+FEguide-37328,2026,Porsche,Porsche,Macan GTS,Small SUV 4WD,Gasoline,Gasoline,2.9,6,Auto(AM-S7),All Wheel Drive,,17,22,19,,,,3300,466,4,2025-08-01
+FEguide-37292,2026,Subaru,Subaru,FORESTER AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S8),All Wheel Drive,,26,33,29,,,,1700,310,6,2025-08-03
+FEguide-37296,2026,Subaru,Subaru,OUTBACK AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S8),All Wheel Drive,,25,31,27,,,,1850,330,5,2025-08-21
+FEguide-37291,2026,Subaru,Subaru,FORESTER SPORT/TOURING AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S8),All Wheel Drive,,25,32,28,,,,1750,317,5,2025-08-03
+FEguide-37297,2026,Subaru,Subaru,OUTBACK AWD,Small SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(AV-S8),All Wheel Drive,,21,29,24,,,,2050,369,5,2025-08-21
+FEguide-37288,2026,Subaru,Subaru,CROSSTREK AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S8),All Wheel Drive,,26,33,29,,,,1700,307,6,2025-08-03
+FEguide-37289,2026,Subaru,Subaru,CROSSTREK WILDERNESS AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S8),All Wheel Drive,,24,29,26,,,,1900,337,5,2025-08-03
+FEguide-37298,2026,Subaru,Subaru,OUTBACK WILDERNESS AWD,Small SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(AV-S8),All Wheel Drive,,21,27,23,,,,2150,385,5,2025-08-21
+FEguide-37293,2026,Subaru,Subaru,FORESTER WILDERNESS AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S8),All Wheel Drive,,24,28,26,,,,1900,347,5,2025-08-03
+FEguide-37532,2026,Subaru,Subaru,FORESTER HYBRID AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,35,34,35,,,,1400,255,6,2025-11-03
+FEguide-38044,2026,Subaru,Subaru,CROSSTREK HYBRID AWD,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,36,36,36,,,,1400,246,7,2025-08-03
+FEguide-37500,2026,Toyota,TOYOTA,COROLLA CROSS AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AV-S10),All Wheel Drive,,29,31,30,,,,1650,295,6,2025-08-05
+FEguide-37501,2026,Toyota,TOYOTA,COROLLA CROSS HYBRID AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(AV-S6),All Wheel Drive,,46,39,42,,,,1200,211,7,2025-08-05
+FEguide-37944,2026,Toyota,TOYOTA,HIGHLANDER AWD,Small SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),All Wheel Drive,,21,28,24,,,,2050,371,5,2025-10-07
+FEguide-38139,2026,Toyota,TOYOTA,RAV4 AWD Limited/XSE,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV),All Wheel Drive,,43,37,41,,,,1200,220,7,2026-01-13
+FEguide-38135,2026,Toyota,TOYOTA,RAV4 AWD Limited/XSE,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,43,37,41,,,,1200,221,7,2026-01-13
+FEguide-38136,2026,Toyota,TOYOTA,RAV4 AWD SE/LE,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,46,39,42,,,,1200,209,7,2026-01-13
+FEguide-38137,2026,Toyota,TOYOTA,RAV4 AWD XLE,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,45,38,41,,,,1200,215,7,2026-01-13
+FEguide-38138,2026,Toyota,TOYOTA,RAV4 AWD WOODLAND EDITION,Small SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,41,35,38,,,,1300,231,7,2026-01-13
+FEguide-36569,2026,Volkswagen Group of,Volkswagen,Atlas SEL 4Motion,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,19,25,21,,,,2350,417,4,2025-05-26
+FEguide-36570,2026,Volkswagen Group of,Volkswagen,Atlas SE 4Motion,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,20,26,22,,,,2250,407,4,2025-05-26
+FEguide-36571,2026,Volkswagen Group of,Volkswagen,Atlas Cross Sport 4Motion,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,20,26,22,,,,2250,407,4,2025-05-26
+FEguide-36572,2026,Volkswagen Group of,Volkswagen,Atlas 4Motion Peak Edition,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,19,25,21,,,,2350,421,4,2025-05-26
+FEguide-37083,2026,Volkswagen Group of,Volkswagen,Taos 4Motion,Small SUV 4WD,Gasoline,Gasoline,1.5,4,Auto(S8),4-Wheel Drive,28.0,25,33,28,,,,1750,318,5,2025-06-27
+FEguide-37081,2026,Volkswagen Group of,Volkswagen,Tiguan 4Motion,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,22,30,25,,,,2000,351,5,2025-07-31
+FEguide-37082,2026,Volkswagen Group of,Volkswagen,Tiguan SEL 4Motion,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,22,29,25,,,,2000,360,5,2025-07-31
+FEguide-36332,2026,Volvo,"Volvo Cars of North America, LLC",XC40 B5 AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,23,30,26,,,,2400,343,5,2025-05-23
+FEguide-36336,2026,Volvo,"Volvo Cars of North America, LLC",XC60 B5 AWD,Small SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,23,30,26,,,,2400,343,5,2025-05-23
+FEguide-36610,2026,BMW,BMW,X5 sDrive40i,Standard SUV 2WD,Gasoline,Gasoline,3.0,6,Auto(S8),"2-Wheel Drive, Rear",,23,27,25,,,,2500,360,5,2025-04-01
+FEguide-36797,2026,General Motors,Buick,ENCLAVE FWD,Standard SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(A8),"2-Wheel Drive, Front",,20,25,22,,,,2250,404,4,2025-07-07
+FEguide-37880,2026,General Motors,Cadillac,ESCALADE 2WD,Standard SUV 2WD,Gasoline,Gasoline,6.2,8,Auto(A10),"2-Wheel Drive, Rear",,15,19,17,,,,3650,537,3,2025-09-08
+FEguide-36829,2026,General Motors,Chevrolet,TAHOE 2WD,Standard SUV 2WD,Gasoline,Gasoline,6.2,8,Auto(A10),"2-Wheel Drive, Rear",,15,20,17,,,,3650,523,3,2025-09-08
+FEguide-36831,2026,General Motors,Chevrolet,SUBURBAN 2WD,Standard SUV 2WD,Gasoline,Gasoline,6.2,8,Auto(A10),"2-Wheel Drive, Rear",,15,19,16,,,,3900,544,3,2025-09-08
+FEguide-36923,2026,General Motors,Chevrolet,TAHOE 2WD,Standard SUV 2WD,Gasoline,Gasoline,5.3,8,Auto(A10),"2-Wheel Drive, Rear",,15,20,17,,,,2900,530,3,2025-09-08
+FEguide-36924,2026,General Motors,Chevrolet,SUBURBAN 2WD,Standard SUV 2WD,Gasoline,Gasoline,5.3,8,Auto(A10),"2-Wheel Drive, Rear",,15,20,17,,,,2900,530,3,2025-09-08
+FEguide-37236,2026,General Motors,Chevrolet,SUBURBAN 2WD,Standard SUV 2WD,Diesel,Diesel,3.0,6,Auto(A10),"2-Wheel Drive, Rear",,21,26,23,,,,2350,442,5,2025-08-25
+FEguide-37233,2026,General Motors,Chevrolet,TAHOE 2WD,Standard SUV 2WD,Diesel,Diesel,3.0,6,Auto(A10),"2-Wheel Drive, Rear",,22,26,24,,,,2250,427,5,2025-08-25
+FEguide-36792,2026,General Motors,Chevrolet,TRAVERSE FWD,Standard SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(A8),"2-Wheel Drive, Front",,20,26,22,,,,2250,404,4,2025-07-07
+FEguide-37100,2026,FCA US LLC,Dodge,Durango RWD,Standard SUV 2WD,Gasoline,Gasoline,3.6,6,Auto(A8),"2-Wheel Drive, Rear",,18,25,20,,,,2500,434,4,2025-07-21
+FEguide-37675,2026,Ford Motor Company,Ford,EXPLORER RWD,Standard SUV 2WD,Gasoline,Gasoline,3.0,6,Auto(S10),"2-Wheel Drive, Rear",,18,25,21,,,,2350,423,4,2025-09-22
+FEguide-37755,2026,Ford Motor Company,Ford,EXPLORER RWD,Standard SUV 2WD,Gasoline,Gasoline,2.3,4,Auto(A10),"2-Wheel Drive, Rear",,20,29,24,,,,2050,377,5,2025-09-22
+FEguide-37641,2026,Ford Motor Company,Ford,EXPEDITION 2WD,Standard SUV 2WD,Gasoline,Gasoline,3.5,6,Auto(S10),"2-Wheel Drive, Rear",,16,24,19,,,,2600,474,4,2025-11-24
+FEguide-36830,2026,General Motors,GMC,YUKON 2WD,Standard SUV 2WD,Gasoline,Gasoline,6.2,8,Auto(A10),"2-Wheel Drive, Rear",,15,20,17,,,,3650,523,3,2025-09-08
+FEguide-36832,2026,General Motors,GMC,YUKON XL 2WD,Standard SUV 2WD,Gasoline,Gasoline,6.2,8,Auto(A10),"2-Wheel Drive, Rear",,15,19,16,,,,3900,544,3,2025-09-08
+FEguide-36925,2026,General Motors,GMC,YUKON 2WD,Standard SUV 2WD,Gasoline,Gasoline,5.3,8,Auto(A10),"2-Wheel Drive, Rear",,15,20,17,,,,2900,530,3,2025-09-08
+FEguide-36926,2026,General Motors,GMC,YUKON XL 2WD,Standard SUV 2WD,Gasoline,Gasoline,5.3,8,Auto(A10),"2-Wheel Drive, Rear",,15,20,17,,,,2900,530,3,2025-09-08
+FEguide-37234,2026,General Motors,GMC,YUKON XL 2WD,Standard SUV 2WD,Diesel,Diesel,3.0,6,Auto(A10),"2-Wheel Drive, Rear",,21,26,23,,,,2350,442,5,2025-08-25
+FEguide-37235,2026,General Motors,GMC,YUKON 2WD,Standard SUV 2WD,Diesel,Diesel,3.0,6,Auto(A10),"2-Wheel Drive, Rear",,21,26,23,,,,2350,442,5,2025-08-25
+FEguide-36794,2026,General Motors,GMC,ACADIA FWD,Standard SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(A8),"2-Wheel Drive, Front",,20,26,22,,,,2250,404,4,2025-07-07
+FEguide-37551,2026,Hyundai,HYUNDAI MOTOR COMPANY,Palisade FWD,Standard SUV 2WD,Gasoline,Gasoline,3.5,6,Auto(S8),"2-Wheel Drive, Front",,19,25,21,,,,2350,418,4,2025-05-15
+FEguide-37369,2026,Hyundai,HYUNDAI MOTOR COMPANY,Palisade Hybrid FWD,Standard SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(AM-S6),"2-Wheel Drive, Front",,31,32,31,,,,1600,283,6,2025-08-15
+FEguide-37353,2026,Hyundai,HYUNDAI MOTOR COMPANY,Palisade Hybrid FWD Blue,Standard SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(AM-S6),"2-Wheel Drive, Front",,33,35,34,,,,1450,258,6,2025-08-15
+FEguide-37264,2026,Nissan,INFINITI,QX60 FWD,Standard SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(S9),"2-Wheel Drive, Front",,22,28,24,,,,2600,371,5,2025-07-18
+FEguide-37429,2026,Nissan,INFINITI,QX80 2WD,Standard SUV 2WD,Gasoline,Gasoline,3.5,6,Auto(S9),"2-Wheel Drive, Rear",,16,20,18,,,,3450,504,3,2025-04-29
+FEguide-37861,2026,FCA US LLC,Jeep,Grand Wagoneer 4x2,Standard SUV 2WD,Gasoline,Gasoline,3.0,6,Auto(A8),"2-Wheel Drive, Rear",,17,24,19,,,,2600,456,4,2025-10-27
+FEguide-37862,2026,FCA US LLC,Jeep,Grand Wagoneer L 4x2,Standard SUV 2WD,Gasoline,Gasoline,3.0,6,Auto(A8),"2-Wheel Drive, Rear",,17,24,19,,,,2600,456,4,2025-10-27
+FEguide-37855,2026,FCA US LLC,Jeep,Grand Cherokee L 4X2,Standard SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(A8),"2-Wheel Drive, Rear",,21,26,23,,,,2150,390,5,2025-11-03
+FEguide-37854,2026,FCA US LLC,Jeep,Grand Cherokee 4X2,Standard SUV 2WD,Gasoline,Gasoline,2.0,4,Auto(A8),"2-Wheel Drive, Rear",,21,27,23,,,,2150,382,5,2025-11-03
+FEguide-38109,2026,FCA US LLC,Jeep,Grand Cherokee L 4X2,Standard SUV 2WD,Gasoline,Gasoline,3.6,6,Auto(A8),"2-Wheel Drive, Rear",,19,26,21,,,,2350,416,4,2025-12-29
+FEguide-38106,2026,FCA US LLC,Jeep,Grand Cherokee 4X2,Standard SUV 2WD,Gasoline,Gasoline,3.6,6,Auto(A8),"2-Wheel Drive, Rear",,19,26,22,,,,2250,407,4,2025-12-22
+FEguide-37024,2026,Toyota,LEXUS,TX 350,Standard SUV 2WD,Gasoline,Gasoline,2.4,4,Auto(S8),"2-Wheel Drive, Front",,21,27,23,,,,2700,382,5,2025-09-03
+FEguide-37673,2026,Ford Motor Company,Lincoln,AVIATOR RWD,Standard SUV 2WD,Gasoline,Gasoline,3.0,6,Auto(S10),"2-Wheel Drive, Rear",,18,25,21,,,,2350,423,4,2025-09-22
+FEguide-36816,2026,Nissan,NISSAN,ARMADA 2WD,Standard SUV 2WD,Gasoline,Gasoline,3.5,6,Auto(S9),"2-Wheel Drive, Rear",,16,20,18,,,,3450,506,3,2025-08-12
+FEguide-37994,2026,Nissan,NISSAN,PATHFINDER 2WD,Standard SUV 2WD,Gasoline,Gasoline,3.5,6,Auto(S9),"2-Wheel Drive, Front",,21,27,23,,,,2150,382,5,2026-01-20
+FEguide-37918,2026,Toyota,TOYOTA,4RUNNER 2WD W/O STOP-START,Standard SUV 2WD,Gasoline,Gasoline,2.4,4,Auto(S8),"2-Wheel Drive, Rear",,20,26,22,,,,2250,399,4,2025-11-20
+FEguide-37916,2026,Toyota,TOYOTA,4RUNNER 2WD STOP-START,Standard SUV 2WD,Gasoline,Gasoline,2.4,4,Auto(S8),"2-Wheel Drive, Rear",,20,24,22,,,,2250,403,4,2025-11-20
+FEguide-36982,2026,Toyota,TOYOTA,SEQUOIA 2WD,Standard SUV 2WD,Gasoline,Gasoline,3.4,6,Auto(S10),"2-Wheel Drive, Rear",,21,24,22,,,,2250,395,4,2025-08-06
+FEguide-37016,2026,Toyota,TOYOTA,GRAND HIGHLANDER HYBRID,Standard SUV 2WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),"2-Wheel Drive, Front",,37,34,36,,,,1400,246,7,2025-09-03
+FEguide-37019,2026,Toyota,TOYOTA,GRAND HIGHLANDER LE/XLE,Standard SUV 2WD,Gasoline,Gasoline,2.4,4,Auto(S8),"2-Wheel Drive, Front",,21,28,24,,,,2050,371,5,2025-09-03
+FEguide-37021,2026,Toyota,TOYOTA,GRAND HIGHLANDER LIMITED,Standard SUV 2WD,Gasoline,Gasoline,2.4,4,Auto(S8),"2-Wheel Drive, Front",,21,28,24,,,,2050,366,5,2025-09-03
+FEguide-37029,2026,Toyota,TOYOTA,SEQUOIA 2WD,Standard SUV 2WD,Gasoline,Gasoline,3.4,6,Auto(S10),"2-Wheel Drive, Rear",,21,24,22,,,,2850,395,4,2025-08-06
+FEguide-36596,2026,Honda,Acura,MDX AWD Type-S,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S10),All Wheel Drive,,17,21,19,,,,3300,474,4,2025-05-21
+FEguide-37421,2026,aston martin,Aston Martin Lagonda Ltd,DBX 707,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(A9),4-Wheel Drive,29.0,15,20,17,,,,3650,537,3,2025-06-06
+FEguide-37498,2026,aston martin,Aston Martin Lagonda Ltd,DBX 727,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(A9),4-Wheel Drive,29.0,14,19,16,,,,3900,546,3,2025-07-07
+FEguide-37580,2026,Volkswagen Group of,Audi,Q7,Standard SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,20,26,22,,,,2850,405,4,2025-09-11
+FEguide-37587,2026,Volkswagen Group of,Audi,SQ8,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,,14,20,16,,,,3900,540,3,2025-09-11
+FEguide-37584,2026,Volkswagen Group of,Audi,RS Q8 Performance,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,,14,20,16,,,,3900,547,3,2025-09-11
+FEguide-37142,2026,Volkswagen Group of,Audi,SQ7,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,,14,20,16,,,,3900,540,3,2025-08-01
+FEguide-37581,2026,Volkswagen Group of,Audi,Q7 quattro,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,,18,23,20,,,,3100,442,4,2025-09-11
+FEguide-37582,2026,Volkswagen Group of,Audi,Q8 quattro,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,,17,23,19,,,,3300,459,4,2025-09-11
+FEguide-37161,2026,Volkswagen Group of,Bentley,Bentayga,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,,14,21,16,,,,3900,553,3,2025-08-01
+FEguide-37163,2026,Volkswagen Group of,Bentley,Bentayga EWB,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,,14,21,16,,,,3900,553,3,2025-08-01
+FEguide-36611,2026,BMW,BMW,X5 xDrive40i,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,,23,27,25,,,,2500,352,5,2025-04-01
+FEguide-36633,2026,BMW,BMW,X5 M60i xDrive,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),All Wheel Drive,,17,22,19,,,,3300,458,4,2025-04-01
+FEguide-36434,2026,BMW,BMW,X5 M Competition,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),All Wheel Drive,,13,18,15,,,,4150,589,2,2025-04-01
+FEguide-36612,2026,BMW,BMW,X6 xDrive40i,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,,22,26,23,,,,2700,372,5,2025-04-01
+FEguide-36632,2026,BMW,BMW,X6 M60i xDrive,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),All Wheel Drive,,17,22,19,,,,3300,458,4,2025-04-01
+FEguide-36433,2026,BMW,BMW,X6 M Competition,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),All Wheel Drive,,13,18,15,,,,4150,589,2,2025-04-01
+FEguide-36613,2026,BMW,BMW,X7 xDrive40i,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,,21,25,23,,,,2700,387,5,2025-04-01
+FEguide-36631,2026,BMW,BMW,X7 M60i xDrive,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),All Wheel Drive,,16,20,18,,,,3450,498,3,2025-04-01
+FEguide-36630,2026,BMW,BMW,ALPINA XB7,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),All Wheel Drive,,16,20,17,,,,3650,506,3,2025-04-01
+FEguide-36796,2026,General Motors,Buick,ENCLAVE AWD,Standard SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(A8),All Wheel Drive,,20,24,21,,,,2350,423,4,2025-07-07
+FEguide-38002,2026,General Motors,Cadillac,ESCALADE V AWD,Standard SUV 4WD,Gasoline,Gasoline,6.2,8,Auto(S10),4-Wheel Drive,,11,17,13,,,,4800,691,1,2025-09-08
+FEguide-36836,2026,General Motors,Cadillac,ESCALADE 4WD,Standard SUV 4WD,Gasoline,Gasoline,6.2,8,Auto(A10),4-Wheel Drive,,14,18,16,,,,3900,572,3,2025-09-08
+FEguide-36839,2026,General Motors,Chevrolet,TAHOE 4WD,Standard SUV 4WD,Gasoline,Gasoline,6.2,8,Auto(A10),4-Wheel Drive,,14,18,16,,,,3900,572,3,2025-09-08
+FEguide-36835,2026,General Motors,Chevrolet,SUBURBAN 4WD,Standard SUV 4WD,Gasoline,Gasoline,6.2,8,Auto(A10),4-Wheel Drive,,14,18,16,,,,3900,572,3,2025-09-08
+FEguide-36927,2026,General Motors,Chevrolet,TAHOE 4WD (5.3L),Standard SUV 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,19,17,,,,2900,536,3,2025-09-08
+FEguide-36929,2026,General Motors,Chevrolet,SUBURBAN 4WD,Standard SUV 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,14,19,16,,,,3100,571,3,2025-09-08
+FEguide-37239,2026,General Motors,Chevrolet,SUBURBAN 4WD,Standard SUV 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,20,24,22,,,,2450,460,4,2025-08-25
+FEguide-37240,2026,General Motors,Chevrolet,TAHOE 4WD,Standard SUV 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,20,24,22,,,,2450,460,4,2025-08-25
+FEguide-36793,2026,General Motors,Chevrolet,TRAVERSE AWD,Standard SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(A8),All Wheel Drive,,20,24,21,,,,2350,423,4,2025-07-07
+FEguide-37101,2026,FCA US LLC,Dodge,Durango AWD,Standard SUV 4WD,Gasoline,Gasoline,3.6,6,Auto(A8),All Wheel Drive,,17,24,20,,,,2500,449,4,2025-07-21
+FEguide-37096,2026,FCA US LLC,Dodge,Durango AWD,Standard SUV 4WD,Gasoline,Gasoline,5.7,8,Auto(A8),All Wheel Drive,,14,21,16,,,,3550,541,3,2025-07-21
+FEguide-37852,2026,FCA US LLC,Dodge,Durango AWD,Standard SUV 4WD,Gasoline,Gasoline,6.2,8,Auto(A8),All Wheel Drive,,12,17,13,,,,4800,659,1,2025-10-27
+FEguide-38132,2026,FCA US LLC,Dodge,Durango AWD,Standard SUV 4WD,Gasoline,Gasoline,6.4,8,Auto(A8),All Wheel Drive,,13,19,15,,,,4150,584,2,2026-01-19
+FEguide-37672,2026,Ford Motor Company,Ford,EXPLORER AWD,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S10),Part-time 4-Wheel Drive,,18,25,20,,,,2500,439,4,2025-09-22
+FEguide-37754,2026,Ford Motor Company,Ford,EXPLORER AWD,Standard SUV 4WD,Gasoline,Gasoline,2.3,4,Auto(A10),Part-time 4-Wheel Drive,,20,27,23,,,,2150,394,5,2025-09-22
+FEguide-37642,2026,Ford Motor Company,Ford,EXPEDITION 4WD,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),Part-time 4-Wheel Drive,,15,22,18,,,,2750,501,3,2025-11-24
+FEguide-38045,2026,Ford Motor Company,Ford,BRONCO RAPTOR 4WD,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S10),Part-time 4-Wheel Drive,,15,16,15,,,,3300,577,2,2026-01-14
+FEguide-38047,2026,Ford Motor Company,Ford,BRONCO OUTER BANKS 4WD,Standard SUV 4WD,Gasoline,Gasoline,2.7,6,Auto(S10),Part-time 4-Wheel Drive,,19,21,20,,,,2500,454,4,2026-01-14
+FEguide-37771,2026,Ford Motor Company,Ford,EXPLORER TREMOR AWD,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S10),Part-time 4-Wheel Drive,,17,22,19,,,,2600,467,4,2025-09-30
+FEguide-37777,2026,Ford Motor Company,Ford,EXPLORER TREMOR AWD,Standard SUV 4WD,Gasoline,Gasoline,2.3,4,Auto(S10),Part-time 4-Wheel Drive,,19,23,21,,,,2350,424,4,2025-09-30
+FEguide-36735,2026,Hyundai,GENESIS,GV80 AWD,Standard SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(S8),All Wheel Drive,,19,24,21,,,,2950,427,4,2025-06-15
+FEguide-36737,2026,Hyundai,GENESIS,GV80 AWD,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S8),All Wheel Drive,,16,22,19,,,,3300,473,4,2025-06-15
+FEguide-36738,2026,Hyundai,GENESIS,GV80 MHEV,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S8),All Wheel Drive,,17,22,19,,,,3300,467,4,2025-06-15
+FEguide-36834,2026,General Motors,GMC,YUKON 4WD,Standard SUV 4WD,Gasoline,Gasoline,6.2,8,Auto(A10),4-Wheel Drive,,14,18,16,,,,3900,572,3,2025-09-08
+FEguide-36837,2026,General Motors,GMC,YUKON XL 4WD,Standard SUV 4WD,Gasoline,Gasoline,6.2,8,Auto(A10),4-Wheel Drive,,14,18,16,,,,3900,572,3,2025-09-08
+FEguide-36930,2026,General Motors,GMC,YUKON 4WD,Standard SUV 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,15,19,17,,,,2900,536,3,2025-09-08
+FEguide-36928,2026,General Motors,GMC,YUKON XL 4WD,Standard SUV 4WD,Gasoline,Gasoline,5.3,8,Auto(A10),4-Wheel Drive,,14,19,16,,,,3100,571,3,2025-09-08
+FEguide-37237,2026,General Motors,GMC,YUKON XL 4WD,Standard SUV 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,20,24,22,,,,2450,460,4,2025-08-25
+FEguide-37238,2026,General Motors,GMC,YUKON 4WD,Standard SUV 4WD,Diesel,Diesel,3.0,6,Auto(A10),4-Wheel Drive,,20,24,22,,,,2450,460,4,2025-08-25
+FEguide-36795,2026,General Motors,GMC,ACADIA AWD,Standard SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(A8),All Wheel Drive,,20,23,21,,,,2350,423,4,2025-07-07
+FEguide-38022,2026,Honda,Honda,PILOT AWD,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),All Wheel Drive,,19,25,21,,,,2350,415,4,2025-12-15
+FEguide-38025,2026,Honda,Honda,Pilot AWD Touring/Elite/Black,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),All Wheel Drive,,19,25,21,,,,2350,422,4,2025-12-15
+FEguide-38024,2026,Honda,Honda,Pilot AWD TRAILSPORT,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),All Wheel Drive,,18,23,20,,,,2500,444,4,2025-12-15
+FEguide-37550,2026,Hyundai,HYUNDAI MOTOR COMPANY,Palisade AWD,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S8),All Wheel Drive,,18,24,20,,,,2500,444,4,2025-05-15
+FEguide-37552,2026,Hyundai,HYUNDAI MOTOR COMPANY,Palisade XRT Pro,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S8),All Wheel Drive,,16,22,19,,,,2600,479,4,2025-05-15
+FEguide-37354,2026,Hyundai,HYUNDAI MOTOR COMPANY,Palisade Hybrid AWD,Standard SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AM-S6),All Wheel Drive,,29,30,29,,,,1700,300,6,2025-08-15
+FEguide-37263,2026,Nissan,INFINITI,QX60 AWD,Standard SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S9),All Wheel Drive,,22,27,24,,,,2600,374,5,2025-07-18
+FEguide-37061,2026,Nissan,INFINITI,QX80 4WD,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S9),4-Wheel Drive,,16,19,17,,,,3650,522,3,2025-08-19
+FEguide-37841,2026,FCA US LLC,Jeep,Grand Wagoneer 4x4,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(A8),All Wheel Drive,,17,23,19,,,,2600,471,4,2025-10-27
+FEguide-37842,2026,FCA US LLC,Jeep,Grand Wagoneer L 4x4,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(A8),All Wheel Drive,,16,22,18,,,,2750,491,3,2025-10-27
+FEguide-37857,2026,FCA US LLC,Jeep,Grand Cherokee L 4X4,Standard SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A8),4-Wheel Drive,,20,25,22,,,,2250,401,4,2025-11-03
+FEguide-38519,2026,FCA US LLC,Jeep,Grand Cherokee 4X4,Standard SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(A8),4-Wheel Drive,,20,25,22,,,,2250,401,4,2025-11-03
+FEguide-37939,2026,FCA US LLC,Jeep,Cherokee AWD,Standard SUV 4WD,Gasoline,Gasoline,1.6,4,Auto(AV),All Wheel Drive,,39,35,37,,,,1350,241,7,2025-10-13
+FEguide-38111,2026,FCA US LLC,Jeep,Grand Cherokee L 4X4,Standard SUV 4WD,Gasoline,Gasoline,3.6,6,Auto(A8),All Wheel Drive,,18,25,21,,,,2350,430,4,2025-12-29
+FEguide-38110,2026,FCA US LLC,Jeep,Grand Cherokee 4X4,Standard SUV 4WD,Gasoline,Gasoline,3.6,6,Auto(A8),All Wheel Drive,,19,26,22,,,,2250,413,4,2025-12-29
+FEguide-37816,2026,Jaguar Land Rover L,Land Rover,Discovery,Standard SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),4-Wheel Drive,,19,24,21,,,,2950,425,4,2025-08-04
+FEguide-37815,2026,Jaguar Land Rover L,Land Rover,Discovery MHEV,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,17,23,19,,,,3300,457,4,2025-07-21
+FEguide-37763,2026,Jaguar Land Rover L,Land Rover,Range Rover P400 MHEV,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,19,24,21,,,,2950,428,4,2025-10-10
+FEguide-37764,2026,Jaguar Land Rover L,Land Rover,Range Rover P400 LWB MHEV,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,19,24,21,,,,2950,428,4,2025-10-10
+FEguide-37332,2026,Jaguar Land Rover L,Land Rover,Range Rover SV LWB MHEV,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),4-Wheel Drive,,16,22,18,,,,3450,501,3,2025-09-15
+FEguide-37968,2026,Jaguar Land Rover L,Land Rover,Range Rover Sport P360 MHEV,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,20,25,22,,,,2850,406,4,2025-11-28
+FEguide-37969,2026,Jaguar Land Rover L,Land Rover,Range Rover Sport P400 MHEV,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,20,25,22,,,,2850,406,4,2025-11-28
+FEguide-37052,2026,Jaguar Land Rover L,Land Rover,Range Rover MHEV,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),4-Wheel Drive,,16,23,19,,,,3300,477,4,2025-09-15
+FEguide-37051,2026,Jaguar Land Rover L,Land Rover,Range Rover LWB MHEV,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),4-Wheel Drive,,16,22,18,,,,3450,501,3,2025-09-15
+FEguide-37330,2026,Jaguar Land Rover L,Land Rover,Range Rover Sport MHEV,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),4-Wheel Drive,,16,23,19,,,,3300,477,4,2025-09-15
+FEguide-37331,2026,Jaguar Land Rover L,Land Rover,Range Rover Sport SVR MHEV,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),4-Wheel Drive,,16,22,18,,,,3450,497,3,2025-09-15
+FEguide-37316,2026,Jaguar Land Rover L,Land Rover,Range Rover SV MHEV,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),4-Wheel Drive,,16,23,18,,,,3450,487,3,2025-09-15
+FEguide-37135,2026,Jaguar Land Rover L,Land Rover,Defender 110,Standard SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),4-Wheel Drive,,18,22,20,,,,3100,452,4,2025-08-04
+FEguide-37805,2026,Jaguar Land Rover L,Land Rover,Defender 110 MHEV,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,18,22,20,,,,3100,453,4,2025-09-19
+FEguide-37097,2026,Jaguar Land Rover L,Land Rover,Defender 90,Standard SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),4-Wheel Drive,,18,21,19,,,,3300,465,4,2025-08-04
+FEguide-37808,2026,Jaguar Land Rover L,Land Rover,Defender 90 MHEV,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,18,23,20,,,,3100,448,4,2025-09-19
+FEguide-37379,2026,Jaguar Land Rover L,Land Rover,Defender 90,Standard SUV 4WD,Gasoline,Gasoline,5.0,8,Auto(S8),4-Wheel Drive,,15,19,16,,,,3900,550,3,2025-07-21
+FEguide-37377,2026,Jaguar Land Rover L,Land Rover,Defender 110,Standard SUV 4WD,Gasoline,Gasoline,5.0,8,Auto(S8),4-Wheel Drive,,14,18,16,,,,3900,574,3,2025-07-21
+FEguide-37378,2026,Jaguar Land Rover L,Land Rover,Defender 130,Standard SUV 4WD,Gasoline,Gasoline,5.0,8,Auto(S8),4-Wheel Drive,,14,19,16,,,,3900,567,3,2025-07-21
+FEguide-37806,2026,Jaguar Land Rover L,Land Rover,Defender 130 P300 MHEV,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,17,21,19,,,,3300,468,4,2025-09-19
+FEguide-37807,2026,Jaguar Land Rover L,Land Rover,Defender 130 P400 MHEV,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,16,20,18,,,,3450,491,3,2025-09-19
+FEguide-37599,2026,Jaguar Land Rover L,Land Rover,Defender 130 Outbound,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,17,19,18,,,,3450,500,3,2025-09-19
+FEguide-37056,2026,Jaguar Land Rover L,Land Rover,Defender 110 MHEV,Standard SUV 4WD,Gasoline,Gasoline,4.4,8,Auto(S8),4-Wheel Drive,,15,19,17,,,,3650,534,3,2025-07-21
+FEguide-37625,2026,Jaguar Land Rover L,Land Rover,Defender 110 Trophy MHEV,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),4-Wheel Drive,,17,18,17,,,,3650,512,3,2025-09-19
+FEguide-37915,2026,Toyota,LEXUS,GX 550,Standard SUV 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),4-Wheel Drive,,15,21,17,,,,3650,505,3,2025-11-20
+FEguide-37622,2026,Toyota,LEXUS,TX 500h AWD,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S6),All Wheel Drive,,27,28,27,,,,2300,322,5,2025-09-03
+FEguide-37025,2026,Toyota,LEXUS,TX 350 AWD,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),All Wheel Drive,,20,26,23,,,,2700,387,5,2025-09-03
+FEguide-37901,2026,Toyota,LEXUS,LX 600,Standard SUV 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),All Wheel Drive,,17,22,19,,,,3300,477,4,2025-10-17
+FEguide-37902,2026,Toyota,LEXUS,LX 700h,Standard SUV 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),All Wheel Drive,,19,22,20,,,,3100,439,4,2025-10-17
+FEguide-37671,2026,Ford Motor Company,Lincoln,AVIATOR AWD,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S10),Part-time 4-Wheel Drive,,17,25,20,,,,2500,447,4,2025-09-22
+FEguide-37640,2026,Ford Motor Company,Lincoln,NAVIGATOR 4WD,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S10),Part-time 4-Wheel Drive,,15,22,17,,,,2900,512,3,2025-11-24
+FEguide-36976,2026,MAZDA,MAZDA,MAZDA CX-90 4WD,Standard SUV 4WD,Gasoline,Gasoline,3.3,6,Auto(S8),4-Wheel Drive,,23,28,25,,,,2000,358,5,2025-09-08
+FEguide-36975,2026,MAZDA,MAZDA,MAZDA CX-90 4WD,Standard SUV 4WD,Gasoline,Gasoline,3.3,6,Auto(S8),4-Wheel Drive,,23,28,25,,,,2500,354,5,2025-09-08
+FEguide-36974,2026,MAZDA,MAZDA,MAZDA CX-70 3.3L-DI-TC M Hybrid Boost Low Power 4WD S8,Standard SUV 4WD,Gasoline,Gasoline,3.3,6,Auto(S8),4-Wheel Drive,,24,28,25,,,,2000,350,5,2025-10-25
+FEguide-36977,2026,MAZDA,MAZDA,MAZDA CX-70 3.3L-DI-TC M Hybrid Boost High Power 4WD S8,Standard SUV 4WD,Gasoline,Gasoline,3.3,6,Auto(S8),4-Wheel Drive,,23,28,25,,,,2500,354,5,2025-10-25
+FEguide-37408,2026,Mercedes-Benz,Mercedes-Benz,AMG GLE 63 S 4MATIC+ (coupe),Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,,15,21,17,,,,3650,523,3,2025-06-25
+FEguide-36893,2026,Mercedes-Benz,Mercedes-Benz,AMG GLE 63 S 4MATIC+,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,,15,20,17,,,,3650,528,3,2025-06-25
+FEguide-36892,2026,Mercedes-Benz,Mercedes-Benz,AMG GLS 63 4MATIC+,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,,15,20,17,,,,3650,538,3,2025-06-25
+FEguide-36536,2026,Mercedes-Benz,Mercedes-Benz,GLS 600 4MATIC Maybach,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,,13,18,15,,,,4150,585,2,2025-05-13
+FEguide-36940,2026,Mercedes-Benz,Mercedes-Benz,GLE 580 4MATIC,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,,15,21,18,,,,3450,506,3,2025-06-25
+FEguide-36919,2026,Mercedes-Benz,Mercedes-Benz,GLS 580 4MATIC,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(A9),All Wheel Drive,,14,20,16,,,,3900,539,3,2025-06-26
+FEguide-36740,2026,Mercedes-Benz,Mercedes-Benz,GLE 450 4MATIC,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,,19,25,21,,,,2950,424,4,2025-06-04
+FEguide-36741,2026,Mercedes-Benz,Mercedes-Benz,GLE 450 4MATIC (coupe),Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,,19,25,21,,,,2950,424,4,2025-06-04
+FEguide-36739,2026,Mercedes-Benz,Mercedes-Benz,GLS 450 4MATIC,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,,19,24,21,,,,2950,428,4,2025-06-04
+FEguide-36728,2026,Mercedes-Benz,Mercedes-Benz,AMG GLE 53 4MATIC+,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,,18,23,20,,,,3100,439,4,2025-06-04
+FEguide-36729,2026,Mercedes-Benz,Mercedes-Benz,AMG GLE 53 4MATIC+ (coupe),Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(A9),All Wheel Drive,,18,22,20,,,,3100,454,4,2025-06-04
+FEguide-37410,2026,Mercedes-Benz,Mercedes-Benz,G 550,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(A9),4-Wheel Drive,,17,19,18,,,,3450,490,3,2025-08-01
+FEguide-37036,2026,Mercedes-Benz,Mercedes-Benz,AMG G 63,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(A9),4-Wheel Drive,,14,16,15,,,,4150,608,2,2025-10-15
+FEguide-36807,2026,Nissan,NISSAN,ARMADA 4WD,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S9),4-Wheel Drive,,16,19,17,,,,3650,524,3,2025-08-12
+FEguide-36806,2026,Nissan,NISSAN,ARMADA 4WD PRO-4X,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S9),4-Wheel Drive,,15,18,16,,,,3900,556,3,2025-08-12
+FEguide-37997,2026,Nissan,NISSAN,PATHFINDER 4WD,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S9),4-Wheel Drive,,21,26,23,,,,2150,390,5,2026-01-20
+FEguide-37996,2026,Nissan,NISSAN,PATHFINDER 4WD PLATINUM,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S9),4-Wheel Drive,,20,25,22,,,,2250,408,4,2026-01-20
+FEguide-37995,2026,Nissan,NISSAN,PATHFINDER 4WD ROCK CREEK,Standard SUV 4WD,Gasoline,Gasoline,3.5,6,Auto(S9),4-Wheel Drive,,20,23,21,,,,2950,422,4,2026-01-20
+FEguide-37266,2026,Porsche,Porsche,Cayenne,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,,17,23,19,,,,3300,469,4,2025-08-01
+FEguide-37267,2026,Porsche,Porsche,Cayenne Coupe,Standard SUV 4WD,Gasoline,Gasoline,3.0,6,Auto(S8),All Wheel Drive,,17,23,19,,,,3300,469,4,2025-08-01
+FEguide-37573,2026,Porsche,Porsche,Cayenne S,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,,16,21,18,,,,3450,492,3,2025-09-15
+FEguide-37574,2026,Porsche,Porsche,Cayenne S Coupe,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,,16,21,18,,,,3450,492,3,2025-09-15
+FEguide-37572,2026,Porsche,Porsche,Cayenne Turbo GT,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,,15,20,17,,,,3650,521,3,2025-09-15
+FEguide-37575,2026,Porsche,Porsche,Cayenne GTS,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,,15,22,18,,,,3450,512,3,2025-09-15
+FEguide-37576,2026,Porsche,Porsche,Cayenne GTS Coupe,Standard SUV 4WD,Gasoline,Gasoline,4.0,8,Auto(S8),All Wheel Drive,,16,22,18,,,,3450,489,3,2025-09-15
+FEguide-37145,2026,Rolls-Royce,Rolls-Royce Motor Cars Limited,Cullinan,Standard SUV 4WD,Gasoline,Gasoline,6.7,12,Auto(S8),All Wheel Drive,,12,19,14,,,,4450,609,2,2025-08-01
+FEguide-37146,2026,Rolls-Royce,Rolls-Royce Motor Cars Limited,Black Badge Cullinan,Standard SUV 4WD,Gasoline,Gasoline,6.7,12,Auto(S8),All Wheel Drive,,12,19,14,,,,4450,609,2,2025-08-01
+FEguide-37706,2026,Subaru,Subaru,ASCENT AWD,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(AV-S8),All Wheel Drive,,19,26,22,,,,2250,405,4,2025-10-16
+FEguide-37707,2026,Subaru,Subaru,ASCENT LIMITED/TOURING/ONYX EDITION AWD,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(AV-S8),All Wheel Drive,,19,25,21,,,,2350,421,4,2025-10-16
+FEguide-37921,2026,Toyota,TOYOTA,4RUNNER 4WD W/O STOP-START,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),Part-time 4-Wheel Drive,,19,25,21,,,,2350,417,4,2025-11-20
+FEguide-37923,2026,Toyota,TOYOTA,4RUNNER 4WD PART-TIME 4WD.,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),4-Wheel Drive,,20,24,21,,,,2350,415,4,2025-11-20
+FEguide-37922,2026,Toyota,TOYOTA,4RUNNER 4WD HYBRID. PART-TIME 4WD,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),Part-time 4-Wheel Drive,,23,24,23,,,,2150,380,5,2025-11-20
+FEguide-37920,2026,Toyota,TOYOTA,4RUNNER 4WD HYBRID. FULL-TIME 4WD,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),4-Wheel Drive,,22,24,23,,,,2150,380,5,2025-11-20
+FEguide-36983,2026,Toyota,TOYOTA,SEQUOIA 4WD,Standard SUV 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),Part-time 4-Wheel Drive,,19,22,20,,,,2500,439,4,2025-08-06
+FEguide-37017,2026,Toyota,TOYOTA,GRAND HIGHLANDER HYBRID AWD,Standard SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,36,32,34,,,,1450,260,6,2025-09-03
+FEguide-37512,2026,Toyota,TOYOTA,LAND CRUISER,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),4-Wheel Drive,,22,25,23,,,,2700,379,5,2025-09-17
+FEguide-37621,2026,Toyota,TOYOTA,GRAND HIGHLANDER HYBRID AWD,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S6),All Wheel Drive,,26,27,27,,,,1850,332,5,2025-09-03
+FEguide-37018,2026,Toyota,TOYOTA,GRAND HIGHLANDER AWD LE/XLE,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),All Wheel Drive,,21,27,23,,,,2150,379,5,2025-09-03
+FEguide-37020,2026,Toyota,TOYOTA,GRAND HIGHLANDER AWD LIMITED/PLATINUM,Standard SUV 4WD,Gasoline,Gasoline,2.4,4,Auto(S8),All Wheel Drive,,20,26,22,,,,2250,400,4,2025-09-03
+FEguide-37942,2026,Toyota,TOYOTA,HIGHLANDER HYBRID AWD LTD/PLAT,Standard SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,35,34,35,,,,1400,253,6,2025-10-07
+FEguide-37945,2026,Toyota,TOYOTA,HIGHLANDER HYBRID AWD,Standard SUV 4WD,Gasoline,Gasoline,2.5,4,Auto(AV-S6),All Wheel Drive,,35,35,35,,,,1400,254,6,2025-10-07
+FEguide-37031,2026,Toyota,TOYOTA,SEQUOIA 4WD,Standard SUV 4WD,Gasoline,Gasoline,3.4,6,Auto(S10),Part-time 4-Wheel Drive,,19,22,20,,,,3100,439,4,2025-08-06
+FEguide-36337,2026,Volvo,"Volvo Cars of North America, LLC",XC90 B6 AWD,Standard SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,20,26,23,,,,2700,393,5,2025-05-23
+FEguide-36438,2026,Volvo,"Volvo Cars of North America, LLC",XC90 B5 AWD,Standard SUV 4WD,Gasoline,Gasoline,2.0,4,Auto(S8),All Wheel Drive,,22,27,24,,,,2600,369,5,2025-05-23
+EV-37526,2026,Honda,Acura,ZDX RWD,Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",30.0,100,83,91,327.0,,,950,0,9,2025-10-09
+EV-37527,2026,Honda,Acura,ZDX AWD,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,30.0,98,81,89,323.0,,,950,0,9,2025-10-09
+EV-37528,2026,Honda,Acura,ZDX AWD Type S,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,30.0,90,76,83,296.0,,,1050,0,9,2025-10-09
+EV-36548,2026,Volkswagen Group of,Audi,RS e-tron GT Performance,Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,11.0,85,82,84,278.0,,,1000,0,9,2025-12-31
+EV-36550,2026,Volkswagen Group of,Audi,S e-tron GT (20in wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,11.0,91,88,90,300.0,,,950,0,9,2025-12-31
+EV-36549,2026,Volkswagen Group of,Audi,S e-tron GT (21in wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,11.0,89,85,88,294.0,,,1000,0,9,2025-12-31
+EV-36798,2026,Volkswagen Group of,Audi,Q4 45 e-tron,Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",26.0,125,104,115,288.0,,,750,0,9,2025-06-20
+EV-36749,2026,Volkswagen Group of,Audi,Q4 55 e-tron quattro,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,105,89,97,251.0,,,900,0,9,2025-12-31
+EV-36750,2026,Volkswagen Group of,Audi,Q4 Sportback 55 e-tron quattro,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,105,89,97,251.0,,,900,0,9,2025-12-31
+EV-37959,2026,BMW,BMW,i4 eDrive35 Gran Coupe (19'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",10.0,113,105,109,251.0,,,800,0,9,2025-11-01
+EV-37818,2026,BMW,BMW,i4 eDrive40 Gran Coupe (18'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",10.0,121,115,118,333.0,,,750,0,9,2025-11-01
+EV-37819,2026,BMW,BMW,i4 eDrive40 Gran Coupe (19'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",10.0,112,105,108,307.0,,,800,0,9,2025-11-01
+EV-37822,2026,BMW,BMW,i4 M60 xDrive Gran Coupe (19'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,10.0,99,96,98,278.0,,,900,0,9,2025-11-01
+EV-37823,2026,BMW,BMW,i4 M60 xDrive Gran Coupe (20'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,10.0,82,80,81,232.0,,,1050,0,9,2025-11-01
+EV-37820,2026,BMW,BMW,i4 xDrive40 Gran Coupe (18'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,10.0,99,103,101,287.0,,,850,0,9,2025-11-01
+EV-37821,2026,BMW,BMW,i4 xDrive40 Gran Coupe (19'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,10.0,93,95,94,268.0,,,900,0,9,2025-11-01
+EV-36340,2026,BMW,BMW,i5 eDrive40 Sedan (19'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",11.0,114,106,110,310.0,,,800,0,9,2025-04-01
+EV-36341,2026,BMW,BMW,i5 eDrive40 Sedan (20'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",11.0,110,102,106,300.0,,,800,0,9,2025-04-01
+EV-36339,2026,BMW,BMW,i5 eDrive40 Sedan (21'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",11.0,102,93,98,278.0,,,900,0,9,2025-04-01
+EV-37833,2026,BMW,BMW,i5 M60 xDrive Sedan (19'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,11.0,100,98,99,277.0,,,850,0,9,2025-11-01
+EV-37834,2026,BMW,BMW,i5 M60 xDrive Sedan (20'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,11.0,96,92,94,266.0,,,900,0,9,2025-11-01
+EV-37835,2026,BMW,BMW,i5 M60 xDrive Sedan (21'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,11.0,92,89,91,259.0,,,950,0,9,2025-11-01
+EV-36342,2026,BMW,BMW,i5 xDrive40 Sedan (19'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,11.0,99,97,98,278.0,,,900,0,9,2025-04-01
+EV-36343,2026,BMW,BMW,i5 xDrive40 Sedan (20'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,11.0,97,94,96,272.0,,,900,0,9,2025-04-01
+EV-36344,2026,BMW,BMW,i5 xDrive40 Sedan (21'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,11.0,92,88,91,259.0,,,950,0,9,2025-04-01
+EV-37232,2026,BMW,BMW,i7 eDrive50 Sedan (19'' Wheels),Large Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",14.0,85,93,88,314.0,,,950,0,9,2025-08-01
+EV-37242,2026,BMW,BMW,i7 eDrive50 Sedan (20'' Wheels),Large Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",14.0,82,88,85,301.0,,,1000,0,9,2025-08-01
+EV-37243,2026,BMW,BMW,i7 eDrive50 Sedan (21'' Wheels),Large Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",14.0,84,90,87,307.0,,,1000,0,9,2025-08-01
+EV-37294,2026,BMW,BMW,i7 M70 xDrive Sedan (20'' Wheels),Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,14.0,72,78,75,267.0,,,1150,0,9,2025-08-01
+EV-37295,2026,BMW,BMW,i7 M70 xDrive Sedan (21'' Wheels),Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,14.0,77,83,79,285.0,,,1100,0,9,2025-08-01
+EV-37283,2026,BMW,BMW,i7 xDrive60 Sedan (19'' Wheels),Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,14.0,85,91,88,311.0,,,1000,0,9,2025-08-01
+EV-37284,2026,BMW,BMW,i7 xDrive60 Sedan (20'' Wheels),Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,14.0,81,85,83,296.0,,,1050,0,9,2025-08-01
+EV-37285,2026,BMW,BMW,i7 xDrive60 Sedan (21'' Wheels),Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,14.0,85,89,87,308.0,,,1000,0,9,2025-08-01
+EV-36353,2026,BMW,BMW,iX M70 (21'' Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,79,82,80,303.0,,,1050,0,9,2025-04-01
+EV-36354,2026,BMW,BMW,iX M70 (22'' Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,74,78,76,284.0,,,1150,0,9,2025-04-01
+EV-36355,2026,BMW,BMW,iX M70 (23'' Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,74,76,75,283.0,,,1150,0,9,2025-04-01
+EV-36345,2026,BMW,BMW,iX xDrive45 (20'' Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,94,93,94,312.0,,,900,0,9,2025-04-01
+EV-36346,2026,BMW,BMW,iX xDrive45 (21'' Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,91,88,89,297.0,,,950,0,9,2025-04-01
+EV-36347,2026,BMW,BMW,iX xDrive45 (22'' Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,85,82,84,279.0,,,1050,0,9,2025-04-01
+EV-36348,2026,BMW,BMW,iX xDrive45 (23'' Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,89,85,87,290.0,,,1000,0,9,2025-04-01
+EV-36349,2026,BMW,BMW,iX xDrive60 (20'' Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,99,94,97,364.0,,,900,0,9,2025-04-01
+EV-36350,2026,BMW,BMW,iX xDrive60 (21'' Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,92,89,91,341.0,,,950,0,9,2025-04-01
+EV-36351,2026,BMW,BMW,iX xDrive60 (22'' Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,90,85,88,327.0,,,1000,0,9,2025-04-01
+EV-36352,2026,BMW,BMW,iX xDrive60 (23'' Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,87,83,85,318.0,,,1000,0,9,2025-04-01
+EV-36754,2026,Bugatti Rimac LLC,Bugatti Rimac,Nevera R,Two Seaters,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,4.0,50,51,51,174.0,,,1700,0,8,2025-06-13
+EV-38453,2026,General Motors,Cadillac,CELESTIQ,Small Station Wagons,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,14.0,84,77,81,303.0,,,1050,0,9,2025-10-28
+EV-38452,2026,General Motors,Cadillac,LYRIQ 11kW Charger,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",24.0,100,83,92,326.0,,,950,0,9,2025-08-04
+EV-38448,2026,General Motors,Cadillac,LYRIQ 19kW Charger,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",24.0,100,83,91,326.0,,,950,0,9,2025-08-04
+EV-38445,2026,General Motors,Cadillac,LYRIQ AWD 11kW Charger,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,24.0,98,80,89,319.0,,,950,0,9,2025-08-04
+EV-38446,2026,General Motors,Cadillac,LYRIQ AWD 19kW Charger,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,24.0,93,77,85,303.0,,,1000,0,9,2025-08-04
+EV-38439,2026,General Motors,Cadillac,OPTIQ RWD 11kW Charger,Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",26.0,117,93,105,317.0,,,800,0,9,2025-08-28
+EV-38440,2026,General Motors,Cadillac,OPTIQ RWD 19kW Charger,Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",26.0,117,93,105,317.0,,,800,0,9,2025-08-28
+EV-38571,2026,General Motors,Cadillac,LYRIQ AWD V SERIES 11kW Charger,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,24.0,87,72,80,285.0,,,1100,0,9,2025-03-17
+EV-38570,2026,General Motors,Cadillac,LYRIQ AWD V SERIES 19kW Charger,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,24.0,87,72,80,285.0,,,1100,0,9,2025-03-17
+EV-38437,2026,General Motors,Cadillac,OPTIQ AWD 11kW,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,110,88,99,303.0,,,850,0,9,2025-09-09
+EV-38438,2026,General Motors,Cadillac,OPTIQ AWD 19kW Charger,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,110,88,99,303.0,,,850,0,9,2025-09-09
+EV-38441,2026,General Motors,Cadillac,OPTIQ AWD V SERIES 11kW Charger,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,103,81,92,278.0,,,950,0,9,2025-09-22
+EV-38442,2026,General Motors,Cadillac,OPTIQ AWD V SERIES 19kW Charger,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,92,74,83,250.0,,,1050,0,9,2025-09-22
+EV-38573,2026,General Motors,Cadillac,VISTIQ 11kW Charger,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,93,78,86,305.0,,,1000,0,9,2025-02-17
+EV-38572,2026,General Motors,Cadillac,VISTIQ 19kW Charger,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,93,78,86,300.0,,,1000,0,9,2025-02-17
+EV-38142,2026,General Motors,Chevrolet,SILVERADO EV Ext Range (11kW Charger),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,75,61,68,410.0,,,1250,0,9,2025-05-23
+EV-38144,2026,General Motors,Chevrolet,SILVERADO EV Ext Range (19kW Charger),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,69,59,64,385.0,,,1350,0,8,2025-05-23
+EV-38426,2026,General Motors,Chevrolet,SILVERADO EV Ext Range WT,Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,78,63,70,424.0,,,1200,0,9,2025-05-23
+EV-38141,2026,General Motors,Chevrolet,SILVERADO EV Max Range WT (19kW Charger),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,75,61,68,493.0,,,1250,0,9,2025-05-23
+EV-38147,2026,General Motors,Chevrolet,SILVERADO EV Std Range (11kW Charger),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,74,60,67,283.0,,,1300,0,9,2025-05-23
+EV-38146,2026,General Motors,Chevrolet,SILVERADO EV Std Range WT (11kW Charger),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,75,61,68,286.0,,,1250,0,9,2025-05-23
+EV-38433,2026,General Motors,Chevrolet,BLAZER EV FWD,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",26.0,114,95,104,312.0,,,800,0,9,2025-08-04
+EV-38432,2026,General Motors,Chevrolet,BLAZER EV FWD 22IN TIRE,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",26.0,103,86,95,283.0,,,900,0,9,2025-08-04
+EV-38429,2026,General Motors,Chevrolet,EQUINOX EV FWD,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",,117,100,108,319.0,,,800,0,9,2025-08-18
+EV-38435,2026,General Motors,Chevrolet,BLAZER EV AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,102,86,94,283.0,,,900,0,9,2025-08-04
+EV-38436,2026,General Motors,Chevrolet,BLAZER EV AWD SS,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,92,77,85,302.0,,,1000,0,9,2025-08-04
+EV-38430,2026,General Motors,Chevrolet,EQUINOX EV AWD 11kW Charger,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,112,95,103,307.0,,,850,0,9,2025-08-18
+EV-38431,2026,General Motors,Chevrolet,EQUINOX EV AWD 19kW Charger,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,103,88,96,288.0,,,900,0,9,2025-08-18
+EV-37230,2026,FCA US LLC,Dodge,Charger Daytona R/T AWD 245/55ZR18,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,25.0,91,78,85,263.0,,,1000,0,9,2025-08-04
+EV-37212,2026,FCA US LLC,Dodge,Charger Daytona R/T AWD 255/45R20,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,25.0,100,89,95,295.0,,,900,0,9,2025-07-29
+EV-37231,2026,FCA US LLC,Dodge,Charger Daytona R/T AWD 275/40R20,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,25.0,89,76,83,258.0,,,1050,0,9,2025-08-04
+EV-37116,2026,FCA US LLC,Dodge,Charger Daytona R/T AWD 305/35ZR20,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,25.0,93,79,86,267.0,,,1000,0,9,2025-07-29
+EV-37115,2026,FCA US LLC,Dodge,Charger Daytona Scat Pack AWD 305/35ZR20,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,25.0,93,79,86,267.0,,,1000,0,9,2025-07-29
+EV-36948,2026,FCA US LLC,Dodge,Charger Daytona Scat Pack AWD 325/35ZR20 Rear,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,25.0,77,68,72,223.0,,,1200,0,9,2025-05-19
+EV-36949,2026,FCA US LLC,Dodge,Charger Daytona Scat Pack AWD 325/35ZR20 Rear A/S,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,25.0,82,73,78,241.0,,,1100,0,9,2025-05-19
+EV-37978,2026,FCA US LLC,FIAT,500e,Minicompact Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",7.0,127,104,116,149.0,,,750,0,9,2025-11-24
+EV-37979,2026,FCA US LLC,FIAT,500e All Season,Minicompact Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",7.0,121,100,110,141.0,,,800,0,9,2025-11-24
+EV-38081,2026,Ford Motor Company,Ford,MUSTANG MACH-E RWD,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,111,103,107,260.0,,,800,0,9,2026-01-23
+EV-38099,2026,Ford Motor Company,Ford,MUSTANG MACH-E RWD EXTENDED,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,115,104,110,320.0,,,800,0,9,2026-01-23
+EV-38098,2026,Ford Motor Company,Ford,MUSTANG MACH-E AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,104,96,100,240.0,,,850,0,9,2026-01-23
+EV-38079,2026,Ford Motor Company,Ford,MUSTANG MACH-E AWD EXTENDED,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,110,98,104,300.0,,,800,0,9,2026-01-23
+EV-38080,2026,Ford Motor Company,Ford,MUSTANG MACH-E GT,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,95,85,90,280.0,,,950,0,9,2026-01-23
+EV-38097,2026,Ford Motor Company,Ford,MUSTANG MACH-E RALLY,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,89,78,84,255.0,,,1000,0,9,2026-01-23
+EV-36319,2026,Hyundai,GENESIS,Electrified G80,Midsize Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,12.0,99,93,96,300.0,,,900,0,9,2025-02-21
+EV-36891,2026,Hyundai,GENESIS,GV60 RWD,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",24.0,119,101,110,306.0,,,800,0,9,2025-07-01
+EV-36857,2026,Hyundai,GENESIS,GV60 AWD Advanced with 20'',Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,24.0,102,89,96,267.0,,,900,0,9,2025-07-01
+EV-36859,2026,Hyundai,GENESIS,GV60 AWD Performance,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,24.0,97,83,90,252.0,,,950,0,9,2025-07-01
+EV-36890,2026,Hyundai,GENESIS,GV60 AWD with 19'',Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,24.0,107,93,100,282.0,,,850,0,9,2025-07-01
+EV-36407,2026,Hyundai,GENESIS,Electrified GV70 19'' AWD,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,29.0,103,88,96,263.0,,,900,0,9,2025-04-25
+EV-36408,2026,Hyundai,GENESIS,Electrified GV70 20'' AWD,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,29.0,96,80,88,243.0,,,950,0,9,2025-04-25
+EV-38143,2026,General Motors,GMC,SIERRA EV Ext Range (11kW Charger),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,75,61,68,410.0,,,1250,0,9,2025-05-23
+EV-38145,2026,General Motors,GMC,SIERRA EV Ext Range (19kW Charger),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,69,59,64,385.0,,,1350,0,8,2025-05-23
+EV-38148,2026,General Motors,GMC,SIERRA EV Std Range (11kW Charger),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,74,60,67,283.0,,,1300,0,9,2025-05-23
+EV-37523,2026,Honda,Honda,Prologue FWD,Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",26.0,113,94,104,308.0,,,850,0,9,2025-10-28
+EV-37524,2026,Honda,Honda,Prologue AWD,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,108,90,99,294.0,,,850,0,9,2025-10-28
+EV-37525,2026,Honda,Honda,Prologue AWD,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,104,87,95,283.0,,,900,0,9,2025-10-28
+EV-37554,2026,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq 5 Robo taxi,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,73,69,71,168.0,,,1200,0,9,2025-10-01
+EV-37301,2026,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq 5 RWD,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,129,100,114,318.0,,,750,0,9,2025-08-01
+EV-37302,2026,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq 5 Standard range,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,131,100,115,245.0,,,750,0,9,2025-08-01
+EV-37300,2026,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq 5 AWD (19inch Wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,116,96,106,290.0,,,800,0,9,2025-08-01
+EV-37304,2026,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq 5 AWD (20inch Wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,108,88,98,269.0,,,900,0,9,2025-08-01
+EV-37303,2026,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq 5 AWD XRT,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,103,85,94,259.0,,,900,0,9,2025-08-01
+EV-37315,2026,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq 5 N,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,84,72,78,221.0,,,1100,0,9,2025-08-15
+EV-36329,2026,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq 9 RWD,Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,103,81,92,335.0,,,950,0,9,2025-03-15
+EV-36330,2026,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq 9 AWD,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,98,78,88,320.0,,,950,0,9,2025-03-15
+EV-36331,2026,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq 9 AWD Performance,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,91,79,85,311.0,,,1000,0,9,2025-03-15
+EV-38284,2026,FCA US LLC,Jeep,Recon MOAB 4WD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,80,62,71,222.0,,,1200,0,9,2026-04-20
+EV-37896,2026,FCA US LLC,Jeep,Wagoneer S AWD (Falken tire),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,100,85,93,294.0,,,900,0,9,2026-01-06
+EV-37898,2026,FCA US LLC,Jeep,Wagoneer S AWD (Pirelli tire),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,90,82,86,268.0,,,1000,0,9,2026-01-06
+EV-37830,2026,Kia,KIA,EV6 Long Range RWD,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,128,101,114,319.0,,,750,0,9,2025-11-15
+EV-37829,2026,Kia,KIA,EV6 Standard Range RWD,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,128,103,115,237.0,,,750,0,9,2025-11-15
+EV-36766,2026,Kia,KIA,Niro Electric,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",23.0,126,101,113,253.0,,,750,0,9,2025-06-16
+EV-37853,2026,Kia,KIA,EV6 AWD GT,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,87,79,83,231.0,,,1050,0,9,2025-11-14
+EV-37827,2026,Kia,KIA,EV6 Long Range AWD (19'' Wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,117,95,106,295.0,,,800,0,9,2025-11-15
+EV-37828,2026,Kia,KIA,EV6 Long Range AWD (20'' Wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,106,89,97,270.0,,,900,0,9,2025-11-15
+EV-36312,2026,Kia,KIA,EV9 Long Range RWD,Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,100,78,89,305.0,,,950,0,9,2025-02-07
+EV-36313,2026,Kia,KIA,EV9 Standard Range RWD,Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,101,76,88,230.0,,,950,0,9,2025-02-07
+EV-36704,2026,Kia,KIA,EV9 GT,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,83,72,78,260.0,,,1100,0,9,2025-06-01
+EV-36315,2026,Kia,KIA,EV9 Long Range AWD,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,94,75,84,283.0,,,1000,0,9,2025-02-07
+EV-36314,2026,Kia,KIA,EV9 Long Range AWD GT-Line,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,92,72,82,280.0,,,1050,0,9,2025-02-07
+EV-38389,2026,Toyota,LEXUS,ES 350e (19 inch Wheels),Midsize Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",14.0,135,118,127,307.0,,,700,0,10,2026-04-09
+EV-38391,2026,Toyota,LEXUS,ES 350e (21 inch Wheels),Midsize Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",14.0,129,112,121,292.0,,,700,0,10,2026-04-09
+EV-38393,2026,Toyota,LEXUS,ES 500e AWD (19 inch Wheels),Midsize Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,14.0,119,108,114,276.0,,,750,0,9,2026-04-09
+EV-38395,2026,Toyota,LEXUS,ES 500e AWD (21 inch Wheels),Midsize Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,14.0,118,105,112,272.0,,,750,0,9,2026-04-09
+EV-37947,2026,Toyota,LEXUS,RZ 350e FWD (18 inch Wheels),Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",,136,115,126,301.0,,,700,0,10,2025-10-08
+EV-37953,2026,Toyota,LEXUS,RZ 350e FWD (20 inch Wheels),Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",,129,110,120,284.0,,,700,0,9,2025-10-08
+EV-37949,2026,Toyota,LEXUS,RZ 450e AWD (18inch Wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,120,100,110,264.0,,,800,0,9,2025-10-08
+EV-37950,2026,Toyota,LEXUS,RZ 450e AWD (20 inch Wheels - 235/50R20),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,117,99,108,257.0,,,800,0,9,2025-10-08
+EV-37955,2026,Toyota,LEXUS,"RZ 450e AWD (20 inch Wheels - 235/50R20,255/45R20)",Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,102,87,95,228.0,,,900,0,9,2025-10-08
+EV-37943,2026,Toyota,LEXUS,RZ 550e AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,102,88,95,229.0,,,900,0,9,2025-10-08
+EV-37537,2026,"Lucid USA, Inc",Lucid USA Inc.,"Air G Touring XR AWD w/19"" wheels",Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,32.0,129,126,128,512.0,,,650,0,10,2025-08-15
+EV-37801,2026,"Lucid USA, Inc",Lucid USA Inc.,"Air G Touring XR AWD w/20"" wheels",Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,32.0,122,117,120,480.0,,,700,0,9,2025-08-15
+EV-37840,2026,"Lucid USA, Inc",Lucid USA Inc.,"Air G Touring XR AWD w/21"" wheels",Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,32.0,114,109,112,446.0,,,750,0,9,2025-08-15
+EV-37535,2026,"Lucid USA, Inc",Lucid USA Inc.,"Air Pure RWD w/19"" wheels",Large Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",32.0,149,142,146,420.0,,,600,0,10,2025-08-15
+EV-37536,2026,"Lucid USA, Inc",Lucid USA Inc.,"Air Pure RWD w/20"" wheels",Large Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",32.0,132,125,129,372.0,,,650,0,10,2025-08-15
+EV-37786,2026,"Lucid USA, Inc",Lucid USA Inc.,Air Sapphire AWD,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,32.0,108,101,105,427.0,,,800,0,9,2025-08-15
+EV-37540,2026,"Lucid USA, Inc",Lucid USA Inc.,"Air Touring AWD w/19"" wheels",Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,32.0,136,132,134,431.0,,,650,0,10,2025-08-15
+EV-37541,2026,"Lucid USA, Inc",Lucid USA Inc.,"Air Touring AWD w/20"" wheels",Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,32.0,126,121,123,396.0,,,700,0,10,2025-08-15
+EV-37783,2026,"Lucid USA, Inc",Lucid USA Inc.,Gravity Dream w/20F21R wheels (3R),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,101,98,99,420.0,,,850,0,9,2025-05-09
+EV-37784,2026,"Lucid USA, Inc",Lucid USA Inc.,Gravity Dream w/21F22R wheels (3R),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,91,87,90,378.0,,,950,0,9,2025-05-09
+EV-37785,2026,"Lucid USA, Inc",Lucid USA Inc.,Gravity Dream w/22F23R wheels (3R),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,91,87,90,378.0,,,950,0,9,2025-05-09
+EV-37745,2026,"Lucid USA, Inc",Lucid USA Inc.,Gravity GT w/20F21R wheels (2R),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,113,103,108,450.0,,,800,0,9,2025-05-09
+EV-37800,2026,"Lucid USA, Inc",Lucid USA Inc.,Gravity GT w/20F21R wheels (3R),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,108,100,104,437.0,,,800,0,9,2025-05-09
+EV-37746,2026,"Lucid USA, Inc",Lucid USA Inc.,Gravity GT w/21F22R wheels (2R),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,102,94,98,407.0,,,850,0,9,2025-05-09
+EV-37749,2026,"Lucid USA, Inc",Lucid USA Inc.,Gravity GT w/21F22R wheels (3R),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,96,89,92,386.0,,,950,0,9,2025-05-09
+EV-37747,2026,"Lucid USA, Inc",Lucid USA Inc.,Gravity GT w/22F23R wheels (2R),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,102,94,98,407.0,,,850,0,9,2025-05-09
+EV-37750,2026,"Lucid USA, Inc",Lucid USA Inc.,Gravity GT w/22F23R wheels (3R),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,96,89,92,386.0,,,950,0,9,2025-05-09
+EV-38076,2026,"Lucid USA, Inc",Lucid USA Inc.,Gravity Touring w/20F21R wheels,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,115,106,111,337.0,,,750,0,9,2025-11-10
+EV-38619,2026,Maserati,MASERATI,Grancabrio Folgore,Subcompact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,5.0,84,82,83,231.0,,,1050,0,9,2026-05-04
+EV-38225,2026,Maserati,MASERATI,Grecale Folgore (19 inch Wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,83,78,81,268.0,,,1050,0,9,2026-01-26
+EV-38288,2026,Maserati,MASERATI,Grecale Folgore (20 inch Wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,83,78,81,268.0,,,1050,0,9,2026-01-26
+EV-38226,2026,Maserati,MASERATI,Grecale Folgore (21 inch Wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,75,69,72,239.0,,,1200,0,9,2026-01-26
+EV-37693,2026,Mercedes-Benz,Mercedes-Benz,CLA 250+ with EQ Technology,Compact Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",12.0,112,105,109,317.0,,,800,0,9,2025-10-10
+EV-37692,2026,Mercedes-Benz,Mercedes-Benz,CLA 250+ with EQ Technology (R22),Compact Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",12.0,127,124,126,374.0,,,700,0,10,2025-10-10
+EV-37662,2026,Mercedes-Benz,Mercedes-Benz,CLA 350 4MATIC with EQ Technology,Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,12.0,120,115,118,312.0,,,750,0,9,2025-10-15
+EV-36813,2026,Mercedes-Benz,Mercedes-Benz,AMG EQE 4MATIC+,Midsize Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,11.0,69,71,70,220.0,,,1200,0,9,2025-06-17
+EV-37358,2026,Mercedes-Benz,Mercedes-Benz,EQE 320 4MATIC,Midsize Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,11.0,87,85,86,267.0,,,1000,0,9,2025-06-06
+EV-37361,2026,Mercedes-Benz,Mercedes-Benz,EQE 320+,Midsize Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",11.0,94,94,94,308.0,,,900,0,9,2025-06-19
+EV-37371,2026,Mercedes-Benz,Mercedes-Benz,EQS 450 4MATIC,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,35.0,91,93,92,367.0,,,950,0,9,2025-06-10
+EV-36727,2026,Mercedes-Benz,Mercedes-Benz,EQS 450+,Large Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",35.0,98,98,98,390.0,,,850,0,9,2025-06-04
+EV-37370,2026,Mercedes-Benz,Mercedes-Benz,EQS 580 4MATIC,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,35.0,93,93,93,371.0,,,900,0,9,2025-06-10
+EV-36812,2026,Mercedes-Benz,Mercedes-Benz,AMG EQE 4MATIC+ (SUV),Midsize Station Wagons,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,23.0,76,72,74,230.0,,,1150,0,9,2025-06-17
+EV-37359,2026,Mercedes-Benz,Mercedes-Benz,EQE 320 4MATIC (SUV),Midsize Station Wagons,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,23.0,84,78,81,253.0,,,1050,0,9,2025-06-06
+EV-37362,2026,Mercedes-Benz,Mercedes-Benz,EQE 320+ (SUV),Midsize Station Wagons,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",23.0,98,87,93,302.0,,,900,0,9,2025-06-26
+EV-36743,2026,Mercedes-Benz,Mercedes-Benz,EQS 400 4MATIC (SUV),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,80,78,79,312.0,,,1100,0,9,2025-06-10
+EV-36744,2026,Mercedes-Benz,Mercedes-Benz,EQS 550 4MATIC (SUV),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,82,78,80,317.0,,,1050,0,9,2025-06-10
+EV-36748,2026,Mercedes-Benz,Mercedes-Benz,EQS 680 4MATIC Maybach (SUV),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,84,84,84,300.0,,,1000,0,9,2025-07-01
+EV-37360,2026,Mercedes-Benz,Mercedes-Benz,G 580 with EQ Technology,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A2),4-Wheel Drive,,68,56,62,239.0,,,1400,0,8,2025-08-01
+EV-37838,2026,BMW,Mini,Countryman SE ALL4 (18'' Wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,99,94,96,212.0,,,900,0,9,2025-11-01
+EV-37839,2026,BMW,Mini,Countryman SE ALL4 (19'' Wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,94,88,91,204.0,,,950,0,9,2025-11-01
+EV-37223,2026,Nissan,NISSAN,LEAF 75kWh (18 inch alloy wheels),Small Station Wagons,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",20.0,122,105,114,288.0,,,750,0,9,2025-09-09
+EV-37222,2026,Nissan,NISSAN,LEAF 75kWh (18 inch steel wheels),Small Station Wagons,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",20.0,131,111,121,303.0,,,700,0,10,2025-09-09
+EV-37224,2026,Nissan,NISSAN,LEAF 75kWh (19 inch wheels),Small Station Wagons,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",17.0,110,96,103,259.0,,,850,0,9,2025-09-09
+EV-37981,2026,Nissan,NISSAN,ARIYA FWD 63kWh,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",28.0,109,94,101,216.0,,,850,0,9,2025-12-01
+EV-37983,2026,Nissan,NISSAN,ARIYA FWD 87kWh,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",28.0,105,91,98,289.0,,,900,0,9,2025-12-01
+EV-37982,2026,Nissan,NISSAN,ARIYA e-4ORCE 63kWh,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,28.0,101,89,95,205.0,,,900,0,9,2025-12-01
+EV-37985,2026,Nissan,NISSAN,ARIYA e-4ORCE 87kWh,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,28.0,97,86,92,272.0,,,950,0,9,2025-12-01
+EV-37984,2026,Nissan,NISSAN,ARIYA PLATINUM+ e-4ORCE 87kWh 19in. Wheels,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,28.0,93,87,90,267.0,,,950,0,9,2025-12-01
+EV-37787,2026,Volvo,Polestar Automotive USA Inc,Polestar 3 Long Range Single Motor(20 Inch wheels),Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,102,88,95,286.0,,,900,0,9,2025-12-10
+EV-37788,2026,Volvo,Polestar Automotive USA Inc,Polestar 3 Long Range Single Motor(21 Inch wheels),Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,105,89,97,291.0,,,900,0,9,2025-12-10
+EV-37720,2026,Polestar Performanc,Polestar Automotive USA Inc,Polestar 4 Long Range Single Motor,Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,100,90,95,310.0,,,900,0,9,2025-08-31
+EV-37761,2026,Volvo,Polestar Automotive USA Inc,Polestar 3 Long Range Dual Motor (21 Inch wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,95,84,90,312.0,,,950,0,9,2025-12-10
+EV-37760,2026,Volvo,Polestar Automotive USA Inc,Polestar 3 Long Range Dual Motor (22 Inch wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,85,76,81,281.0,,,1050,0,9,2025-12-10
+EV-37759,2026,Volvo,Polestar Automotive USA Inc,Polestar 3 Long Range Dual Motor Performance Pack,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,85,76,81,281.0,,,1050,0,9,2025-12-10
+EV-37718,2026,Polestar Performanc,Polestar Automotive USA Inc,Polestar 4 Long Range Dual Motor,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,90,80,85,280.0,,,1000,0,9,2025-08-31
+EV-37719,2026,Polestar Performanc,Polestar Automotive USA Inc,Polestar 4 Long Range Dual Motor Performance,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,80,74,77,255.0,,,1100,0,9,2025-08-31
+EV-38116,2026,Porsche,Porsche,Taycan 4 Perf Battery Plus,Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,11.0,89,85,87,294.0,,,1000,0,9,2025-07-31
+EV-38649,2026,Porsche,Porsche,Taycan 4 Perf Battery Plus 19in All-Season (M+S),Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,11.0,94,92,93,315.0,,,900,0,9,2025-07-31
+EV-38651,2026,Porsche,Porsche,Taycan 4 Performance Battery,Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,11.0,90,84,87,251.0,,,1000,0,9,2025-07-31
+EV-38119,2026,Porsche,Porsche,Taycan 4S Perf Battery Plus,Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,12.0,89,85,87,295.0,,,1000,0,9,2025-07-31
+EV-38120,2026,Porsche,Porsche,Taycan 4S Perf Battery Plus 19in All-Season (M+S),Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,12.0,94,92,93,315.0,,,900,0,9,2025-07-31
+EV-38118,2026,Porsche,Porsche,Taycan 4S Performance Battery,Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,12.0,90,85,88,252.0,,,1000,0,9,2025-07-31
+EV-38128,2026,Porsche,Porsche,Taycan GTS,Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,11.0,88,85,86,293.0,,,1000,0,9,2025-07-31
+EV-37940,2026,Porsche,Porsche,Taycan Performance Battery,Compact Cars,Electric (EV),Electricity,,,Auto(A2),"2-Wheel Drive, Rear",12.0,94,88,91,274.0,,,950,0,9,2025-09-27
+EV-38122,2026,Porsche,Porsche,Taycan Turbo,Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,11.0,88,83,86,292.0,,,1000,0,9,2025-07-31
+EV-38126,2026,Porsche,Porsche,Taycan Turbo GT,Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,11.0,86,78,82,276.0,,,1050,0,9,2025-07-31
+EV-38127,2026,Porsche,Porsche,Taycan Turbo GT with Weissach Package,Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,11.0,85,76,81,269.0,,,1050,0,9,2025-07-31
+EV-38124,2026,Porsche,Porsche,Taycan Turbo S,Compact Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,11.0,80,78,79,266.0,,,1100,0,9,2025-07-31
+EV-38117,2026,Porsche,Porsche,Taycan 4 Cross Turismo,Midsize Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,24.0,84,79,81,277.0,,,1050,0,9,2025-07-31
+EV-38121,2026,Porsche,Porsche,Taycan 4S Cross Turismo,Midsize Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,24.0,82,77,80,272.0,,,1100,0,9,2025-07-31
+EV-38129,2026,Porsche,Porsche,Taycan GTS Sport Turismo,Midsize Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,24.0,84,80,82,279.0,,,1050,0,9,2025-07-31
+EV-38123,2026,Porsche,Porsche,Taycan Turbo Cross Turismo,Midsize Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,24.0,80,76,78,265.0,,,1100,0,9,2025-07-31
+EV-38125,2026,Porsche,Porsche,Taycan Turbo S Cross Turismo,Midsize Cars,Electric (EV),Electricity,,,Auto(A2),All Wheel Drive,24.0,79,75,77,261.0,,,1100,0,9,2025-07-31
+EV-38223,2026,Porsche,Porsche,Macan Electric,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,106,89,97,309.0,,,900,0,9,2026-02-16
+EV-38252,2026,Porsche,Porsche,Macan Electric 20in Wheels,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,114,96,105,332.0,,,800,0,9,2026-03-10
+EV-38220,2026,Porsche,Porsche,Macan 4 Electric,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,104,87,95,304.0,,,900,0,9,2026-02-27
+EV-38253,2026,Porsche,Porsche,Macan 4 Electric 20in Wheels,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,111,93,102,324.0,,,850,0,9,2026-03-10
+EV-38218,2026,Porsche,Porsche,Macan 4S Electric,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,99,84,92,290.0,,,950,0,9,2026-02-13
+EV-38221,2026,Porsche,Porsche,Macan GTS Electric,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,99,84,92,294.0,,,950,0,9,2026-02-13
+EV-38222,2026,Porsche,Porsche,Macan Turbo Electric,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,99,84,91,293.0,,,950,0,9,2026-02-16
+EV-37546,2026,Rivian Automotive L,Rivian,R1T All-Terrain Dual Large (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,82,70,76,289.0,,,1150,0,9,2025-05-15
+EV-37467,2026,Rivian Automotive L,Rivian,R1T All-Terrain Dual Large Plus (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,76,67,72,292.0,,,1200,0,9,2025-05-15
+EV-37457,2026,Rivian Automotive L,Rivian,R1T All-Terrain Dual Max (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,82,73,78,370.0,,,1100,0,9,2025-05-15
+EV-37547,2026,Rivian Automotive L,Rivian,R1T All-Terrain Performance Dual Large (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,82,70,76,289.0,,,1150,0,9,2025-05-15
+EV-37471,2026,Rivian Automotive L,Rivian,R1T All-Terrain Performance Dual Large Plus (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,76,67,72,292.0,,,1200,0,9,2025-05-15
+EV-37463,2026,Rivian Automotive L,Rivian,R1T All-Terrain Performance Dual Max (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,82,73,78,370.0,,,1100,0,9,2025-05-15
+EV-37479,2026,Rivian Automotive L,Rivian,R1T All-Terrain Tri Max (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,72,63,68,329.0,,,1250,0,9,2025-05-15
+EV-37483,2026,Rivian Automotive L,Rivian,R1T Dual Large (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,85,72,79,300.0,,,1100,0,9,2025-05-15
+EV-37481,2026,Rivian Automotive L,Rivian,R1T Dual Large (22in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,94,77,85,329.0,,,1000,0,9,2025-05-15
+EV-37473,2026,Rivian Automotive L,Rivian,R1T Dual Large Plus (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,85,72,78,317.0,,,1100,0,9,2025-05-15
+EV-37465,2026,Rivian Automotive L,Rivian,R1T Dual Large Plus (22in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,89,75,82,330.0,,,1050,0,9,2025-05-15
+EV-37453,2026,Rivian Automotive L,Rivian,R1T Dual Max (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,86,74,80,380.0,,,1050,0,9,2025-05-15
+EV-37455,2026,Rivian Automotive L,Rivian,R1T Dual Max (22in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,93,80,87,420.0,,,1000,0,9,2025-05-15
+EV-37451,2026,Rivian Automotive L,Rivian,R1T Dual Standard (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,85,72,79,258.0,,,1100,0,9,2025-05-15
+EV-37449,2026,Rivian Automotive L,Rivian,R1T Dual Standard (22in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,92,77,85,270.0,,,1000,0,9,2025-05-15
+EV-37489,2026,Rivian Automotive L,Rivian,R1T Performance Dual Large (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,85,72,79,300.0,,,1100,0,9,2025-05-15
+EV-37487,2026,Rivian Automotive L,Rivian,R1T Performance Dual Large (22in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,94,77,85,329.0,,,1000,0,9,2025-05-15
+EV-37475,2026,Rivian Automotive L,Rivian,R1T Performance Dual Large Plus (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,85,72,78,317.0,,,1100,0,9,2025-05-15
+EV-37469,2026,Rivian Automotive L,Rivian,R1T Performance Dual Large Plus (22in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,89,75,82,330.0,,,1050,0,9,2025-05-15
+EV-37459,2026,Rivian Automotive L,Rivian,R1T Performance Dual Max (20in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,86,74,80,380.0,,,1050,0,9,2025-05-15
+EV-37461,2026,Rivian Automotive L,Rivian,R1T Performance Dual Max (22in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,93,80,87,420.0,,,1000,0,9,2025-05-15
+EV-37448,2026,Rivian Automotive L,Rivian,R1T Quad Max (20in AT),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,71,63,67,325.0,,,1300,0,9,2025-06-09
+EV-37447,2026,Rivian Automotive L,Rivian,R1T Quad Max (22in UHP),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,75,67,71,338.0,,,1200,0,9,2025-06-09
+EV-37444,2026,Rivian Automotive L,Rivian,R1T Quad Max (22in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,80,71,76,374.0,,,1150,0,9,2025-06-30
+EV-37477,2026,Rivian Automotive L,Rivian,R1T Tri Max (22in),Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,81,70,76,371.0,,,1150,0,9,2025-05-15
+EV-37544,2026,Rivian Automotive L,Rivian,R1S All-Terrain Dual Large (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,82,70,76,289.0,,,1150,0,9,2025-05-15
+EV-37468,2026,Rivian Automotive L,Rivian,R1S All-Terrain Dual Large Plus (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,76,67,72,292.0,,,1200,0,9,2025-05-15
+EV-37458,2026,Rivian Automotive L,Rivian,R1S All-Terrain Dual Max (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,82,73,78,370.0,,,1100,0,9,2025-05-15
+EV-37464,2026,Rivian Automotive L,Rivian,R1S All-Terrain Performance  Dual Max (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,82,73,78,370.0,,,1100,0,9,2025-05-15
+EV-37545,2026,Rivian Automotive L,Rivian,R1S All-Terrain Performance Dual Large (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,82,70,76,289.0,,,1150,0,9,2025-05-15
+EV-37472,2026,Rivian Automotive L,Rivian,R1S All-Terrain Performance Dual Large Plus (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,76,67,72,292.0,,,1200,0,9,2025-05-15
+EV-37480,2026,Rivian Automotive L,Rivian,R1S All-Terrain Tri Max (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,72,63,68,329.0,,,1250,0,9,2025-05-15
+EV-37484,2026,Rivian Automotive L,Rivian,R1S Dual Large (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,85,72,79,300.0,,,1100,0,9,2025-05-15
+EV-37482,2026,Rivian Automotive L,Rivian,R1S Dual Large (22in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,94,77,85,329.0,,,1000,0,9,2025-05-15
+EV-37474,2026,Rivian Automotive L,Rivian,R1S Dual Large Plus (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,85,72,78,317.0,,,1100,0,9,2025-05-15
+EV-37466,2026,Rivian Automotive L,Rivian,R1S Dual Large Plus (22in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,89,75,82,330.0,,,1050,0,9,2025-05-15
+EV-37454,2026,Rivian Automotive L,Rivian,R1S Dual Max (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,86,74,80,380.0,,,1050,0,9,2025-05-15
+EV-37456,2026,Rivian Automotive L,Rivian,R1S Dual Max (22in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,91,77,84,410.0,,,1000,0,9,2025-05-15
+EV-37452,2026,Rivian Automotive L,Rivian,R1S Dual Standard (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,85,72,79,258.0,,,1100,0,9,2025-05-15
+EV-37450,2026,Rivian Automotive L,Rivian,R1S Dual Standard (22in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,92,77,85,270.0,,,1000,0,9,2025-05-15
+EV-37490,2026,Rivian Automotive L,Rivian,R1S Performance Dual Large (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,85,72,79,300.0,,,1100,0,9,2025-05-15
+EV-37488,2026,Rivian Automotive L,Rivian,R1S Performance Dual Large (22in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,94,77,85,329.0,,,1000,0,9,2025-05-15
+EV-37476,2026,Rivian Automotive L,Rivian,R1S Performance Dual Large Plus (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,85,72,78,317.0,,,1100,0,9,2025-05-15
+EV-37470,2026,Rivian Automotive L,Rivian,R1S Performance Dual Large Plus (22in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,89,75,82,330.0,,,1050,0,9,2025-05-15
+EV-37460,2026,Rivian Automotive L,Rivian,R1S Performance Dual Max (20in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,86,74,80,380.0,,,1050,0,9,2025-05-15
+EV-37462,2026,Rivian Automotive L,Rivian,R1S Performance Dual Max (22in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),Part-time 4-Wheel Drive,,91,77,84,410.0,,,1000,0,9,2025-05-15
+EV-37446,2026,Rivian Automotive L,Rivian,R1S Quad Max (20in AT),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,71,63,67,325.0,,,1300,0,9,2025-06-09
+EV-37445,2026,Rivian Automotive L,Rivian,R1S Quad Max (22in UHP),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,75,67,71,338.0,,,1200,0,9,2025-06-09
+EV-37443,2026,Rivian Automotive L,Rivian,R1S Quad Max (22in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,80,71,76,374.0,,,1150,0,9,2025-06-30
+EV-37478,2026,Rivian Automotive L,Rivian,R1S Tri Max (22in),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),4-Wheel Drive,,81,70,76,371.0,,,1150,0,9,2025-05-15
+EV-37216,2026,Rolls-Royce,Rolls-Royce Motor Cars Limited,Black Badge Spectre (22'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,10.0,70,80,74,266.0,,,1150,0,9,2025-08-01
+EV-37217,2026,Rolls-Royce,Rolls-Royce Motor Cars Limited,Black Badge Spectre (23'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,10.0,67,74,70,251.0,,,1250,0,9,2025-08-01
+EV-37190,2026,Rolls-Royce,Rolls-Royce Motor Cars Limited,Spectre (22'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,10.0,74,82,77,277.0,,,1100,0,9,2025-08-01
+EV-37199,2026,Rolls-Royce,Rolls-Royce Motor Cars Limited,Spectre (23'' Wheels),Compact Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,10.0,67,75,70,253.0,,,1200,0,9,2025-08-01
+EV-38184,2026,Subaru,Subaru,UNCHARTED,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",,140,118,129,308.0,,,650,0,10,2026-02-26
+EV-37299,2026,Subaru,Subaru,SOLTERRA 20 AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,128,105,117,278.0,,,750,0,9,2025-08-25
+EV-37314,2026,Subaru,Subaru,SOLTERRA AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,131,109,120,288.0,,,700,0,9,2025-08-25
+EV-38183,2026,Subaru,Subaru,TRAILSEEKER 20inch AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,125,103,114,274.0,,,750,0,9,2026-03-02
+EV-38182,2026,Subaru,Subaru,TRAILSEEKER AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,126,107,117,281.0,,,750,0,9,2026-03-02
+EV-38186,2026,Subaru,Subaru,UNCHARTED 20inch AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,123,101,112,273.0,,,750,0,9,2026-02-26
+EV-38185,2026,Subaru,Subaru,UNCHARTED AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,127,106,117,287.0,,,750,0,9,2026-02-26
+EV-37825,2026,Tesla,Tesla Motors,Model 3 Performance,Midsize Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,15.0,120,107,114,309.0,,,750,0,9,2025-10-24
+EV-38115,2026,Tesla,Tesla Motors,Model 3 Performance AWD,Midsize Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,15.0,117,106,111,314.0,,,750,0,9,2026-01-05
+EV-37781,2026,Tesla,Tesla Motors,Model 3 Premium AWD,Midsize Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,15.0,133,122,128,346.0,,,650,0,10,2025-10-01
+EV-37780,2026,Tesla,Tesla Motors,Model 3 Premium RWD,Midsize Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",15.0,145,128,137,363.0,,,650,0,10,2025-10-01
+EV-38174,2026,Tesla,Tesla Motors,Model 3 Standard RWD,Midsize Cars,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",15.0,147,130,139,321.0,,,600,0,10,2025-12-15
+EV-36579,2026,Tesla,Tesla Motors,Model S,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,132,116,124,410.0,,,700,0,10,2025-06-02
+EV-36726,2026,Tesla,Tesla Motors,Model S Plaid,Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,114,105,110,368.0,,,800,0,9,2025-06-02
+EV-37845,2026,Tesla,Tesla Motors,Model S Plaid (21in Wheels),Large Cars,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,26.0,97,89,93,309.0,,,900,0,9,2025-10-24
+EV-37864,2026,Tesla,Tesla Motors,Cybertruck Long Range (20in Cyber wheels),Standard Pick-up Trucks 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,89,67,78,335.0,,,1100,0,9,2025-10-23
+EV-38233,2026,Tesla,Tesla Motors,Cybertruck AWD,Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,85,72,79,325.0,,,1100,0,9,2026-02-23
+EV-38486,2026,Tesla,Tesla Motors,Cybertruck Dual Motor AWD,Standard Pick-up Trucks 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,87,70,78,325.0,,,1100,0,9,2026-05-04
+EV-38074,2026,Tesla,Tesla Motors,Model Y Long Range RWD,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,144,123,134,357.0,,,650,0,10,2025-05-01
+EV-38175,2026,Tesla,Tesla Motors,Model Y Standard RWD (18in Wheels),Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,148,129,138,321.0,,,600,0,10,2025-10-01
+EV-38228,2026,Tesla,Tesla Motors,Model Y Standard RWD (19in Wheels),Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,142,120,131,303.0,,,650,0,10,2025-10-01
+EV-38075,2026,Tesla,Tesla Motors,Model Y Long Range AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,130,115,123,327.0,,,700,0,10,2025-02-11
+EV-37824,2026,Tesla,Tesla Motors,Model Y Performance,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,111,100,105,306.0,,,800,0,9,2025-12-01
+EV-38177,2026,Tesla,Tesla Motors,Model Y Standard AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,133,120,127,294.0,,,700,0,10,2026-01-26
+EV-36970,2026,Tesla,Tesla Motors,Model X,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,110,99,105,352.0,,,800,0,9,2025-06-02
+EV-36971,2026,Tesla,Tesla Motors,Model X Plaid,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,105,94,100,335.0,,,850,0,9,2025-06-02
+EV-37612,2026,Toyota,TOYOTA,bZ,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",,144,117,130,236.0,,,650,0,10,2025-09-12
+EV-37837,2026,Toyota,TOYOTA,bZ,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",,143,119,131,314.0,,,650,0,10,2025-09-12
+EV-37619,2026,Toyota,TOYOTA,bZ LIMITED,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",,134,111,123,296.0,,,700,0,10,2025-09-12
+EV-37836,2026,Toyota,TOYOTA,bZ LIMITED,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Front",,138,113,125,299.0,,,700,0,10,2025-09-12
+EV-37616,2026,Toyota,TOYOTA,bZ AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,131,109,120,288.0,,,700,0,9,2025-09-12
+EV-37618,2026,Toyota,TOYOTA,bZ AWD LIMITED,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,128,105,117,278.0,,,750,0,9,2025-09-12
+EV-38200,2026,Toyota,TOYOTA,bZ WOODLAND AWD 235/60R18,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,127,107,117,281.0,,,750,0,9,2026-02-17
+EV-38204,2026,Toyota,TOYOTA,bZ WOODLAND AWD 235/65R18,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,117,100,109,260.0,,,800,0,9,2026-02-17
+EV-38203,2026,Toyota,TOYOTA,C-HR AWD 18inch,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,127,107,117,287.0,,,750,0,9,2026-02-25
+EV-38202,2026,Toyota,TOYOTA,C-HR AWD 20inch,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,122,102,112,273.0,,,750,0,9,2026-02-25
+EV-37849,2026,Volkswagen Group of,Volkswagen,ID. Buzz,"Special Purpose Vehicle, minivan 2WD",Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,90,75,83,234.0,,,1050,0,9,2025-10-17
+EV-37850,2026,Volkswagen Group of,Volkswagen,ID. Buzz 4Motion,"Special Purpose Vehicle, minivan 4WD",Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,87,74,80,231.0,,,1050,0,9,2025-10-17
+EV-37563,2026,Volkswagen Group of,Volkswagen,ID.4,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",30.0,122,104,113,291.0,,,750,0,9,2025-09-09
+EV-37562,2026,Volkswagen Group of,Volkswagen,ID.4 AWD,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,30.0,108,96,102,263.0,,,850,0,9,2025-09-09
+EV-36359,2026,Volvo,"Volvo Cars of North America, LLC",EC40,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,118,95,106,298.0,,,800,0,9,2025-05-23
+EV-37346,2026,Volvo,"Volvo Cars of North America, LLC",EX30 Single motor extended range,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,127,104,116,261.0,,,750,0,9,2025-09-15
+EV-36358,2026,Volvo,"Volvo Cars of North America, LLC",EX40,Small SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,118,94,106,296.0,,,800,0,9,2025-05-23
+EV-36357,2026,Volvo,"Volvo Cars of North America, LLC",EC40 Twin,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,105,88,97,268.0,,,900,0,9,2025-05-23
+EV-37347,2026,Volvo,"Volvo Cars of North America, LLC",EX30 Cross Country (18 Inch wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,95,83,89,203.0,,,950,0,9,2025-09-15
+EV-37348,2026,Volvo,"Volvo Cars of North America, LLC",EX30 Cross Country (19 Inch wheels),Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,106,92,99,227.0,,,850,0,9,2025-09-15
+EV-37345,2026,Volvo,"Volvo Cars of North America, LLC",EX30 Twin Performance,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,116,100,109,253.0,,,800,0,9,2025-09-15
+EV-36356,2026,Volvo,"Volvo Cars of North America, LLC",EX40 Twin,Small SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,103,85,94,260.0,,,900,0,9,2025-05-23
+EV-37789,2026,Volvo,"Volvo Cars of North America, LLC",EX90,Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,97,86,92,276.0,,,950,0,9,2025-12-10
+EV-37846,2026,Volvo,"Volvo Cars of North America, LLC",EX90 (21 Inch wheels),Standard SUV 2WD,Electric (EV),Electricity,,,Auto(A1),"2-Wheel Drive, Rear",,104,91,98,291.0,,,900,0,9,2025-12-10
+EV-37765,2026,Volvo,"Volvo Cars of North America, LLC",EX90 Twin Motor,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,90,82,86,298.0,,,1000,0,9,2025-12-10
+EV-37767,2026,Volvo,"Volvo Cars of North America, LLC",EX90 Twin Motor (21 inch Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,92,84,88,305.0,,,1000,0,9,2025-12-10
+EV-37766,2026,Volvo,"Volvo Cars of North America, LLC",EX90 Twin Motor Performance,Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,90,82,86,298.0,,,1000,0,9,2025-12-10
+EV-37768,2026,Volvo,"Volvo Cars of North America, LLC",EX90 Twin Motor Performance (21 inch Wheels),Standard SUV 4WD,Electric (EV),Electricity,,,Auto(A1),All Wheel Drive,,92,84,88,305.0,,,1000,0,9,2025-12-10
+FCV-37934,2026,Hyundai,HYUNDAI MOTOR COMPANY,NEXO,Small SUV 2WD,Hydrogen Fuel Cell,Hydrogen,,,Auto(A1),"2-Wheel Drive, Front",35.0,63,58,60,395.0,,,1400,0,8,2025-11-15
+FCV-37935,2026,Hyundai,HYUNDAI MOTOR COMPANY,NEXO Blue,Small SUV 2WD,Hydrogen Fuel Cell,Hydrogen,,,Auto(A1),"2-Wheel Drive, Front",35.0,71,64,68,442.0,,,1250,0,9,2025-11-15
+FCV-38169,2026,Toyota,TOYOTA,MIRAI,Compact Cars,Hydrogen Fuel Cell,Hydrogen,,,Auto(AV),"2-Wheel Drive, Rear",10.0,76,71,74,402.0,,,1150,0,9,2025-01-07
+PHEV-38234,2026,Aston Martin Lagonda Ltd,ALFA ROMEO,Tonale eAWD,Two Seaters,Plug-in Hybrid (PHEV),Gasoline,1.3,4,Auto(A6),All Wheel Drive,,14,19,16,275.0,6.0,17.0,3700,569,3,2026-01-06
+PHEV-36997,2026,Volkswagen Group of America,Bentley,Bentayga Hybrid,Standard SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(S8),All Wheel Drive,,19,23,21,420.0,21.0,29.0,2500,206,6,2025-07-25
+PHEV-36698,2026,Volkswagen Group of America,Bentley,Bentayga Hybrid,Subcompact Cars,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(S8),All Wheel Drive,11.0,17,22,19,410.0,30.0,32.0,2400,161,6,2025-06-06
+PHEV-36699,2026,Volkswagen Group of America,Bentley,Bentayga Hybrid,Minicompact Cars,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(S8),All Wheel Drive,6.0,17,22,19,410.0,30.0,32.0,2400,161,6,2025-06-06
+PHEV-36701,2026,Volkswagen Group of America,Bentley,Bentayga Hybrid,Midsize Cars,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(S8),All Wheel Drive,13.0,17,22,19,410.0,30.0,32.0,2400,161,6,2025-06-06
+PHEV-36752,2026,Volkswagen Group of America,Bentley,Bentayga Hybrid,Standard SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(S8),4-Wheel Drive,16.0,19,21,20,415.0,35.0,26.0,2300,452,6,2025-06-13
+PHEV-37779,2026,Volkswagen Group of America,Bentley,Bentayga Hybrid,Two Seaters,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(S8),All Wheel Drive,,10,17,12,232.0,5.0,23.0,4750,753,1,2025-08-31
+PHEV-37843,2026,Volkswagen Group of America,Bentley,Bentayga Hybrid,Two Seaters,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(S8),All Wheel Drive,,14,19,16,298.0,4.0,24.0,3650,556,3,2025-10-14
+PHEV-36439,2026,BMW,BMW,550e xDrive Sedan,Midsize Cars,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(S8),All Wheel Drive,14.0,22,28,25,399.0,34.0,41.0,1750,353,7,2025-04-01
+PHEV-36629,2026,BMW,BMW,M5 Sedan,Midsize Cars,Plug-in Hybrid (PHEV),Gasoline,4.4,8,Auto(S8),All Wheel Drive,13.0,12,19,14,254.0,29.0,25.0,2800,608,5,2025-04-01
+PHEV-36913,2026,BMW,BMW,750e xDrive Sedan,Midsize Station Wagons,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(S8),All Wheel Drive,27.0,11,17,13,241.0,25.0,22.0,3000,649,4,2025-08-01
+PHEV-36895,2026,BMW,BMW,750e xDrive Sedan,Large Cars,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(S8),All Wheel Drive,14.0,23,26,24,420.0,35.0,41.0,1700,359,7,2025-08-01
+PHEV-36609,2026,BMW,BMW,X5 xDrive50e,Standard SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(S8),All Wheel Drive,,21,23,22,401.0,40.0,38.0,1900,397,7,2025-04-01
+PHEV-36815,2026,BMW,BMW,XM Label,Standard SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,4.4,8,Auto(S8),All Wheel Drive,,12,17,14,270.0,30.0,23.0,2900,632,5,2025-08-01
+PHEV-37060,2026,FCA US LLC,Chrysler,Pacifica Hybrid,"Special Purpose Vehicle, minivan 2WD",Plug-in Hybrid (PHEV),Gasoline,3.6,6,Auto(AV),"2-Wheel Drive, Front",,29,30,30,487.0,32.0,48.0,1300,300,8,2025-07-21
+PHEV-37631,2026,Ferrari,"Ferrari North America, Inc.",296 GTB,Two Seaters,Plug-in Hybrid (PHEV),Gasoline,2.9,6,Auto(AM-S8),"2-Wheel Drive, Rear",5.0,16,22,18,340.0,8.0,20.0,3100,494,4,2025-09-30
+PHEV-37630,2026,Ferrari,"Ferrari North America, Inc.",296 GTS,Two Seaters,Plug-in Hybrid (PHEV),Gasoline,2.9,6,Auto(AM-S8),"2-Wheel Drive, Rear",5.0,15,21,18,320.0,8.0,20.0,3150,502,4,2025-09-30
+PHEV-38063,2026,Ferrari,"Ferrari North America, Inc.",SF90 Spider,Two Seaters,Plug-in Hybrid (PHEV),Gasoline,3.9,8,Auto(AM8),"2-Wheel Drive, Rear",9.0,16,22,18,320.0,8.0,20.0,3100,490,4,2026-01-01
+PHEV-38064,2026,Ferrari,"Ferrari North America, Inc.",SF90 XX Spider,Two Seaters,Plug-in Hybrid (PHEV),Gasoline,3.9,8,Auto(AM8),"2-Wheel Drive, Rear",9.0,16,22,18,320.0,8.0,20.0,3100,490,4,2026-01-01
+PHEV-37774,2026,Ford Motor Company,Ford,ESCAPE FWD PHEV,Small SUV 2WD,Plug-in Hybrid (PHEV),Gasoline,2.5,4,Auto(AV),"2-Wheel Drive, Front",,42,37,40,483.0,37.0,101.0,1000,222,8,2025-09-08
+PHEV-37531,2026,Honda,Honda,CR-V e-FCEV,Midsize Station Wagons,Plug-in Hybrid (PHEV),Hydrogen,,,Auto(A1),"2-Wheel Drive, Front",30.0,62,54,58,240.0,29.0,71.0,2900,0,9,2025-12-01
+PHEV-37176,2026,Hyundai,HYUNDAI MOTOR COMPANY,Tucson Plug-in Hybrid,Small SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,1.6,4,Auto(AM-S6),All Wheel Drive,,35,35,35,387.0,32.0,51.0,1250,255,8,2025-08-15
+PHEV-36818,2026,Kia,KIA,Niro Plug-in Hybrid,Small SUV 2WD,Plug-in Hybrid (PHEV),Gasoline,1.6,4,Auto(AM-S6),"2-Wheel Drive, Front",19.0,49,47,48,473.0,34.0,73.0,900,183,9,2025-07-01
+PHEV-36918,2026,Kia,KIA,Sorento Plug-in Hybrid,Small SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,1.6,4,Auto(AM-S6),All Wheel Drive,,33,34,33,414.0,30.0,49.0,1300,266,8,2025-07-01
+PHEV-37078,2026,Kia,KIA,Sportage Plug-in Hybrid,Small SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,1.6,4,Auto(AM-S6),All Wheel Drive,,35,36,36,441.0,33.0,54.0,1200,249,8,2025-07-01
+PHEV-37442,2026,Ford Motor Company,Lincoln,CORSAIR AWD PHEV,Small SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,2.5,4,Auto(AV),Part-time 4-Wheel Drive,,34,32,33,393.0,27.0,48.0,1300,268,6,2025-08-15
+PHEV-38091,2026,MAZDA,MAZDA,MAZDA CX-70 4WD,Standard SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,2.5,4,Auto(S8),4-Wheel Drive,,25,28,26,488.0,33.0,62.0,1800,134,7,2025-12-26
+PHEV-37533,2026,MAZDA,MAZDA,MAZDA CX-90 4WD,Standard SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,2.5,4,Auto(S8),4-Wheel Drive,,24,28,26,473.0,27.0,56.0,1900,349,7,2025-11-03
+PHEV-37543,2026,Mercedes-Benz,Mercedes-Benz,AMG E 53 HYBRID 4MATIC+,Midsize Cars,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(A9),All Wheel Drive,13.0,22,27,24,379.0,44.0,40.0,1800,376,7,2025-08-15
+PHEV-37555,2026,Mercedes-Benz,Mercedes-Benz,AMG E 53 HYBRID 4MATIC+,Midsize Station Wagons,Plug-in Hybrid (PHEV),Gasoline,3.0,6,Auto(A9),All Wheel Drive,33.0,21,25,22,360.0,41.0,38.0,1900,395,7,2025-09-09
+PHEV-38216,2026,Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander PHEV,Standard SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,2.4,4,Auto(A1),All Wheel Drive,,27,27,27,377.0,44.0,48.0,1400,330,8,2026-03-01
+PHEV-36338,2026,Volvo,"Volvo Cars of North America, LLC",XC60 T8 AWD,Small SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,2.0,4,Auto(S8),All Wheel Drive,,28,28,28,521.0,36.0,44.0,1600,318,7,2025-05-23
+PHEV-36360,2026,Volvo,"Volvo Cars of North America, LLC",XC90 T8 AWD,Standard SUV 4WD,Plug-in Hybrid (PHEV),Gasoline,2.0,4,Auto(S8),All Wheel Drive,,26,27,27,499.0,33.0,40.0,1750,333,7,2025-05-23
+PHEV-FCV-37531,2026,Honda,Honda,CR-V e-FCEV,Midsize Station Wagons,Plug-in Hydrogen Fuel Cell (PHEV-FCV),Hydrogen,,,Auto(A1),"2-Wheel Drive, Front",30.0,61,52,57,240.0,29.0,71.0,5550,0,9,2025-12-01
